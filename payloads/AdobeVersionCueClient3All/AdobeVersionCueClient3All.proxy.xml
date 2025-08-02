@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="1.0.130.0">
+  <BuildInfo>
+    <Property name="Created">2007-03-08 16:37:50.867000</Property>
+    <Property name="TargetName">AdobeVersionCueClient3All</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{de08a23f-60bd-41d3-b703-c1a7bfbc2614}</Property>
+    <Property name="ProductName">Adobe Version Cue CS3 Client</Property>
+    <Property name="ProductVersion">3</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]/Adobe Version Cue CS3/Client</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+    <Family>Creative Suites</Family>
+    <ProductName>Version Cue Client CS3</ProductName>
+  <ProductVersion>3</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{2e9e5a50-7e1e-11db-9fe1-0800200c9a66}</AdobeCode>
+    <AdobeCode>{fc02c322-69b8-11db-bd13-0800200c9a66}</AdobeCode>
+    <AdobeCode>{2bcef990-6818-11db-bd13-0800200c9a66}</AdobeCode>
+    <AdobeCode>{2fb2b060-6e8f-11db-9fe1-0800200c9a66}</AdobeCode>
+    <AdobeCode>{bb3ea5a0-7329-11db-9fe1-0800200c9a66}</AdobeCode>
+    <AdobeCode>{eb3b1d00-789d-11db-9fe1-0800200c9a66}</AdobeCode>
+    <AdobeCode>{2e9e5a55-7e1e-11db-9fe1-0800200c9a66}</AdobeCode>
+    <AdobeCode>{e1364910-8928-11db-b606-0800200c9a66}</AdobeCode>
+    <AdobeCode>{36809680-90ec-11db-b606-0800200c9a66}</AdobeCode>
+    <AdobeCode>{27b135d8-9afc-45d8-8577-e64723991551}</AdobeCode>
+    <AdobeCode>{57bdce78-a6df-46f7-b199-2263e42a7197}</AdobeCode>
+    <AdobeCode>{f82a9d0e-3ade-4e2d-b624-bba511982dac}</AdobeCode>
+    <AdobeCode>{8c21250b-e968-4a2e-b4be-57131de2fa07}</AdobeCode>
+    <AdobeCode>{029c0f20-b56e-4044-927a-01c6e7dac7ca}</AdobeCode>
+    <AdobeCode>{3cb75a61-196f-4f98-8c84-ab7166c9eaa6}</AdobeCode>
+    <AdobeCode>{06707a4f-2a8d-4b25-acb4-698f69638546}</AdobeCode>
+    <AdobeCode>{1427d4ec-ba95-48f2-bbc0-9b9877bb2e9e}</AdobeCode>
+    <AdobeCode>{8a5020ff-3e08-4d82-8bf6-c2f719041798}</AdobeCode>
+    <AdobeCode>{fe47f838-5921-410e-a5ea-34ae23c0d07b}</AdobeCode>
+    <AdobeCode>{f180e029-5dc1-4efb-b968-22f63537a259}</AdobeCode>
+    <AdobeCode>{1a80d9e7-32d2-4c4c-875a-2f2a5ed7cf79}</AdobeCode>
+    <AdobeCode>{3ce11635-7079-44f7-b032-63d49af89522}</AdobeCode>
+    <AdobeCode>{c23d4f2a-9ac9-4fc5-ad2f-a8d8824c4497}</AdobeCode>
+    <AdobeCode>{faf3510d-7798-400f-a501-14db98c44168}</AdobeCode>
+    <AdobeCode>{df7090e7-b150-48dd-a9e1-520b2476f390}</AdobeCode>
+    <AdobeCode>{1c650bc2-ebcf-41c5-8042-c8bd8a7bf0d4}</AdobeCode>
+    <AdobeCode>{fc723f25-c7b2-4f85-82c3-972ce7484b6a}</AdobeCode>
+    <AdobeCode>{3efd0e91-277b-463c-8ec3-680172b96907}</AdobeCode>
+    <AdobeCode>{45df00f8-3164-4cd9-be32-017ad1633ee3}</AdobeCode>
+    <AdobeCode>{5b673651-3825-48fc-ae87-b8522eb3785a}</AdobeCode>
+    <AdobeCode>{362d777c-a95c-4b23-b7e6-f776bb364f56}</AdobeCode>
+    <AdobeCode>{cc10f1d5-fd89-4f65-b9de-1440058e961f}</AdobeCode>
+    <AdobeCode>{7222f3a8-5911-4996-9b07-35cb05085cf8}</AdobeCode>
+    <AdobeCode>{52e0fe0d-053f-4e98-b80c-9d805720bd8a}</AdobeCode>
+    <AdobeCode>{17993711-1060-4893-a958-9fb548865cb4}</AdobeCode>
+    <AdobeCode>{2e561379-cb96-488e-a4e9-249fa12c8957}</AdobeCode>
+    <AdobeCode>{fba58602-03ce-4393-bf97-f47665921ef1}</AdobeCode>
+    <AdobeCode>{fe97b21d-1ebc-4b81-972d-5b2ca57033b4}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>22234323</TotalSize>
+      <MaxPathComponent>/Bridge CS3 Extensions/Adobe Version Cue Extension/resources/Dictionaries\versioncue_bridge_ar_ae.zstring</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">3</Value>
+      <Value lang="ar_AE">3</Value>
+      <Value lang="be_BY">3</Value>
+      <Value lang="bg_BG">3</Value>
+      <Value lang="ca_ES">3</Value>
+      <Value lang="zh_CN">3</Value>
+      <Value lang="zh_TW">3</Value>
+      <Value lang="hr_HR">3</Value>
+      <Value lang="cs_CZ">3</Value>
+      <Value lang="da_DK">3</Value>
+      <Value lang="nl_NL">3</Value>
+      <Value lang="en_XC">3</Value>
+      <Value lang="en_XM">3</Value>
+      <Value lang="en_GB">3</Value>
+      <Value lang="en_US">3</Value>
+      <Value lang="et_EE">3</Value>
+      <Value lang="fi_FI">3</Value>
+      <Value lang="fr_FR">3</Value>
+      <Value lang="fr_XM">3</Value>
+      <Value lang="de_DE">3</Value>
+      <Value lang="el_GR">3</Value>
+      <Value lang="he_IL">3</Value>
+      <Value lang="hu_HU">3</Value>
+      <Value lang="hi_IN">3</Value>
+      <Value lang="is_IS">3</Value>
+      <Value lang="it_IT">3</Value>
+      <Value lang="ja_JP">3</Value>
+      <Value lang="ko_KR">3</Value>
+      <Value lang="lv_LV">3</Value>
+      <Value lang="lt_LT">3</Value>
+      <Value lang="mk_MK">3</Value>
+      <Value lang="nn_NO">3</Value>
+      <Value lang="no_NO">3</Value>
+      <Value lang="nb_NO">3</Value>
+      <Value lang="pl_PL">3</Value>
+      <Value lang="pt_BR">3</Value>
+      <Value lang="ro_RO">3</Value>
+      <Value lang="ru_RU">3</Value>
+      <Value lang="sh_YU">3</Value>
+      <Value lang="sk_SK">3</Value>
+      <Value lang="sl_SI">3</Value>
+      <Value lang="es_QM">3</Value>
+      <Value lang="es_ES">3</Value>
+      <Value lang="sv_SE">3</Value>
+      <Value lang="th_TH">3</Value>
+      <Value lang="tr_TR">3</Value>
+      <Value lang="uk_UA">3</Value>
+      <Value lang="vi_VN">3</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Version Cue CS3 Client</Value>
+      <Value lang="ar_AE">Adobe Version Cue CS3 Client</Value>
+      <Value lang="be_BY">Adobe Version Cue CS3 Client</Value>
+      <Value lang="bg_BG">Adobe Version Cue CS3 Client</Value>
+      <Value lang="ca_ES">Adobe Version Cue CS3 Client</Value>
+      <Value lang="zh_CN">Adobe Version Cue CS3 Client</Value>
+      <Value lang="zh_TW">Adobe Version Cue CS3 Client</Value>
+      <Value lang="hr_HR">Adobe Version Cue CS3 Client</Value>
+      <Value lang="cs_CZ">Adobe Version Cue CS3 Client</Value>
+      <Value lang="da_DK">Adobe Version Cue CS3 Client</Value>
+      <Value lang="nl_NL">Adobe Version Cue CS3 Client</Value>
+      <Value lang="en_XC">Adobe Version Cue CS3 Client</Value>
+      <Value lang="en_XM">Adobe Version Cue CS3 Client</Value>
+      <Value lang="en_GB">Adobe Version Cue CS3 Client</Value>
+      <Value lang="en_US">Adobe Version Cue CS3 Client</Value>
+      <Value lang="et_EE">Adobe Version Cue CS3 Client</Value>
+      <Value lang="fi_FI">Adobe Version Cue CS3 Client</Value>
+      <Value lang="fr_FR">Adobe Version Cue CS3 Client</Value>
+      <Value lang="fr_XM">Adobe Version Cue CS3 Client</Value>
+      <Value lang="de_DE">Adobe Version Cue CS3 Client</Value>
+      <Value lang="el_GR">Adobe Version Cue CS3 Client</Value>
+      <Value lang="he_IL">Adobe Version Cue CS3 Client</Value>
+      <Value lang="hu_HU">Adobe Version Cue CS3 Client</Value>
+      <Value lang="hi_IN">Adobe Version Cue CS3 Client</Value>
+      <Value lang="is_IS">Adobe Version Cue CS3 Client</Value>
+      <Value lang="it_IT">Adobe Version Cue CS3 Client</Value>
+      <Value lang="ja_JP">Adobe Version Cue CS3 Client</Value>
+      <Value lang="ko_KR">Adobe Version Cue CS3 Client</Value>
+      <Value lang="lv_LV">Adobe Version Cue CS3 Client</Value>
+      <Value lang="lt_LT">Adobe Version Cue CS3 Client</Value>
+      <Value lang="mk_MK">Adobe Version Cue CS3 Client</Value>
+      <Value lang="nn_NO">Adobe Version Cue CS3 Client</Value>
+      <Value lang="no_NO">Adobe Version Cue CS3 Client</Value>
+      <Value lang="nb_NO">Adobe Version Cue CS3 Client</Value>
+      <Value lang="pl_PL">Adobe Version Cue CS3 Client</Value>
+      <Value lang="pt_BR">Adobe Version Cue CS3 Client</Value>
+      <Value lang="ro_RO">Adobe Version Cue CS3 Client</Value>
+      <Value lang="ru_RU">Adobe Version Cue CS3 Client</Value>
+      <Value lang="sh_YU">Adobe Version Cue CS3 Client</Value>
+      <Value lang="sk_SK">Adobe Version Cue CS3 Client</Value>
+      <Value lang="sl_SI">Adobe Version Cue CS3 Client</Value>
+      <Value lang="es_QM">Adobe Version Cue CS3 Client</Value>
+      <Value lang="es_ES">Adobe Version Cue CS3 Client</Value>
+      <Value lang="sv_SE">Adobe Version Cue CS3 Client</Value>
+      <Value lang="th_TH">Adobe Version Cue CS3 Client</Value>
+      <Value lang="tr_TR">Adobe Version Cue CS3 Client</Value>
+      <Value lang="uk_UA">Adobe Version Cue CS3 Client</Value>
+      <Value lang="vi_VN">Adobe Version Cue CS3 Client</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

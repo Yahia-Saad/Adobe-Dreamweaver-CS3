@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.125.0" md5="2a2aca6195af1cf67b0817dc7f193bf4"><BuildInfo>
+    <Property name="Created">2007-03-02 09:44:37.772000</Property>
+    <Property name="TargetName">AdobeCameraRaw4.0All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{A874B792-CECE-448A-A05E-B73E2B29299B}</Property>
+    <Property name="ProductName">Adobe Camera Raw 4.0</Property>
+    <Property name="ProductVersion">4.0</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+	<Family>Shared Technology</Family>
+	<ProductName>Adobe Camera Raw</ProductName>
+<ProductVersion>4.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">4.0</Value>
+      <Value lang="ar_AE">4.0</Value>
+      <Value lang="be_BY">4.0</Value>
+      <Value lang="bg_BG">4.0</Value>
+      <Value lang="ca_ES">4.0</Value>
+      <Value lang="zh_CN">4.0</Value>
+      <Value lang="zh_TW">4.0</Value>
+      <Value lang="hr_HR">4.0</Value>
+      <Value lang="cs_CZ">4.0</Value>
+      <Value lang="da_DK">4.0</Value>
+      <Value lang="nl_NL">4.0</Value>
+      <Value lang="en_XC">4.0</Value>
+      <Value lang="en_XM">4.0</Value>
+      <Value lang="en_GB">4.0</Value>
+      <Value lang="en_US">4.0</Value>
+      <Value lang="et_EE">4.0</Value>
+      <Value lang="fi_FI">4.0</Value>
+      <Value lang="fr_FR">4.0</Value>
+      <Value lang="fr_XM">4.0</Value>
+      <Value lang="de_DE">4.0</Value>
+      <Value lang="el_GR">4.0</Value>
+      <Value lang="he_IL">4.0</Value>
+      <Value lang="hu_HU">4.0</Value>
+      <Value lang="hi_IN">4.0</Value>
+      <Value lang="is_IS">4.0</Value>
+      <Value lang="it_IT">4.0</Value>
+      <Value lang="ja_JP">4.0</Value>
+      <Value lang="ko_KR">4.0</Value>
+      <Value lang="lv_LV">4.0</Value>
+      <Value lang="lt_LT">4.0</Value>
+      <Value lang="mk_MK">4.0</Value>
+      <Value lang="nn_NO">4.0</Value>
+      <Value lang="no_NO">4.0</Value>
+      <Value lang="nb_NO">4.0</Value>
+      <Value lang="pl_PL">4.0</Value>
+      <Value lang="pt_BR">4.0</Value>
+      <Value lang="ro_RO">4.0</Value>
+      <Value lang="ru_RU">4.0</Value>
+      <Value lang="sh_YU">4.0</Value>
+      <Value lang="sk_SK">4.0</Value>
+      <Value lang="sl_SI">4.0</Value>
+      <Value lang="es_QM">4.0</Value>
+      <Value lang="es_ES">4.0</Value>
+      <Value lang="sv_SE">4.0</Value>
+      <Value lang="th_TH">4.0</Value>
+      <Value lang="tr_TR">4.0</Value>
+      <Value lang="uk_UA">4.0</Value>
+      <Value lang="vi_VN">4.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Camera Raw 4.0</Value>
+      <Value lang="ar_AE">Adobe Camera Raw 4.0</Value>
+      <Value lang="be_BY">Adobe Camera Raw 4.0</Value>
+      <Value lang="bg_BG">Adobe Camera Raw 4.0</Value>
+      <Value lang="ca_ES">Adobe Camera Raw 4.0</Value>
+      <Value lang="zh_CN">Adobe Camera Raw 4.0</Value>
+      <Value lang="zh_TW">Adobe Camera Raw 4.0</Value>
+      <Value lang="hr_HR">Adobe Camera Raw 4.0</Value>
+      <Value lang="cs_CZ">Adobe Camera Raw 4.0</Value>
+      <Value lang="da_DK">Adobe Camera Raw 4.0</Value>
+      <Value lang="nl_NL">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_XC">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_XM">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_GB">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_US">Adobe Camera Raw 4.0</Value>
+      <Value lang="et_EE">Adobe Camera Raw 4.0</Value>
+      <Value lang="fi_FI">Adobe Camera Raw 4.0</Value>
+      <Value lang="fr_FR">Adobe Camera Raw 4.0</Value>
+      <Value lang="fr_XM">Adobe Camera Raw 4.0</Value>
+      <Value lang="de_DE">Adobe Camera Raw 4.0</Value>
+      <Value lang="el_GR">Adobe Camera Raw 4.0</Value>
+      <Value lang="he_IL">Adobe Camera Raw 4.0</Value>
+      <Value lang="hu_HU">Adobe Camera Raw 4.0</Value>
+      <Value lang="hi_IN">Adobe Camera Raw 4.0</Value>
+      <Value lang="is_IS">Adobe Camera Raw 4.0</Value>
+      <Value lang="it_IT">Adobe Camera Raw 4.0</Value>
+      <Value lang="ja_JP">Adobe Camera Raw 4.0</Value>
+      <Value lang="ko_KR">Adobe Camera Raw 4.0</Value>
+      <Value lang="lv_LV">Adobe Camera Raw 4.0</Value>
+      <Value lang="lt_LT">Adobe Camera Raw 4.0</Value>
+      <Value lang="mk_MK">Adobe Camera Raw 4.0</Value>
+      <Value lang="nn_NO">Adobe Camera Raw 4.0</Value>
+      <Value lang="no_NO">Adobe Camera Raw 4.0</Value>
+      <Value lang="nb_NO">Adobe Camera Raw 4.0</Value>
+      <Value lang="pl_PL">Adobe Camera Raw 4.0</Value>
+      <Value lang="pt_BR">Adobe Camera Raw 4.0</Value>
+      <Value lang="ro_RO">Adobe Camera Raw 4.0</Value>
+      <Value lang="ru_RU">Adobe Camera Raw 4.0</Value>
+      <Value lang="sh_YU">Adobe Camera Raw 4.0</Value>
+      <Value lang="sk_SK">Adobe Camera Raw 4.0</Value>
+      <Value lang="sl_SI">Adobe Camera Raw 4.0</Value>
+      <Value lang="es_QM">Adobe Camera Raw 4.0</Value>
+      <Value lang="es_ES">Adobe Camera Raw 4.0</Value>
+      <Value lang="sv_SE">Adobe Camera Raw 4.0</Value>
+      <Value lang="th_TH">Adobe Camera Raw 4.0</Value>
+      <Value lang="tr_TR">Adobe Camera Raw 4.0</Value>
+      <Value lang="uk_UA">Adobe Camera Raw 4.0</Value>
+      <Value lang="vi_VN">Adobe Camera Raw 4.0</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

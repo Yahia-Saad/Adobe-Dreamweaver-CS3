@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+	padding: 0px;
+
+	width: 400px;
+
+	font-family: "Lucida Grande", "Lucida Sans", Tahoma, Helvetica, Arial, sans-serif;
+	background-color: #f1f1f1;
+}
+
+#alert {
+	margin: 15px;
+	top: 0px;
+	padding-top: 15px;
+	margin-top: 0px;
+	font-size: 11px;
+}
+
+#alert h1 {
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 14px;
+	margin-top: 0px;
+}	
+
+#alertButtons {
+	font-weight: bold;
+	text-align: right;
+	width: 370px;
+	padding: 0px;
+	margin-top: 20px;
+}	
+
+#alertButtons input {
+	text-align: center;
+	margin: 0px;
+	margin-left: 10px;
+}	

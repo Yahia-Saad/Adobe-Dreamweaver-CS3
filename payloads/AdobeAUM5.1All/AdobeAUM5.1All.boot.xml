@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.125.0" md5="52b3d19261f517135ec113be7efe45a7"><BuildInfo>
+    <Property name="Created">2007-02-28 23:07:02.302000</Property>
+    <Property name="TargetName">AdobeAUM5.1All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{FA70D08A-5D90-496D-AF9A-9DBCEE4FC005}</Property>
+    <Property name="ProductName">Adobe Update Manager CS3</Property>
+    <Property name="ProductVersion">5.1.0</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>AdobeAUM</ProductName>
+	<ProductVersion>5.1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">5.1.0</Value>
+      <Value lang="ar_AE">5.1.0</Value>
+      <Value lang="be_BY">5.1.0</Value>
+      <Value lang="bg_BG">5.1.0</Value>
+      <Value lang="ca_ES">5.1.0</Value>
+      <Value lang="zh_CN">5.1.0</Value>
+      <Value lang="zh_TW">5.1.0</Value>
+      <Value lang="hr_HR">5.1.0</Value>
+      <Value lang="cs_CZ">5.1.0</Value>
+      <Value lang="da_DK">5.1.0</Value>
+      <Value lang="nl_NL">5.1.0</Value>
+      <Value lang="en_XC">5.1.0</Value>
+      <Value lang="en_XM">5.1.0</Value>
+      <Value lang="en_GB">5.1.0</Value>
+      <Value lang="en_US">5.1.0</Value>
+      <Value lang="et_EE">5.1.0</Value>
+      <Value lang="fi_FI">5.1.0</Value>
+      <Value lang="fr_FR">5.1.0</Value>
+      <Value lang="fr_XM">5.1.0</Value>
+      <Value lang="de_DE">5.1.0</Value>
+      <Value lang="el_GR">5.1.0</Value>
+      <Value lang="he_IL">5.1.0</Value>
+      <Value lang="hu_HU">5.1.0</Value>
+      <Value lang="hi_IN">5.1.0</Value>
+      <Value lang="is_IS">5.1.0</Value>
+      <Value lang="it_IT">5.1.0</Value>
+      <Value lang="ja_JP">5.1.0</Value>
+      <Value lang="ko_KR">5.1.0</Value>
+      <Value lang="lv_LV">5.1.0</Value>
+      <Value lang="lt_LT">5.1.0</Value>
+      <Value lang="mk_MK">5.1.0</Value>
+      <Value lang="nn_NO">5.1.0</Value>
+      <Value lang="no_NO">5.1.0</Value>
+      <Value lang="nb_NO">5.1.0</Value>
+      <Value lang="pl_PL">5.1.0</Value>
+      <Value lang="pt_BR">5.1.0</Value>
+      <Value lang="ro_RO">5.1.0</Value>
+      <Value lang="ru_RU">5.1.0</Value>
+      <Value lang="sh_YU">5.1.0</Value>
+      <Value lang="sk_SK">5.1.0</Value>
+      <Value lang="sl_SI">5.1.0</Value>
+      <Value lang="es_QM">5.1.0</Value>
+      <Value lang="es_ES">5.1.0</Value>
+      <Value lang="sv_SE">5.1.0</Value>
+      <Value lang="th_TH">5.1.0</Value>
+      <Value lang="tr_TR">5.1.0</Value>
+      <Value lang="uk_UA">5.1.0</Value>
+      <Value lang="vi_VN">5.1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Update Manager CS3</Value>
+      <Value lang="ar_AE">Adobe Update Manager CS3</Value>
+      <Value lang="be_BY">Adobe Update Manager CS3</Value>
+      <Value lang="bg_BG">Adobe Update Manager CS3</Value>
+      <Value lang="ca_ES">Adobe Update Manager CS3</Value>
+      <Value lang="zh_CN">Adobe Update Manager CS3</Value>
+      <Value lang="zh_TW">Adobe Update Manager CS3</Value>
+      <Value lang="hr_HR">Adobe Update Manager CS3</Value>
+      <Value lang="cs_CZ">Adobe Update Manager CS3</Value>
+      <Value lang="da_DK">Adobe Update Manager CS3</Value>
+      <Value lang="nl_NL">Adobe Update Manager CS3</Value>
+      <Value lang="en_XC">Adobe Update Manager CS3</Value>
+      <Value lang="en_XM">Adobe Update Manager CS3</Value>
+      <Value lang="en_GB">Adobe Update Manager CS3</Value>
+      <Value lang="en_US">Adobe Update Manager CS3</Value>
+      <Value lang="et_EE">Adobe Update Manager CS3</Value>
+      <Value lang="fi_FI">Adobe Update Manager CS3</Value>
+      <Value lang="fr_FR">Adobe Update Manager CS3</Value>
+      <Value lang="fr_XM">Adobe Update Manager CS3</Value>
+      <Value lang="de_DE">Adobe Update Manager CS3</Value>
+      <Value lang="el_GR">Adobe Update Manager CS3</Value>
+      <Value lang="he_IL">Adobe Update Manager CS3</Value>
+      <Value lang="hu_HU">Adobe Update Manager CS3</Value>
+      <Value lang="hi_IN">Adobe Update Manager CS3</Value>
+      <Value lang="is_IS">Adobe Update Manager CS3</Value>
+      <Value lang="it_IT">Adobe Update Manager CS3</Value>
+      <Value lang="ja_JP">Adobe Update Manager CS3</Value>
+      <Value lang="ko_KR">Adobe Update Manager CS3</Value>
+      <Value lang="lv_LV">Adobe Update Manager CS3</Value>
+      <Value lang="lt_LT">Adobe Update Manager CS3</Value>
+      <Value lang="mk_MK">Adobe Update Manager CS3</Value>
+      <Value lang="nn_NO">Adobe Update Manager CS3</Value>
+      <Value lang="no_NO">Adobe Update Manager CS3</Value>
+      <Value lang="nb_NO">Adobe Update Manager CS3</Value>
+      <Value lang="pl_PL">Adobe Update Manager CS3</Value>
+      <Value lang="pt_BR">Adobe Update Manager CS3</Value>
+      <Value lang="ro_RO">Adobe Update Manager CS3</Value>
+      <Value lang="ru_RU">Adobe Update Manager CS3</Value>
+      <Value lang="sh_YU">Adobe Update Manager CS3</Value>
+      <Value lang="sk_SK">Adobe Update Manager CS3</Value>
+      <Value lang="sl_SI">Adobe Update Manager CS3</Value>
+      <Value lang="es_QM">Adobe Update Manager CS3</Value>
+      <Value lang="es_ES">Adobe Update Manager CS3</Value>
+      <Value lang="sv_SE">Adobe Update Manager CS3</Value>
+      <Value lang="th_TH">Adobe Update Manager CS3</Value>
+      <Value lang="tr_TR">Adobe Update Manager CS3</Value>
+      <Value lang="uk_UA">Adobe Update Manager CS3</Value>
+      <Value lang="vi_VN">Adobe Update Manager CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

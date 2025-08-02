@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-03-07 11:41:50.937000</Property>
+    <Property name="TargetName">BridgeStartMeeting</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{C9BE6782-B94E-4EA6-9208-CF92811B28E7}</Property>
+    <Property name="ProductName">Adobe Bridge Start Meeting</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="0" name="Default" folderName="">[AdobeCommon]</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+		<Family>Bridge</Family>
+		<ProductName>Start Meeting</ProductName>
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{41EA5BD3-76CF-425b-A620-71960AA38AEB}</AdobeCode>
+    <AdobeCode>{DED81D27-39FD-4b49-AA4F-DB5470B35049}</AdobeCode>
+    <AdobeCode>{9FC39B37-878C-4b58-8896-8700C087D021}</AdobeCode>
+    <AdobeCode>{276D3B2C-EB5C-4bb9-8546-9FB225FE2744}</AdobeCode>
+    <AdobeCode>{C97D97D0-FC20-47FE-9200-E91113791FD6}</AdobeCode>
+    <AdobeCode>{539B439C-32B9-4413-BD2A-3B2090EBBC14}</AdobeCode>
+    <AdobeCode>{C36CFD82-D199-42C1-A04E-56837EA3E290}</AdobeCode>
+    <AdobeCode>{E2143250-8B25-4B8F-8218-79F31170AA34}</AdobeCode>
+    <AdobeCode>{CDE20DF7-B2B8-4304-B1AE-DCC769D3357D}</AdobeCode>
+    <AdobeCode>{821181D6-1963-432C-9265-9A78A5BFE0AC}</AdobeCode>
+    <AdobeCode>{CD290A2C-5382-4CBF-9866-C930A932C994}</AdobeCode>
+    <AdobeCode>{8B5DA043-A306-4DFE-B562-4FD6A6A7C88B}</AdobeCode>
+    <AdobeCode>{322FE8F5-424A-43DA-9713-4D6B17D9BA85}</AdobeCode>
+    <AdobeCode>{57CFF73F-9F16-40B7-AE34-2C6375A66B59}</AdobeCode>
+    <AdobeCode>{D9561170-F8B6-46FA-B4F8-10E4F2CBAD9C}</AdobeCode>
+    <AdobeCode>{88B4A879-9E29-4A92-859C-B04604FA3F33}</AdobeCode>
+    <AdobeCode>{B02B224D-2AA8-48A7-B818-DC52EF2D23A5}</AdobeCode>
+    <AdobeCode>{03FF7ADA-DA0A-4CC0-969A-7A4B8F4C33E4}</AdobeCode>
+    <AdobeCode>{4535E785-C089-4FA6-99BE-1A967D02E7E1}</AdobeCode>
+    <AdobeCode>{F0F6A3B3-FBD8-472D-9BC3-99BCA942F46F}</AdobeCode>
+    <AdobeCode>{10D14A6F-F433-4043-B901-28DCED9C5AC1}</AdobeCode>
+    <AdobeCode>{1DA03CC9-B9FF-4749-8BDF-7E804DA2D8AB}</AdobeCode>
+    <AdobeCode>{9FEC9C74-AAE5-4542-8583-81DC62D1A381}</AdobeCode>
+    <AdobeCode>{804A4E44-A053-40ED-B5A9-1092F667D08D}</AdobeCode>
+    <AdobeCode>{041189AF-794F-4C60-8931-C9E5978018F6}</AdobeCode>
+    <AdobeCode>{CE280429-7878-4F9D-8DCF-DEB6C2460A0A}</AdobeCode>
+    <AdobeCode>{B78B97F4-229A-4353-8559-7F646C89631F}</AdobeCode>
+    <AdobeCode>{C4FDEBF6-7967-4430-BE54-3F4BA716FDFA}</AdobeCode>
+    <AdobeCode>{3B70ACAD-5B1C-405B-9C13-B88583DCC904}</AdobeCode>
+    <AdobeCode>{8E6F1FE5-EE8F-4BF3-88C5-4D011DBE8D75}</AdobeCode>
+    <AdobeCode>{B27AA5D3-B3DF-47F3-B3CF-C4D5F92B0936}</AdobeCode>
+    <AdobeCode>{2E08DA6E-F0E9-462D-AF72-84BA551D642A}</AdobeCode>
+    <AdobeCode>{713529B6-463A-4D07-9A95-C017949BEDBB}</AdobeCode>
+    <AdobeCode>{42A8ADF8-9654-4C01-8114-3348C0B042F6}</AdobeCode>
+    <AdobeCode>{DAA33B81-8FDE-425C-95CF-F6A1E94BC19E}</AdobeCode>
+    <AdobeCode>{68651A53-9E30-45E6-9439-E75F448345CC}</AdobeCode>
+    <AdobeCode>{D86C7280-4BDE-4BE3-BAC1-AF6AF682E17B}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[System32Folder]</Root>
+      <TotalSize>6630</TotalSize>
+      <MaxPathComponent>/Macromed/Flash/FlashPlayerTrust\AcrobatConnect.cfg</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>450066</TotalSize>
+      <MaxPathComponent>/Bridge CS3 Extensions/Bridge Start Meeting/Resources/RIBSjunk/Macromedia/FlashPlayerTrust\AcrobatConnect.cfg</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Bridge Start Meeting</Value>
+      <Value lang="ar_AE">Adobe Bridge Start Meeting</Value>
+      <Value lang="be_BY">Adobe Bridge Start Meeting</Value>
+      <Value lang="bg_BG">Adobe Bridge Start Meeting</Value>
+      <Value lang="ca_ES">Adobe Bridge Start Meeting</Value>
+      <Value lang="zh_CN">Adobe Bridge Start Meeting</Value>
+      <Value lang="zh_TW">Adobe Bridge Start Meeting</Value>
+      <Value lang="hr_HR">Adobe Bridge Start Meeting</Value>
+      <Value lang="cs_CZ">Adobe Bridge Start Meeting</Value>
+      <Value lang="da_DK">Adobe Bridge Start Meeting</Value>
+      <Value lang="nl_NL">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_XC">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_XM">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_GB">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_US">Adobe Bridge Start Meeting</Value>
+      <Value lang="et_EE">Adobe Bridge Start Meeting</Value>
+      <Value lang="fi_FI">Adobe Bridge Start Meeting</Value>
+      <Value lang="fr_FR">Adobe Bridge Start Meeting</Value>
+      <Value lang="fr_XM">Adobe Bridge Start Meeting</Value>
+      <Value lang="de_DE">Adobe Bridge Start Meeting</Value>
+      <Value lang="el_GR">Adobe Bridge Start Meeting</Value>
+      <Value lang="he_IL">Adobe Bridge Start Meeting</Value>
+      <Value lang="hu_HU">Adobe Bridge Start Meeting</Value>
+      <Value lang="hi_IN">Adobe Bridge Start Meeting</Value>
+      <Value lang="is_IS">Adobe Bridge Start Meeting</Value>
+      <Value lang="it_IT">Adobe Bridge Start Meeting</Value>
+      <Value lang="ja_JP">Adobe Bridge Start Meeting</Value>
+      <Value lang="ko_KR">Adobe Bridge Start Meeting</Value>
+      <Value lang="lv_LV">Adobe Bridge Start Meeting</Value>
+      <Value lang="lt_LT">Adobe Bridge Start Meeting</Value>
+      <Value lang="mk_MK">Adobe Bridge Start Meeting</Value>
+      <Value lang="nn_NO">Adobe Bridge Start Meeting</Value>
+      <Value lang="no_NO">Adobe Bridge Start Meeting</Value>
+      <Value lang="nb_NO">Adobe Bridge Start Meeting</Value>
+      <Value lang="pl_PL">Adobe Bridge Start Meeting</Value>
+      <Value lang="pt_BR">Adobe Bridge Start Meeting</Value>
+      <Value lang="ro_RO">Adobe Bridge Start Meeting</Value>
+      <Value lang="ru_RU">Adobe Bridge Start Meeting</Value>
+      <Value lang="sh_YU">Adobe Bridge Start Meeting</Value>
+      <Value lang="sk_SK">Adobe Bridge Start Meeting</Value>
+      <Value lang="sl_SI">Adobe Bridge Start Meeting</Value>
+      <Value lang="es_QM">Adobe Bridge Start Meeting</Value>
+      <Value lang="es_ES">Adobe Bridge Start Meeting</Value>
+      <Value lang="sv_SE">Adobe Bridge Start Meeting</Value>
+      <Value lang="th_TH">Adobe Bridge Start Meeting</Value>
+      <Value lang="tr_TR">Adobe Bridge Start Meeting</Value>
+      <Value lang="uk_UA">Adobe Bridge Start Meeting</Value>
+      <Value lang="vi_VN">Adobe Bridge Start Meeting</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

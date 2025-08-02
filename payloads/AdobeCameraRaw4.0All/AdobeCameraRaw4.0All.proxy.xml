@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.125.0">
+  <BuildInfo>
+    <Property name="Created">2007-03-02 09:44:37.772000</Property>
+    <Property name="TargetName">AdobeCameraRaw4.0All</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{A874B792-CECE-448A-A05E-B73E2B29299B}</Property>
+    <Property name="ProductName">Adobe Camera Raw 4.0</Property>
+    <Property name="ProductVersion">4.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="0" name="Default" folderName="">[AdobeCommon]/Plug-Ins/CS3/File Formats</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+	<Family>Shared Technology</Family>
+	<ProductName>Adobe Camera Raw</ProductName>
+<ProductVersion>4.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{CA5E7319-ADF1-4FE0-9964-2D20FE45C8CC}</AdobeCode>
+    <AdobeCode>{A3BA3310-39B8-458E-85CC-DDF8F187DFC7}</AdobeCode>
+    <AdobeCode>{EC7DA669-E566-4D6A-BDDE-B55341B7E45D}</AdobeCode>
+    <AdobeCode>{EB7EF5DA-C7BB-48F6-B919-29632C2A1B81}</AdobeCode>
+    <AdobeCode>{684DA7A0-1218-4335-8035-FC3EAC8B51B8}</AdobeCode>
+    <AdobeCode>{8EB0E05D-A814-4536-A5BB-D0FE727B045C}</AdobeCode>
+    <AdobeCode>{C99E45C4-BC3F-42FE-8A42-518943468787}</AdobeCode>
+    <AdobeCode>{10521C0F-7F94-4310-BDB1-41D7CE19B4B8}</AdobeCode>
+    <AdobeCode>{E9CE3AD7-7E43-4B26-8877-FC569CDB6457}</AdobeCode>
+    <AdobeCode>{1C2E228A-9945-4FAC-9510-CFE97BA01E65}</AdobeCode>
+    <AdobeCode>{D95133F8-A384-46DD-A422-66331645D3AB}</AdobeCode>
+    <AdobeCode>{DDF56343-EFC7-4F1D-93F1-88FDF6BD5BF4}</AdobeCode>
+    <AdobeCode>{F96D659B-77D2-4D95-9CA4-BBF55298219D}</AdobeCode>
+    <AdobeCode>{6E11296D-4D8F-4DEF-BD5B-D161524A038F}</AdobeCode>
+    <AdobeCode>{1C99C9C9-7660-43F3-85CD-F2ACCE4B845C}</AdobeCode>
+    <AdobeCode>{87D3F552-1721-4E02-A7BC-C2A9F52DA00D}</AdobeCode>
+    <AdobeCode>{E5EFA7A8-60E4-498E-ADF0-B535132102B1}</AdobeCode>
+    <AdobeCode>{6E8EC78D-C0DA-4109-8A34-C9EF976FBCA0}</AdobeCode>
+    <AdobeCode>{7FD46FC3-1788-49C3-A2D9-B3202AF9BC29}</AdobeCode>
+    <AdobeCode>{12CD5115-267F-4A39-8492-BAB8AD7F58AD}</AdobeCode>
+    <AdobeCode>{96A6A952-CBAA-4EF8-8E9F-74431FFD15A1}</AdobeCode>
+    <AdobeCode>{A4E6C323-30C3-45E1-83EB-AF7EC16B2EE4}</AdobeCode>
+    <AdobeCode>{A4A7D4D4-41CB-43A6-A9E9-0738D028FCA3}</AdobeCode>
+    <AdobeCode>{43E1368F-5124-42CC-85F8-F353DE8D19AB}</AdobeCode>
+    <AdobeCode>{51FB3847-5675-42F9-B905-86AC4AE8A5F4}</AdobeCode>
+    <AdobeCode>{4088A297-21FC-4D44-9753-EEDF1FE9C695}</AdobeCode>
+    <AdobeCode>{FB3BB412-7FAE-4C43-8086-7D443950ACAB}</AdobeCode>
+    <AdobeCode>{00967929-5A54-4DF2-9792-A91E0CC864B8}</AdobeCode>
+    <AdobeCode>{0E75C7CB-941F-4799-9FC5-C7E1BACFA300}</AdobeCode>
+    <AdobeCode>{61B23D79-1A56-4F1D-B559-14A224476D25}</AdobeCode>
+    <AdobeCode>{BD8C7BC1-7640-480D-A283-5312EF40664B}</AdobeCode>
+    <AdobeCode>{3B773734-D652-4BF7-9074-54CCE08E7CEE}</AdobeCode>
+    <AdobeCode>{1DB527CA-BF7F-4009-8CE2-AF45DF0DCEB0}</AdobeCode>
+    <AdobeCode>{E72306DA-8F66-4EC3-AB33-82A86812CE9A}</AdobeCode>
+    <AdobeCode>{5C7FD172-C020-4679-8DAC-76EBAAB72912}</AdobeCode>
+    <AdobeCode>{245E3086-6914-4962-8EE9-37AD206E74C7}</AdobeCode>
+    <AdobeCode>{F01EF0DA-0F09-42AA-B5CE-5494EC7299AB}</AdobeCode>
+    <AdobeCode>{4D2ECBAF-D46D-434B-84A6-E9DEC4555421}</AdobeCode>
+    <AdobeCode>{F476870B-1DCF-48AA-8F9B-BA29C0163F71}</AdobeCode>
+    <AdobeCode>{F4567898-581F-4400-A8A8-8AB1B40A253F}</AdobeCode>
+    <AdobeCode>{F7356C34-29C1-4DE1-9989-68B46A1925F9}</AdobeCode>
+    <AdobeCode>{EA92C09A-7D58-4591-9933-1033957EC4B5}</AdobeCode>
+    <AdobeCode>{C8438BE8-ED70-4092-ACD7-59E8CC32614A}</AdobeCode>
+    <AdobeCode>{30232D2E-E75C-45CC-995C-09BA3F7AEE71}</AdobeCode>
+    <AdobeCode>{2F40D9D9-8560-42A1-882D-E28921CAD074}</AdobeCode>
+    <AdobeCode>{45E833B4-9808-4762-884D-0A02F9792B29}</AdobeCode>
+    <AdobeCode>{B1743988-9251-4A37-B319-B0D7108995E3}</AdobeCode>
+    <AdobeCode>{F10E2F17-D8A1-42F3-A8EA-646FFC6109B3}</AdobeCode>
+    <AdobeCode>{2267FF75-2426-4A56-A246-B8FB528DF445}</AdobeCode>
+    <AdobeCode>{47A8DE77-1D98-4025-8CD7-A595173FD610}</AdobeCode>
+    <AdobeCode>{CD821084-2A8B-49FC-9B86-2A6D6278EDE7}</AdobeCode>
+    <AdobeCode>{8E7451C1-D3C1-4974-B4D7-9A4D166C425C}</AdobeCode>
+    <AdobeCode>{EDEF1F3B-C4D4-41EC-A299-9AD839FD458E}</AdobeCode>
+    <AdobeCode>{699E96D2-EE91-4234-AD87-757689C62041}</AdobeCode>
+    <AdobeCode>{E9165738-E526-409A-8B68-4A6B4E9C9DB9}</AdobeCode>
+    <AdobeCode>{4E019718-79A6-4AE5-8F90-CF1DB3452C6B}</AdobeCode>
+    <AdobeCode>{A503A3A0-EEE6-49D9-A19D-4A91F79093EF}</AdobeCode>
+    <AdobeCode>{C61D1C18-ABD4-4182-A3D9-7E29BFCF63E0}</AdobeCode>
+    <AdobeCode>{6CFBD7A0-F598-4A4A-8204-1C26F315354B}</AdobeCode>
+    <AdobeCode>{9E034DFD-D18C-4970-9DEB-6702A3825352}</AdobeCode>
+    <AdobeCode>{DD5A913F-18AE-419B-904E-9F842CAD8352}</AdobeCode>
+    <AdobeCode>{0C7AC82D-81D1-4F6A-A282-6600D54E4F80}</AdobeCode>
+    <AdobeCode>{C3716D5A-79C1-47A0-A8AA-E803CC3270E9}</AdobeCode>
+    <AdobeCode>{CBED8F5F-5918-4AEF-96B6-D5A727A27F73}</AdobeCode>
+    <AdobeCode>{DCEDF9BB-36FC-48F3-A77C-074EF7F6C260}</AdobeCode>
+    <AdobeCode>{B2EFFCD5-00E2-419D-8722-AB7B524D7411}</AdobeCode>
+    <AdobeCode>{8C651E08-30FA-4927-BFCF-4A523ECA194E}</AdobeCode>
+    <AdobeCode>{6ED5728B-2967-45DC-8CD2-4F0C6680953E}</AdobeCode>
+    <AdobeCode>{09780482-F85A-4E59-8C81-C976FDEDEACC}</AdobeCode>
+    <AdobeCode>{5AEDEA5E-501B-487E-9988-1698CE32430E}</AdobeCode>
+    <AdobeCode>{B40EA1AE-8500-41D6-A49C-CF9EF5B486AF}</AdobeCode>
+    <AdobeCode>{9BE9A2D0-476D-4A76-9691-3B6117E8D6AA}</AdobeCode>
+    <AdobeCode>{E394FA0D-648C-46A3-BF32-7338B32C132D}</AdobeCode>
+    <AdobeCode>{448FA6E8-2835-4B3E-8D38-29D58BCEF3DF}</AdobeCode>
+    <AdobeCode>{EBE70996-34A3-4D4C-9831-E81995CD5051}</AdobeCode>
+    <AdobeCode>{5787B178-6298-4123-AAE5-07C687886865}</AdobeCode>
+    <AdobeCode>{3E424761-7610-419D-8AF1-A984F9978F63}</AdobeCode>
+    <AdobeCode>{B144327D-2395-47BC-BD28-E194AB29FA19}</AdobeCode>
+    <AdobeCode>{432ED1D9-3FDE-4FF2-BDB6-DFCF6DCA2303}</AdobeCode>
+    <AdobeCode>{E22DFEFA-C451-4B8A-B563-3870103F538F}</AdobeCode>
+    <AdobeCode>{599692DC-34E5-45A5-8344-4E7D6F555F88}</AdobeCode>
+    <AdobeCode>{764EE990-FEA8-4D43-93E0-3E50E2BB0E39}</AdobeCode>
+    <AdobeCode>{E048C050-BC21-4C88-80B6-B06AC4B9E268}</AdobeCode>
+    <AdobeCode>{0D0F3825-D4EA-493F-B18C-6869C8489184}</AdobeCode>
+    <AdobeCode>{F8113689-B719-41EF-8E71-0EBA936E8C1F}</AdobeCode>
+    <AdobeCode>{063B4845-958E-4B70-9D47-FEAF9BFE5AF1}</AdobeCode>
+    <AdobeCode>{A8BFC47A-BC07-44A6-9D5E-7991F627AAF5}</AdobeCode>
+    <AdobeCode>{D3CC9419-7EEE-4402-B4E6-C139DB5CC165}</AdobeCode>
+    <AdobeCode>{3ACA398D-AA1E-4025-B2D7-7CA0A0BB8AE8}</AdobeCode>
+    <AdobeCode>{B38C0D36-8961-4732-8D71-440C7E5BE068}</AdobeCode>
+    <AdobeCode>{31436AD1-8716-4AD8-9AFE-9772F6C92FBF}</AdobeCode>
+    <AdobeCode>{633F7668-8747-4FA2-BC90-FAD471759C2E}</AdobeCode>
+    <AdobeCode>{9FB188F0-F702-46F9-B3A8-CB7BE5A4B025}</AdobeCode>
+    <AdobeCode>{203A43AA-E0CE-4D00-B8FC-5A40B44516EC}</AdobeCode>
+    <AdobeCode>{81EAD2F2-E01B-4B55-93C2-9F5D887C7729}</AdobeCode>
+    <AdobeCode>{54E91811-AFD1-40E3-87B4-2448FAA39A78}</AdobeCode>
+    <AdobeCode>{C0949CE8-27E0-4439-A4A0-BFC1AFACAAF3}</AdobeCode>
+    <AdobeCode>{5B6A33EE-D297-4DB2-89CC-C34DA4B5F48F}</AdobeCode>
+    <AdobeCode>{FBC52C7F-DF6F-4BAB-8CF6-17D328B9D0CE}</AdobeCode>
+    <AdobeCode>{029FDA47-16A7-4385-B5F7-49F536C1A047}</AdobeCode>
+    <AdobeCode>{71BFF8A9-488B-422D-8337-00D8AC9F8F32}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>10219541</TotalSize>
+      <MaxPathComponent>/Plug-Ins/CS3/File Formats\Camera Raw.8bi</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses>
+    <OSX>
+      <Process blocking="1">^[Ss][Oo][Uu][Nn][Dd][Bb][Oo][Oo][Tt][Hh]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Ii][Nn][Gg] [Gg][Ll][Yy][Pp][Hh][Ll][Ee][Tt] [Mm][Aa][Nn][Aa][Gg][Ee][Rr] [Cc][Ss]3</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Oo][Uu][Nn][Dd][Bb][Oo][Oo][Tt][Hh] [Bb][Ee][Tt][Aa]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Oo][Uu][Nn][Dd][Bb][Oo][Oo][Tt][Hh] [Cc][Ss]3</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp] [Cc][Ss]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Aa][Ff][Tt][Ee][Rr] [Ee][Ff][Ff][Ee][Cc][Tt][Ss]*</Process>
+      <Process blocking="1">^[Aa][Ff][Tt][Ee][Rr] [Ee][Ff][Ff][Ee][Cc][Tt][Ss]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Hh][Ee][Ll][Pp] [Vv][Ii][Ee][Ww][Ee][Rr]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ii][Mm][Aa][Gg][Ee][Rr][Ee][Aa][Dd][Yy]*</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp] [Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Rr][Ee][Ss][Oo][Uu][Rr][Cc][Ee][Ss][Yy][Nn][Cc][Hh][Rr][Oo][Nn][Ii][Zz][Ee][Rr]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Gg][Oo][Ll][Ii][Vv][Ee]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Uu][Pp][Dd][Aa][Tt][Ee][Rr]*</Process>
+      <Process blocking="1">^[Bb][Rr][Ii][Dd][Gg][Ee] [Cc][Ss][23]</Process>
+      <Process blocking="1">^[Bb][Rr][Ii][Dd][Gg][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Cc][Rr][Aa][Ss][Hh][Cc][Rr][Aa][Ss][Hh] [Rr][Ee][Pp][Oo][Rr][Tt][Ee][Rr]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo] [Dd][Oo][Ww][Nn][Ll][Oo][Aa][Dd][Ee][Rr]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Dd][Nn][Gg] [Cc][Oo][Nn][Vv][Ee][Rr][Tt][Ee][Rr]</Process>
+      <Process blocking="1">^[Ss][Hh][Ee][Ll][Ll]</Process>
+      <Process blocking="1">^[Cc][Oo][Nn][Tt][Rr][Ii][Bb][Uu][Tt][Ee]</Process>
+      <Process blocking="1">^[Ff][Ff][Ee][Xx][Tt][Nn][Ff][Oo][Rr][Cc][Oo][Nn][Tt][Rr][Ii][Bb][Uu][Tt][Ee][Cc][Ss]3</Process>
+      <Process blocking="1">^[Dd][Ee][Vv][Ii][Cc][Ee] [Cc][Ee][Nn][Tt][Rr][Aa][Ll]</Process>
+      <Process blocking="1">^[Dd][Rr][Ee][Aa][Mm][Ww][Ee][Aa][Vv][Ee][Rr]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ee][Nn][Cc][Oo][Rr][Ee]*</Process>
+      <Process blocking="1">^[Ee][Nn][Cc][Oo][Rr][Ee][Dd][Vv][Dd]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ss][Ee][Rr][Vv][Ee][Rr]</Process>
+      <Process blocking="1">^[Ee][Xx][Tt][Ee][Nn][Dd][Ss][Cc][Rr][Ii][Pp][Tt] [Tt][Oo][Oo][Ll][Kk][Ii][Tt]*</Process>
+      <Process blocking="1">^[Ee][Xx][Tt][Ee][Nn][Ss][Ii][Oo][Nn] [Mm][Aa][Nn][Aa][Gg][Ee][Rr]</Process>
+      <Process blocking="1">^[Ff][Ii][Rr][Ee][Ww][Oo][Rr][Kk][Ss]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ff][Ll][Aa][Ss][Hh] [Cc][Ss]3</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] [Pp][Ll][Aa][Yy][Ee][Rr]*</Process>
+      <Process blocking="1">^[Ii][Nn][Ss][Tt][Aa][Ll][Ll] [Ff][Ll][Aa][Ss][Hh] [Pp][Ll][Aa][Yy][Ee][Rr] 9 [Uu][Bb]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] *[Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ii][Ll][Ll][Uu][Ss][Tt][Rr][Aa][Tt][Oo][Rr]*</Process>
+      <Process blocking="1">^[Ii][Ll][Ll][Uu][Ss][Tt][Rr][Aa][Tt][Oo][Rr]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ii][Nn][Cc][Oo][Pp][Yy] [Cc][Ss]*</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn] [Cc][Ss]*</Process>
+      <Process blocking="1">^[Ii][Nn][Cc][Oo][Pp][Yy] [Cc][Ss]*</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn] [Cc][Ss]*</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn][Ss][Ee][Rr][Vv][Ee][Rr]</Process>
+      <Process blocking="1">^[Vv][Cc][Pp][Rr][Ee][Ff][Ss][Hh][Ee][Ll][Pp][Ee][Rr]</Process>
+      <Process blocking="1">^[Vv][Ee][Rr][Ss][Ii][Oo][Nn][Cc][Uu][Ee][Cc][Ss]3[Cc][Tt][Ll]</Process>
+      <Process blocking="1">^[Aa][Uu][Dd][Ii][Tt][Ii][Oo][Nn]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee]*</Process>
+    </OSX>
+    <Win32>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Ii][Nn][Gg] [Gg][Ll][Yy][Pp][Hh][Ll][Ee][Tt] [Mm][Aa][Nn][Aa][Gg][Ee][Rr] [Cc][Ss]3\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Gg][Ll][Yy][Pp][Hh][Ll][Ee][Tt] [Mm][Aa][Nn][Aa][Gg][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Uu][Dd][Ii][Tt][Ii][Oo][Nn]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Oo][Uu][Nn][Dd][Bb][Oo][Oo][Tt][Hh] [Cc][Ss]3\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Gg][Oo][Ll][Ii][Vv][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Hh][Vv]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Gg][Oo][Ll][Ii][Vv][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Ff][Tt][Ee][Rr][Ff][Xx]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Ii][Pp][Ll][Tt][Oo][Oo][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Rr][Ee][Ss][Tt][Oo][Oo][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ss][Hh][Ee][Ll][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Mm][Aa][Nn][Aa][Gg][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Uu][Pp][Dd][Aa][Tt][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Ii][Nn][Ss][Tt][Aa][Ll][Ll][Mm][Gg][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Rr][Ii][Nn][Ss][Tt][Aa][Ll][Ll][Mm][Gg][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Dd][Nn][Gg] [Cc][Oo][Nn][Vv][Ee][Rr][Tt][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Bb][Rr][Ii][Dd][Gg][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Bb][Rr][Ii][Dd][Gg][Ee][Pp][Rr][Oo][Xx][Yy]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Dd][Oo][Ww][Nn][Ll][Oo][Aa][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Cc][Oo][Nn][Tt][Rr][Ii][Bb][Uu][Tt][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Dd][Ee][Vv][Ii][Cc][Ee][Cc][Ee][Nn][Tt][Rr][Aa][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Dd][Rr][Ee][Aa][Mm][Ww][Ee][Aa][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ee][Nn][Cc][Oo][Rr][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ee][Nn][Cc][Oo][Rr][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Xx][Hh][Pp][Ii][Nn][Ss][Tt]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ee][Xx][Tt][Ee][Nn][Dd][Ss][Cc][Rr][Ii][Pp][Tt] [Tt][Oo][Oo][Ll][Kk][Ii][Tt]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ee][Xx][Tt][Ee][Nn][Ss][Ii][Oo][Nn] [Mm][Aa][Nn][Aa][Gg][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Rr][Ee][Pp][Ll][Aa][Cc][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Cc][Rr][Aa][Ss][Hh][Rr][Ee][Pp][Oo][Rr][Tt][Ee][Rr]App\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ii][Rr][Ee][Ww][Oo][Rr][Kk][Ss]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh][Pp][Ll][Aa][Yy][Ee][Rr]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] 7 [Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] 8 [Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] [Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Hh][Vv]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Ll][Ll][Uu][Ss][Tt][Rr][Aa][Tt][Oo][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Cc][Oo][Pp][Yy]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Mm][Rr][Ee][Aa][Dd][Ee][Rr][Aa][Pp][Pp]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee] [Pp][Rr][Oo]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee] [Ee][Ll][Ee][Mm][Ee][Nn][[Tt][Ss]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ww][Mm][Ee][Nn][Cc][Oo][Dd][Ii][Nn][Gg][[Hh][Ee][Ll][Pp][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Tt][Oo][Cc][Kk] [Pp][Hh][Oo][Tt][Oo][Ss] [Cc][Ss]3\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Vv][Cc][Pp][Rr][Ee][Ff][Ss][Hh][Ee][Ll][Pp][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Vv][Ee][Rr][Ss][Ii][Oo][Nn][Cc][Uu][Ee][Cc][Ss]3Ctl\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn][Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn][Ss][Ee][Rr][Vv][Ee][Rr][Ss][Ee][Rr][Vv][Ii][Cc][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp] [Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss] 4\.0\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp] [Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss] 5\.0\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss][Oo][Rr][Gg][Aa][Nn][Ii][Zz][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss][Ee][Dd][Ii][Tt][Oo][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Ii][Mm][Aa][Gg][Ee][Rr][Ee][Aa][Dd][Yy]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Aa][Dd][Oo][Bb][Ee] [Ee][Nn][Cc][Oo][Rr][Ee] [Dd][Vv][Dd]\.[Ee][Xx][Ee]</Process>
+    </Win32>
+  </ConflictingProcesses>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">4.0</Value>
+      <Value lang="ar_AE">4.0</Value>
+      <Value lang="be_BY">4.0</Value>
+      <Value lang="bg_BG">4.0</Value>
+      <Value lang="ca_ES">4.0</Value>
+      <Value lang="zh_CN">4.0</Value>
+      <Value lang="zh_TW">4.0</Value>
+      <Value lang="hr_HR">4.0</Value>
+      <Value lang="cs_CZ">4.0</Value>
+      <Value lang="da_DK">4.0</Value>
+      <Value lang="nl_NL">4.0</Value>
+      <Value lang="en_XC">4.0</Value>
+      <Value lang="en_XM">4.0</Value>
+      <Value lang="en_GB">4.0</Value>
+      <Value lang="en_US">4.0</Value>
+      <Value lang="et_EE">4.0</Value>
+      <Value lang="fi_FI">4.0</Value>
+      <Value lang="fr_FR">4.0</Value>
+      <Value lang="fr_XM">4.0</Value>
+      <Value lang="de_DE">4.0</Value>
+      <Value lang="el_GR">4.0</Value>
+      <Value lang="he_IL">4.0</Value>
+      <Value lang="hu_HU">4.0</Value>
+      <Value lang="hi_IN">4.0</Value>
+      <Value lang="is_IS">4.0</Value>
+      <Value lang="it_IT">4.0</Value>
+      <Value lang="ja_JP">4.0</Value>
+      <Value lang="ko_KR">4.0</Value>
+      <Value lang="lv_LV">4.0</Value>
+      <Value lang="lt_LT">4.0</Value>
+      <Value lang="mk_MK">4.0</Value>
+      <Value lang="nn_NO">4.0</Value>
+      <Value lang="no_NO">4.0</Value>
+      <Value lang="nb_NO">4.0</Value>
+      <Value lang="pl_PL">4.0</Value>
+      <Value lang="pt_BR">4.0</Value>
+      <Value lang="ro_RO">4.0</Value>
+      <Value lang="ru_RU">4.0</Value>
+      <Value lang="sh_YU">4.0</Value>
+      <Value lang="sk_SK">4.0</Value>
+      <Value lang="sl_SI">4.0</Value>
+      <Value lang="es_QM">4.0</Value>
+      <Value lang="es_ES">4.0</Value>
+      <Value lang="sv_SE">4.0</Value>
+      <Value lang="th_TH">4.0</Value>
+      <Value lang="tr_TR">4.0</Value>
+      <Value lang="uk_UA">4.0</Value>
+      <Value lang="vi_VN">4.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Camera Raw 4.0</Value>
+      <Value lang="ar_AE">Adobe Camera Raw 4.0</Value>
+      <Value lang="be_BY">Adobe Camera Raw 4.0</Value>
+      <Value lang="bg_BG">Adobe Camera Raw 4.0</Value>
+      <Value lang="ca_ES">Adobe Camera Raw 4.0</Value>
+      <Value lang="zh_CN">Adobe Camera Raw 4.0</Value>
+      <Value lang="zh_TW">Adobe Camera Raw 4.0</Value>
+      <Value lang="hr_HR">Adobe Camera Raw 4.0</Value>
+      <Value lang="cs_CZ">Adobe Camera Raw 4.0</Value>
+      <Value lang="da_DK">Adobe Camera Raw 4.0</Value>
+      <Value lang="nl_NL">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_XC">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_XM">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_GB">Adobe Camera Raw 4.0</Value>
+      <Value lang="en_US">Adobe Camera Raw 4.0</Value>
+      <Value lang="et_EE">Adobe Camera Raw 4.0</Value>
+      <Value lang="fi_FI">Adobe Camera Raw 4.0</Value>
+      <Value lang="fr_FR">Adobe Camera Raw 4.0</Value>
+      <Value lang="fr_XM">Adobe Camera Raw 4.0</Value>
+      <Value lang="de_DE">Adobe Camera Raw 4.0</Value>
+      <Value lang="el_GR">Adobe Camera Raw 4.0</Value>
+      <Value lang="he_IL">Adobe Camera Raw 4.0</Value>
+      <Value lang="hu_HU">Adobe Camera Raw 4.0</Value>
+      <Value lang="hi_IN">Adobe Camera Raw 4.0</Value>
+      <Value lang="is_IS">Adobe Camera Raw 4.0</Value>
+      <Value lang="it_IT">Adobe Camera Raw 4.0</Value>
+      <Value lang="ja_JP">Adobe Camera Raw 4.0</Value>
+      <Value lang="ko_KR">Adobe Camera Raw 4.0</Value>
+      <Value lang="lv_LV">Adobe Camera Raw 4.0</Value>
+      <Value lang="lt_LT">Adobe Camera Raw 4.0</Value>
+      <Value lang="mk_MK">Adobe Camera Raw 4.0</Value>
+      <Value lang="nn_NO">Adobe Camera Raw 4.0</Value>
+      <Value lang="no_NO">Adobe Camera Raw 4.0</Value>
+      <Value lang="nb_NO">Adobe Camera Raw 4.0</Value>
+      <Value lang="pl_PL">Adobe Camera Raw 4.0</Value>
+      <Value lang="pt_BR">Adobe Camera Raw 4.0</Value>
+      <Value lang="ro_RO">Adobe Camera Raw 4.0</Value>
+      <Value lang="ru_RU">Adobe Camera Raw 4.0</Value>
+      <Value lang="sh_YU">Adobe Camera Raw 4.0</Value>
+      <Value lang="sk_SK">Adobe Camera Raw 4.0</Value>
+      <Value lang="sl_SI">Adobe Camera Raw 4.0</Value>
+      <Value lang="es_QM">Adobe Camera Raw 4.0</Value>
+      <Value lang="es_ES">Adobe Camera Raw 4.0</Value>
+      <Value lang="sv_SE">Adobe Camera Raw 4.0</Value>
+      <Value lang="th_TH">Adobe Camera Raw 4.0</Value>
+      <Value lang="tr_TR">Adobe Camera Raw 4.0</Value>
+      <Value lang="uk_UA">Adobe Camera Raw 4.0</Value>
+      <Value lang="vi_VN">Adobe Camera Raw 4.0</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-03-15 10:23:25.693000</Property>
+    <Property name="TargetName">AdobeDeviceCentralAll</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{7B53463B-283F-44FF-94B2-CAB60DDE3159}</Property>
+    <Property name="ProductName">Adobe Device Central CS3</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="0" name="Default" folderName="">[AdobeProgramFiles]</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+        <Family>MaD</Family>
+        <ProductName>Adobe Device Central CS3</ProductName>
+    <ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{E9B0C958-2088-4C54-9155-3FFB77A3A409}</AdobeCode>
+    <AdobeCode>{B9AE6765-2D3F-42B2-9C22-33495224BC35}</AdobeCode>
+    <AdobeCode>{1495F607-3096-416E-AF08-BC76F95071DF}</AdobeCode>
+    <AdobeCode>{EAB939EF-752A-467B-9E83-4940536C0494}</AdobeCode>
+    <AdobeCode>{065FD53D-7AE9-4197-B05C-654053C5A9C7}</AdobeCode>
+    <AdobeCode>{8E4F8F6F-92E5-4D1B-B291-D7ED884B9AF0}</AdobeCode>
+    <AdobeCode>{CF62D0F5-609A-4183-8B93-62B32FF85DD6}</AdobeCode>
+    <AdobeCode>{9133D15E-B509-4529-AF7A-B2DC1FD963E1}</AdobeCode>
+    <AdobeCode>{A373CEC5-756A-44F3-AA8B-F1037D41E182}</AdobeCode>
+    <AdobeCode>{04BEC155-F617-4ADA-B5EA-F8F401CBE11E}</AdobeCode>
+    <AdobeCode>{F02FAB60-7EB9-48F7-BF49-4DC43C503E88}</AdobeCode>
+    <AdobeCode>{643B97DE-4C0E-4EFA-9BB2-B29CA767D691}</AdobeCode>
+    <AdobeCode>{E7739A32-490E-41A8-AE5A-B73349F7F011}</AdobeCode>
+    <AdobeCode>{54220083-095D-45E8-B284-FEC15938AFD9}</AdobeCode>
+    <AdobeCode>{D2493A0F-11E6-4D80-BB25-FD4097C10FC0}</AdobeCode>
+    <AdobeCode>{41A5DB06-780B-49FD-8789-FE204A43AD36}</AdobeCode>
+    <AdobeCode>{346BABB9-9934-42E6-B9B6-6BBDF009311C}</AdobeCode>
+    <AdobeCode>{A71293F5-1FD8-484A-9E73-1D0003784396}</AdobeCode>
+    <AdobeCode>{A1B265FE-4EAD-4601-A23C-EDEA1802858C}</AdobeCode>
+    <AdobeCode>{AA642BE5-D50D-49DF-A94F-92790569F18B}</AdobeCode>
+    <AdobeCode>{A0C05A7F-B64C-4F8D-9FB8-8B41F34436DA}</AdobeCode>
+    <AdobeCode>{9C02E938-A53B-4B4F-9A65-7D1DFCF20D76}</AdobeCode>
+    <AdobeCode>{422D48C3-5C9E-426F-8103-BD1F64AD6068}</AdobeCode>
+    <AdobeCode>{C43679AC-E5B1-490E-A96A-75859E237CFC}</AdobeCode>
+    <AdobeCode>{70B9F04D-CC46-4F35-8CFB-3C8A1BDFFC42}</AdobeCode>
+    <AdobeCode>{AE4030D2-CF51-4F0B-9B42-72BE34C25062}</AdobeCode>
+    <AdobeCode>{7DDC9B38-3339-488F-B72C-68C4C6D626D0}</AdobeCode>
+    <AdobeCode>{36582CA2-271B-48B1-A596-D78D254DE3C5}</AdobeCode>
+    <AdobeCode>{AA9F19E3-2408-40CF-964E-2C9FDF7343DF}</AdobeCode>
+    <AdobeCode>{E2536F95-7C63-49E9-9FC1-182A202554E6}</AdobeCode>
+    <AdobeCode>{0867DB00-9C83-43EE-81E8-F5AFB960DFD3}</AdobeCode>
+    <AdobeCode>{E6DFD59B-925E-471F-A463-B98954650227}</AdobeCode>
+    <AdobeCode>{253A3DD9-C9D6-4559-88C4-E0AAD7A1C585}</AdobeCode>
+    <AdobeCode>{1FB230E4-B5CE-429A-B4A3-A02103FC30B1}</AdobeCode>
+    <AdobeCode>{50958816-3852-4F5F-ABAC-AD7F65F73930}</AdobeCode>
+    <AdobeCode>{863B78B8-F8D2-438C-A578-7454311DA215}</AdobeCode>
+    <AdobeCode>{F509F6B4-780E-48D5-9CD3-BFA6EB29E553}</AdobeCode>
+    <AdobeCode>{8EC48083-DBC8-4FC5-96AC-884C11CEF36C}</AdobeCode>
+    <AdobeCode>{DF299AB5-E059-48EA-8295-3B58D02ADF4E}</AdobeCode>
+    <AdobeCode>{95D443D1-4C72-426A-A6D6-C144ABFCD0B9}</AdobeCode>
+    <AdobeCode>{ECE6CF8F-3EF5-4806-9A2C-6CA0884F90E8}</AdobeCode>
+    <AdobeCode>{5573FD29-4E90-4514-BC55-832568CE34B5}</AdobeCode>
+    <AdobeCode>{5A262918-1970-4FB9-94DC-881178663E79}</AdobeCode>
+    <AdobeCode>{03687F56-DFB7-4952-808D-785FC738DB08}</AdobeCode>
+    <AdobeCode>{0BB106A1-0DC8-4255-9A05-9540438A747B}</AdobeCode>
+    <AdobeCode>{A8FD4A5F-7C1F-4146-9403-314A168C1F46}</AdobeCode>
+    <AdobeCode>{37B6A5BD-3EDE-4AD9-BD0D-661F56CFB3AB}</AdobeCode>
+    <AdobeCode>{2630AAD4-4E64-4201-A425-97DF3A9FE0BD}</AdobeCode>
+    <AdobeCode>{30A19B08-4D50-440E-96FD-45BBE5D3D214}</AdobeCode>
+    <AdobeCode>{B1F1CA36-A964-4424-9E67-B44997224E8F}</AdobeCode>
+    <AdobeCode>{FBACE868-BA8A-4FE8-B4C2-396EC2D68565}</AdobeCode>
+    <AdobeCode>{903ACE71-68CB-4B1E-8985-92B901AE0771}</AdobeCode>
+    <AdobeCode>{26B0F51B-DA94-43AF-A5FE-E1FFCD6D2993}</AdobeCode>
+    <AdobeCode>{F138A5D4-888F-45B8-8D61-4401113DBEBF}</AdobeCode>
+    <AdobeCode>{6E152E42-772C-4E39-8DAC-6975E2CF7B0A}</AdobeCode>
+    <AdobeCode>{CE660C85-BCAE-4A37-8444-2600BAF1F31B}</AdobeCode>
+    <AdobeCode>{85266F26-98AD-4423-B949-04EA881A7CF8}</AdobeCode>
+    <AdobeCode>{455AFBDE-56FA-4943-B0A9-00E9B41DE5F0}</AdobeCode>
+    <AdobeCode>{ADC464BC-1833-444D-AD4D-033858D096C0}</AdobeCode>
+    <AdobeCode>{80B3F2D7-9B48-476A-9336-9FB831412352}</AdobeCode>
+    <AdobeCode>{4BF47F25-CA36-41FC-8C39-D84F5199B916}</AdobeCode>
+    <AdobeCode>{CCBEA3A6-D1A5-4122-BB11-D8A27CC289E4}</AdobeCode>
+    <AdobeCode>{3B22A417-6FB4-4248-A6A6-E91A6D38C485}</AdobeCode>
+    <AdobeCode>{F538B499-CAC8-4F44-8683-0C1D9D148FE6}</AdobeCode>
+    <AdobeCode>{61C559F3-6DAD-4D85-8BF1-92A96D544F1F}</AdobeCode>
+    <AdobeCode>{26A79E9D-00D7-490D-994B-0C263A763C96}</AdobeCode>
+    <AdobeCode>{2926B7E0-35A2-4E61-8704-8C7AABBB6325}</AdobeCode>
+    <AdobeCode>{FEC027A8-E4A1-430B-A7F7-E3EDF43428DB}</AdobeCode>
+    <AdobeCode>{52F9C698-4679-4B8B-86E5-E65E6F9F16FA}</AdobeCode>
+    <AdobeCode>{0BEB1FE4-9A2D-4313-9482-B63D62090875}</AdobeCode>
+    <AdobeCode>{0EC69F17-A249-44FE-9D91-BD03866E09BC}</AdobeCode>
+    <AdobeCode>{6A2B98E4-DB77-46C7-A3AF-040B195C1369}</AdobeCode>
+    <AdobeCode>{0EFD68AB-BDCE-41C6-B769-B80F928CD794}</AdobeCode>
+    <AdobeCode>{B00CCE23-B900-4639-9632-5D116306C312}</AdobeCode>
+    <AdobeCode>{0D565CB7-2D85-4ED4-885B-AA704B8D9742}</AdobeCode>
+    <AdobeCode>{552972C5-B3E7-47BB-9B2C-409B3CA632EF}</AdobeCode>
+    <AdobeCode>{6CC3EFE6-EB17-4D3F-BBC1-0F85327CEE8D}</AdobeCode>
+    <AdobeCode>{304A6DD4-7D0D-4901-A458-02034F485AC5}</AdobeCode>
+    <AdobeCode>{0A8FA26B-530C-4BEE-BB81-00CA5988DA21}</AdobeCode>
+    <AdobeCode>{9244F3F8-77E1-4445-B463-6D8FDE3B6C46}</AdobeCode>
+    <AdobeCode>{8A22EB18-D9F1-4DD5-8315-88589555D4BC}</AdobeCode>
+    <AdobeCode>{3892C5C8-D2A8-4E4A-8D0F-22D16D8E049B}</AdobeCode>
+    <AdobeCode>{B04D6A4A-0562-452F-95FF-942EA25B10A3}</AdobeCode>
+    <AdobeCode>{40628818-CE6C-42A7-80DC-2A2F4AA469DC}</AdobeCode>
+    <AdobeCode>{88040B41-9E77-4954-89B0-0CFF16CB6958}</AdobeCode>
+    <AdobeCode>{F1B7173B-C8F2-4CA0-86A0-60681196620D}</AdobeCode>
+    <AdobeCode>{B9399BAB-99CA-486F-8256-748B7CD1AFFE}</AdobeCode>
+    <AdobeCode>{E904B0FE-3CA8-4774-907F-073AB312AE03}</AdobeCode>
+    <AdobeCode>{CB7E4ECE-3F93-4BD0-8148-490BF471E7DD}</AdobeCode>
+    <AdobeCode>{224ED44E-F7D8-4D40-9C23-8AD2A1B0AF54}</AdobeCode>
+    <AdobeCode>{0A19983F-D42C-4E7B-9D55-341BFCB25896}</AdobeCode>
+    <AdobeCode>{AD511338-CB7E-4EC7-A607-9A68E9FE958F}</AdobeCode>
+    <AdobeCode>{F8EEA999-94D4-4F9C-9C57-6FB32D0878AD}</AdobeCode>
+    <AdobeCode>{6B5727D1-FD1F-43A6-9D33-DA2FF1BEE7FC}</AdobeCode>
+    <AdobeCode>{F97DE383-0A72-4351-BEE4-0C9ADAFFC649}</AdobeCode>
+    <AdobeCode>{51AB1BC7-C870-47BE-B4A6-34968564721F}</AdobeCode>
+    <AdobeCode>{C869BA2E-E1C1-45DB-BCC0-56274AE14623}</AdobeCode>
+    <AdobeCode>{4E9566E3-21D9-4E93-B3E2-F5B7434918F5}</AdobeCode>
+    <AdobeCode>{75A0394E-A149-477A-9079-2D8B1EBCAE5D}</AdobeCode>
+    <AdobeCode>{E71C392C-135C-4241-8850-220BCB19D5ED}</AdobeCode>
+    <AdobeCode>{44B22FC4-C4A7-4DBC-BAE3-AE775DF1DC11}</AdobeCode>
+    <AdobeCode>{5B604AB3-2D8F-42DE-9A6B-88B3490A4D49}</AdobeCode>
+    <AdobeCode>{BECB339A-81E5-467C-BC2E-7FFC0CAF7BC1}</AdobeCode>
+    <AdobeCode>{B6B6391F-314E-4A2E-8572-242C06DA0C45}</AdobeCode>
+    <AdobeCode>{41DA7803-1640-4FF4-8D0A-773301B462E7}</AdobeCode>
+    <AdobeCode>{6D8822AC-3587-4A09-9BED-E825E5C600A7}</AdobeCode>
+    <AdobeCode>{48280B52-98F2-4BB6-8435-D6AAE270628C}</AdobeCode>
+    <AdobeCode>{032669BC-92C8-448E-A167-293665F7B353}</AdobeCode>
+    <AdobeCode>{577CF7E9-0257-4F59-ADDD-24FF303AABA1}</AdobeCode>
+    <AdobeCode>{76ACE5A9-615D-4F6B-B98B-98FB1208CE3F}</AdobeCode>
+    <AdobeCode>{9B654A58-D35B-4BBB-AD3F-1539B9F27891}</AdobeCode>
+    <AdobeCode>{17FA8AB3-4FA7-4417-BB6D-0351100B671E}</AdobeCode>
+    <AdobeCode>{4E57F023-FA65-4A42-BC72-79254079A0C1}</AdobeCode>
+    <AdobeCode>{6ECB4F80-3354-4FC6-9075-C292CF545827}</AdobeCode>
+    <AdobeCode>{BC751245-2381-47D0-852D-CB13F099E9F8}</AdobeCode>
+    <AdobeCode>{9FDA6BC5-CE33-4DDF-A775-DFA2327F1C3C}</AdobeCode>
+    <AdobeCode>{D5A28786-8088-4110-9940-5AD20AC27A59}</AdobeCode>
+    <AdobeCode>{94A1CE42-1794-4E28-A5A6-C962CC13E0EF}</AdobeCode>
+    <AdobeCode>{1C73415A-8C94-4C8A-B1C6-4E9949F54D68}</AdobeCode>
+    <AdobeCode>{4C04C745-985F-4C4A-8554-87D8291DACA8}</AdobeCode>
+    <AdobeCode>{2C1E85C2-AC96-47C1-9C9A-BC0E20092B8A}</AdobeCode>
+    <AdobeCode>{6CCAF185-DB82-404D-B4F5-BE25F7F14DFF}</AdobeCode>
+    <AdobeCode>{1E1F83EC-0982-4D4E-B099-2D928C0C38DB}</AdobeCode>
+    <AdobeCode>{29BBD75D-4144-4D5C-BC28-AC4279CE2CC9}</AdobeCode>
+    <AdobeCode>{75F983DB-FE36-4C54-B9F9-B79D28C97F35}</AdobeCode>
+    <AdobeCode>{5D16042D-66B4-4757-A81B-2539B2D3FCAF}</AdobeCode>
+    <AdobeCode>{001E2B80-F6EF-4125-9E07-B30F4B47B875}</AdobeCode>
+    <AdobeCode>{EE16A8C5-A673-4ABA-A49F-AF5144669E3E}</AdobeCode>
+    <AdobeCode>{74031E46-63C9-4F23-A4A0-90CA71AB76D4}</AdobeCode>
+    <AdobeCode>{E628BC0B-A260-470B-8718-69815123B82D}</AdobeCode>
+    <AdobeCode>{981A330B-372E-4FCD-A55D-98CC7E94F909}</AdobeCode>
+    <AdobeCode>{A9EF2428-B786-4732-A624-538476AA15D7}</AdobeCode>
+    <AdobeCode>{486F1A21-6F58-48D3-9F25-7996DDD160C5}</AdobeCode>
+    <AdobeCode>{42537A5F-6ED2-4A9E-9242-3467BED2741F}</AdobeCode>
+    <AdobeCode>{25CF4C24-103C-48BB-88BF-CAB7B2902CB0}</AdobeCode>
+    <AdobeCode>{D84B5A80-BF3B-4B43-B9FE-CA1F6179A09E}</AdobeCode>
+    <AdobeCode>{3D030BA8-AF3D-4BAD-8D5B-5B31460F3AC5}</AdobeCode>
+    <AdobeCode>{77703E5D-3C6B-46A8-A1E7-1E8D63CA0E15}</AdobeCode>
+    <AdobeCode>{62E8806B-E8FC-4F5B-9105-0D75F082D284}</AdobeCode>
+    <AdobeCode>{5EE6411A-5667-4886-B774-D0083B0E14FE}</AdobeCode>
+    <AdobeCode>{1B57CCE7-724D-4F4D-9889-C71322AAA615}</AdobeCode>
+    <AdobeCode>{F814874C-DEFD-4A3B-A12B-9FD6E4FB82F9}</AdobeCode>
+    <AdobeCode>{67E35962-27E7-4C2B-A417-039916D74B75}</AdobeCode>
+    <AdobeCode>{222FA78B-6715-4E9C-88E4-2FB98EB833E7}</AdobeCode>
+    <AdobeCode>{D5B73E88-8E79-4832-A918-1A26E6245DEB}</AdobeCode>
+    <AdobeCode>{89CF5560-B05F-47D3-A570-9E06C68CC013}</AdobeCode>
+    <AdobeCode>{001E352A-0263-417E-9AD9-62EC0D7AB29F}</AdobeCode>
+    <AdobeCode>{412AAAF2-263B-4EC3-990C-2C7E0661C9E9}</AdobeCode>
+    <AdobeCode>{1EABD297-ACC5-44AE-8982-BCE3C895281F}</AdobeCode>
+    <AdobeCode>{BE8A6E68-A715-4489-A12E-CC9EA87D4696}</AdobeCode>
+    <AdobeCode>{535D8F8C-3425-41B9-A7E2-BD055226840B}</AdobeCode>
+    <AdobeCode>{7C62F09B-623D-47B3-AE9E-0AAAC8F226EF}</AdobeCode>
+    <AdobeCode>{22D3442E-0CE0-4C2C-9120-AEF2DC576237}</AdobeCode>
+    <AdobeCode>{DB45B1D6-FD9E-4E02-B475-080AD26ABF9A}</AdobeCode>
+    <AdobeCode>{FBC65947-BE90-4418-9349-9276626E046D}</AdobeCode>
+    <AdobeCode>{5ECD0716-5F49-4E2E-89D9-4D9B04BB70E2}</AdobeCode>
+    <AdobeCode>{4BC3D06B-8F73-4374-9FEB-33FF3E271897}</AdobeCode>
+    <AdobeCode>{89A97596-A248-4022-ACA9-1A8EB03C90BF}</AdobeCode>
+    <AdobeCode>{77E01EC6-B302-47E2-8B2E-54061FFE8085}</AdobeCode>
+    <AdobeCode>{932F5975-86C1-43EC-AABB-F185D4ADB5A3}</AdobeCode>
+    <AdobeCode>{9DD0B58B-6A8D-4045-AE25-DF31FC1095D8}</AdobeCode>
+    <AdobeCode>{A6CB72A5-429D-4E2C-8AB8-67E63BBA1E13}</AdobeCode>
+    <AdobeCode>{D9D4438E-4A86-4D69-93B7-0B4EDD5B8032}</AdobeCode>
+    <AdobeCode>{8C6333DC-9727-477C-BED3-21383C4B959A}</AdobeCode>
+    <AdobeCode>{26AC9931-370B-46D0-8157-30DAB5B1B9D6}</AdobeCode>
+    <AdobeCode>{71257B52-44F2-4946-BBD9-7FEF10615991}</AdobeCode>
+    <AdobeCode>{2B311B58-0AEB-4B50-8D6E-9CAD1056E9F6}</AdobeCode>
+    <AdobeCode>{3F6966AC-63D7-48C1-B0AD-665AE645DDDA}</AdobeCode>
+    <AdobeCode>{53ED732A-2E5C-4373-A1E9-1515396B6657}</AdobeCode>
+    <AdobeCode>{47DC13B4-6650-4B47-9E04-D0E73339AC3F}</AdobeCode>
+    <AdobeCode>{A88E57F5-E370-44CC-ACB5-78845F48DEF1}</AdobeCode>
+    <AdobeCode>{6956B598-0660-4F9F-9EAD-E4DE3C323941}</AdobeCode>
+    <AdobeCode>{48ACA0C6-BF2F-49F4-83A5-2B51CADCBCF9}</AdobeCode>
+    <AdobeCode>{23FF60D5-561D-4FBE-8738-CDA82AF34D46}</AdobeCode>
+    <AdobeCode>{7483BF6D-C569-4111-A7A0-5B306D9D4A87}</AdobeCode>
+    <AdobeCode>{483FBA20-E5B1-456E-9C4D-334075C14351}</AdobeCode>
+    <AdobeCode>{4BB42D8D-8A7D-41F7-B11D-B7FEBA7233FD}</AdobeCode>
+    <AdobeCode>{3D045045-57E1-4D07-9A0A-45230BB58A4D}</AdobeCode>
+    <AdobeCode>{D1AD6E34-24EB-4E02-B1E3-5E241CBD06F5}</AdobeCode>
+    <AdobeCode>{DED5F88D-AB8E-40F2-930D-D0F2196C55CA}</AdobeCode>
+    <AdobeCode>{DB09BFA2-446E-485C-BCDE-8BC3D3106C6B}</AdobeCode>
+    <AdobeCode>{69082305-944C-404F-8B7C-2FB3BEB9DE3A}</AdobeCode>
+    <AdobeCode>{1418DC54-75CD-4195-9E75-F41CA89DC462}</AdobeCode>
+    <AdobeCode>{B526671A-851A-4EFB-969E-19928CB1FD14}</AdobeCode>
+    <AdobeCode>{906C2D7E-D4A6-4D45-B1BC-E015A65DD293}</AdobeCode>
+    <AdobeCode>{EA8CF7B6-41E6-42F9-8641-825637C76DFD}</AdobeCode>
+    <AdobeCode>{3E1F82FC-076E-47D3-88A4-1DE906B8B80C}</AdobeCode>
+    <AdobeCode>{574845DA-BD97-417E-97C0-59F63232E730}</AdobeCode>
+    <AdobeCode>{70524D74-F54F-4783-95EF-26624971FDE6}</AdobeCode>
+    <AdobeCode>{29274BE8-9137-4BF7-90DD-E0D2530F17AA}</AdobeCode>
+    <AdobeCode>{6DB9D6B6-8A74-4C80-9EFF-7421D9F0967C}</AdobeCode>
+    <AdobeCode>{1D58F150-DF1D-4283-BA16-B1786EB22355}</AdobeCode>
+    <AdobeCode>{BB84A0F0-9FA7-4C9A-92E3-C9DD7C2A807A}</AdobeCode>
+    <AdobeCode>{A764A779-233E-4B58-B3E7-6B271DA3AFB6}</AdobeCode>
+    <AdobeCode>{37756E5E-B5A1-4D21-BCBA-96E181093654}</AdobeCode>
+    <AdobeCode>{741027E0-AF19-4377-9199-406C75C4761A}</AdobeCode>
+    <AdobeCode>{41E06181-8509-4185-81CD-F258EEFE82C0}</AdobeCode>
+    <AdobeCode>{2ACF7319-BB7C-4E75-8667-1B077922B063}</AdobeCode>
+    <AdobeCode>{0E7C2F2E-BA8E-4D9C-9DE2-DDB623196887}</AdobeCode>
+    <AdobeCode>{86F4AB93-3891-43E1-A661-A732FD24E86A}</AdobeCode>
+    <AdobeCode>{52CC300B-2ABE-460F-9E23-E39406EB63A6}</AdobeCode>
+    <AdobeCode>{BA64A00E-C8C7-4D73-9924-1F1BF5D91F9F}</AdobeCode>
+    <AdobeCode>{4ADD0D83-52AB-4037-AB38-F72E053F8F44}</AdobeCode>
+    <AdobeCode>{F6D6C14B-01FD-4CCB-9FAF-2503AB1532FA}</AdobeCode>
+    <AdobeCode>{A91CCE32-6EED-4AB3-AAC7-6053DBC00C88}</AdobeCode>
+    <AdobeCode>{CDF40885-37EA-4FB7-A359-8EA83F40ACB0}</AdobeCode>
+    <AdobeCode>{B7E97990-95AC-4F47-ADAC-AEE694132344}</AdobeCode>
+    <AdobeCode>{7B8565BE-CC08-43E8-8B3A-78447411CCB0}</AdobeCode>
+    <AdobeCode>{F8AB9AFE-0F02-43A9-B360-235C17DDA97D}</AdobeCode>
+    <AdobeCode>{79F297EB-D29C-4DF7-BE82-854C1EE6751C}</AdobeCode>
+    <AdobeCode>{8EBA44DC-2BBF-4F88-8BF7-7BEA102917B4}</AdobeCode>
+    <AdobeCode>{8B5BAAA8-6ADE-4BE3-8951-4FEE46955000}</AdobeCode>
+    <AdobeCode>{A8F4567C-4F13-45AC-9D5C-EAC36C358C37}</AdobeCode>
+    <AdobeCode>{870397BE-ED2E-4C1A-83B0-AAC10CB4C3C4}</AdobeCode>
+    <AdobeCode>{CE67FCE4-2280-4D41-A1A7-61193C93C543}</AdobeCode>
+    <AdobeCode>{50937075-8610-4B2A-A054-C8465060B7A5}</AdobeCode>
+    <AdobeCode>{64E09041-D5D6-475F-8D74-E38C6B16BF09}</AdobeCode>
+    <AdobeCode>{F595768F-B479-4DC1-9B91-662E1B00BA2B}</AdobeCode>
+    <AdobeCode>{FCA1B442-0EBC-41A6-AA98-146A40278CE7}</AdobeCode>
+    <AdobeCode>{1990B827-950B-4E5A-83D7-CB5406623432}</AdobeCode>
+    <AdobeCode>{887ECD98-CD48-40FE-A52F-A6CD9F937457}</AdobeCode>
+    <AdobeCode>{65216ADA-D02A-4DE2-A042-ECBAAA9A2B1B}</AdobeCode>
+    <AdobeCode>{470F5BD7-E0B1-484A-ADCE-387A49ACA55A}</AdobeCode>
+    <AdobeCode>{740911AC-FDEE-4078-BA16-BD3441ECD79A}</AdobeCode>
+    <AdobeCode>{56A16EB5-6310-4B6F-B270-50BD6DAC42EC}</AdobeCode>
+    <AdobeCode>{2DB4F48C-A2BB-4718-A4FC-81917BF30E3D}</AdobeCode>
+    <AdobeCode>{3AD45029-08EA-4029-8DA1-09748C372461}</AdobeCode>
+    <AdobeCode>{1FD63779-ADA5-4FF2-90D4-880B06EC1C02}</AdobeCode>
+    <AdobeCode>{0564F23C-B351-42D5-8B24-D741F29983B2}</AdobeCode>
+    <AdobeCode>{F23C572C-E31F-46AD-A938-6C7FC16D5B7B}</AdobeCode>
+    <AdobeCode>{5F6B7431-972D-4BF2-B6DA-8A061572D0E8}</AdobeCode>
+    <AdobeCode>{6EAE4AD9-C67C-4B36-94A4-F229C2730A77}</AdobeCode>
+    <AdobeCode>{8F67D1CF-A586-4623-875D-B74C7A43DA50}</AdobeCode>
+    <AdobeCode>{BDD13715-1655-494D-83A8-2BB2BB4E5795}</AdobeCode>
+    <AdobeCode>{5F1D8E25-AF06-4ADD-8209-234D66B3AA53}</AdobeCode>
+    <AdobeCode>{62765436-E80E-4B0E-AAE4-7DEE34BAE0DF}</AdobeCode>
+    <AdobeCode>{1E271B4D-EB74-4D70-AFA5-BA1FFC262F71}</AdobeCode>
+    <AdobeCode>{EDE403C6-69B1-4466-A1A4-9BDD07E0D5EB}</AdobeCode>
+    <AdobeCode>{1882EC9D-1256-4AE9-9405-C814CA8CC0DA}</AdobeCode>
+    <AdobeCode>{8A4812E3-149A-4D4A-8E14-A63D74F29DDE}</AdobeCode>
+    <AdobeCode>{55663600-1A3A-4389-B03C-602F5F54A09B}</AdobeCode>
+    <AdobeCode>{3B54A1A3-B357-4F94-AFCA-A8F718DA74E0}</AdobeCode>
+    <AdobeCode>{257BF95C-327B-425F-BA68-24AC2DEDD5DC}</AdobeCode>
+    <AdobeCode>{62FAC66C-F240-416B-A16E-C5685C570E1F}</AdobeCode>
+    <AdobeCode>{96937526-8ABA-48BC-92F4-8E5E12E1D4F6}</AdobeCode>
+    <AdobeCode>{09F6E8DC-CDCB-443E-8BD6-7389A5FB1147}</AdobeCode>
+    <AdobeCode>{CCC919CF-6819-4524-9955-97B02E713D9F}</AdobeCode>
+    <AdobeCode>{94A9635C-26EE-486F-92DD-1E28103A58F3}</AdobeCode>
+    <AdobeCode>{06211FAE-34FE-4D39-A71D-0B7CC0DEAFBD}</AdobeCode>
+    <AdobeCode>{6D1471DF-C0B2-4590-9DD1-95AD43F33710}</AdobeCode>
+    <AdobeCode>{AEAEB891-6196-46B3-A672-ADB8F6C89742}</AdobeCode>
+    <AdobeCode>{3F6D5CE4-20DF-4AF1-B83B-602EC3B37B2F}</AdobeCode>
+    <AdobeCode>{D7756A11-D0F3-4C9B-8964-866D2E7E14FA}</AdobeCode>
+    <AdobeCode>{4C68FC86-7DE8-4AB1-8D8A-3B21F4942354}</AdobeCode>
+    <AdobeCode>{D3B71E3B-895A-482B-9AFD-2432FF5309CC}</AdobeCode>
+    <AdobeCode>{C131CC73-3E59-4CAA-9F31-D428CF4B41C2}</AdobeCode>
+    <AdobeCode>{E35BD79E-554A-400D-8319-6CBE6EBE174B}</AdobeCode>
+    <AdobeCode>{A0F37B44-652A-489E-8394-2ED9A324EBF7}</AdobeCode>
+    <AdobeCode>{3DC85CEB-CBCF-4F9E-B938-15BD42314ADF}</AdobeCode>
+    <AdobeCode>{55D525E9-7164-4837-A77B-A87794904982}</AdobeCode>
+    <AdobeCode>{08845C9A-ED2D-4CB1-990E-5B1CFD6B3E49}</AdobeCode>
+    <AdobeCode>{DB99D1F8-1A24-4221-AF4B-2DC48E4C21DC}</AdobeCode>
+    <AdobeCode>{CBE640B5-B04A-411A-A96C-8AA3E09869D9}</AdobeCode>
+    <AdobeCode>{68F40A85-D4A7-42FE-9266-A2B91D0D6AFE}</AdobeCode>
+    <AdobeCode>{286D63DD-7B15-40F2-AE6C-0640CBA8E48B}</AdobeCode>
+    <AdobeCode>{B3466E8F-2A66-4FEA-ABB2-576EEBC0F3CA}</AdobeCode>
+    <AdobeCode>{66B909E6-4E34-4CC1-B1DC-2284CA66D7A0}</AdobeCode>
+    <AdobeCode>{5E1BE873-9135-46F8-BBDB-0CADFCEE93E4}</AdobeCode>
+    <AdobeCode>{C8A79214-5E2C-4177-BA42-1CA0A2FD07DA}</AdobeCode>
+    <AdobeCode>{D264E2F7-514B-4E28-8E9A-B213BB355DC1}</AdobeCode>
+    <AdobeCode>{18E50971-A38A-48C2-8DA1-A6E56AB28740}</AdobeCode>
+    <AdobeCode>{0772A3DA-B94D-4689-9F9C-2BB3CD0B5977}</AdobeCode>
+    <AdobeCode>{FCA1D616-39B7-4B24-BA1F-6EFE36259E0B}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[INSTALLDIR]</Root>
+      <TotalSize>103240598</TotalSize>
+      <MaxPathComponent>/Adobe Device Central CS3/LMResources/privacystatements\ActivationInformationARA.txt</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>27457786</TotalSize>
+      <MaxPathComponent>/Bridge CS3 Extensions/Device Central/Resources/devicecentral-ext\devicecentral-ext_de_DE.dat</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[StartMenuSubFolder]</Root>
+      <TotalSize>0</TotalSize>
+      <MaxPathComponent>Adobe Device Central CS3</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses>
+    <Win32>
+      <Process blocking="1">DeviceCentral.exe</Process>
+    </Win32>
+  </ConflictingProcesses>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Device Central CS3</Value>
+      <Value lang="ar_AE">Adobe Device Central CS3</Value>
+      <Value lang="be_BY">Adobe Device Central CS3</Value>
+      <Value lang="bg_BG">Adobe Device Central CS3</Value>
+      <Value lang="ca_ES">Adobe Device Central CS3</Value>
+      <Value lang="zh_CN">Adobe Device Central CS3</Value>
+      <Value lang="zh_TW">Adobe Device Central CS3</Value>
+      <Value lang="hr_HR">Adobe Device Central CS3</Value>
+      <Value lang="cs_CZ">Adobe Device Central CS3</Value>
+      <Value lang="da_DK">Adobe Device Central CS3</Value>
+      <Value lang="nl_NL">Adobe Device Central CS3</Value>
+      <Value lang="en_XC">Adobe Device Central CS3</Value>
+      <Value lang="en_XM">Adobe Device Central CS3</Value>
+      <Value lang="en_GB">Adobe Device Central CS3</Value>
+      <Value lang="en_US">Adobe Device Central CS3</Value>
+      <Value lang="et_EE">Adobe Device Central CS3</Value>
+      <Value lang="fi_FI">Adobe Device Central CS3</Value>
+      <Value lang="fr_FR">Adobe Device Central CS3</Value>
+      <Value lang="fr_XM">Adobe Device Central CS3</Value>
+      <Value lang="de_DE">Adobe Device Central CS3</Value>
+      <Value lang="el_GR">Adobe Device Central CS3</Value>
+      <Value lang="he_IL">Adobe Device Central CS3</Value>
+      <Value lang="hu_HU">Adobe Device Central CS3</Value>
+      <Value lang="hi_IN">Adobe Device Central CS3</Value>
+      <Value lang="is_IS">Adobe Device Central CS3</Value>
+      <Value lang="it_IT">Adobe Device Central CS3</Value>
+      <Value lang="ja_JP">Adobe Device Central CS3</Value>
+      <Value lang="ko_KR">Adobe Device Central CS3</Value>
+      <Value lang="lv_LV">Adobe Device Central CS3</Value>
+      <Value lang="lt_LT">Adobe Device Central CS3</Value>
+      <Value lang="mk_MK">Adobe Device Central CS3</Value>
+      <Value lang="nn_NO">Adobe Device Central CS3</Value>
+      <Value lang="no_NO">Adobe Device Central CS3</Value>
+      <Value lang="nb_NO">Adobe Device Central CS3</Value>
+      <Value lang="pl_PL">Adobe Device Central CS3</Value>
+      <Value lang="pt_BR">Adobe Device Central CS3</Value>
+      <Value lang="ro_RO">Adobe Device Central CS3</Value>
+      <Value lang="ru_RU">Adobe Device Central CS3</Value>
+      <Value lang="sh_YU">Adobe Device Central CS3</Value>
+      <Value lang="sk_SK">Adobe Device Central CS3</Value>
+      <Value lang="sl_SI">Adobe Device Central CS3</Value>
+      <Value lang="es_QM">Adobe Device Central CS3</Value>
+      <Value lang="es_ES">Adobe Device Central CS3</Value>
+      <Value lang="sv_SE">Adobe Device Central CS3</Value>
+      <Value lang="th_TH">Adobe Device Central CS3</Value>
+      <Value lang="tr_TR">Adobe Device Central CS3</Value>
+      <Value lang="uk_UA">Adobe Device Central CS3</Value>
+      <Value lang="vi_VN">Adobe Device Central CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

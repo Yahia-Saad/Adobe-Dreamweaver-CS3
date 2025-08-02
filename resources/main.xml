@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Localization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exportTime="String">
+	<String stringID="ProductName">
+		<ar_AE>[productName]</ar_AE>
+		<cs_CZ>[productName]</cs_CZ>
+		<de_DE>[productName]</de_DE>
+		<el_GR>[productName]</el_GR>
+		<en_US>[productName]</en_US>
+		<es_ES>[productName]</es_ES>
+		<fr_FR>[productName]</fr_FR>
+		<he_IL>[productName]</he_IL>
+		<hu_HU>[productName]</hu_HU>
+		<it_IT>[productName]</it_IT>
+		<ja_JP>[productName]</ja_JP>
+		<ko_KR>[productName]</ko_KR>
+		<nl_NL>[productName]</nl_NL>
+		<pl_PL>[productName]</pl_PL>
+		<ro_RO>[productName]</ro_RO>
+		<ru_RU>[productName]</ru_RU>
+		<sv_SE>[productName]</sv_SE>
+		<tr_TR>[productName]</tr_TR>
+		<uk_UA>[productName]</uk_UA>
+		<zh_CN>[productName]</zh_CN>
+		<zh_TW>[productName]</zh_TW>
+		<da_DK>[productName]</da_DK>
+		<fi_FI>[productName]</fi_FI>
+		<nb_NO>[productName]</nb_NO>
+		<pt_BR>[productName]</pt_BR>
+	</String>
+	<String stringID="main_pageTitle">
+		<ar_AE>إعداد Adobe</ar_AE>
+		<cs_CZ>Instalace Adobe</cs_CZ>
+		<de_DE>Adobe Setup</de_DE>
+		<el_GR>Εγκατάσταση Adobe</el_GR>
+		<en_US>Adobe Setup</en_US>
+		<es_ES>Instalación de Adobe</es_ES>
+		<fr_FR>Installation Adobe</fr_FR>
+		<he_IL>תוכנית ההתקנה של Adobe</he_IL>
+		<hu_HU>Adobe telepítő</hu_HU>
+		<it_IT>Installazione Adobe</it_IT>
+		<ja_JP>Adobe セットアップ</ja_JP>
+		<ko_KR>Adobe 설치 프로그램</ko_KR>
+		<nl_NL>Adobe Setup</nl_NL>
+		<pl_PL>Instalacja Adobe</pl_PL>
+		<ro_RO>Configurare Adobe</ro_RO>
+		<ru_RU>Установка Adobe</ru_RU>
+		<sv_SE>Installationsprogram för Adobe</sv_SE>
+		<tr_TR>Adobe Kurulum</tr_TR>
+		<uk_UA>Програма установки Adobe</uk_UA>
+		<zh_CN>Adobe 安装程序</zh_CN>
+		<zh_TW>Adobe 安裝程式</zh_TW>
+		<da_DK>Installationsprogram til Adobe</da_DK>
+		<fi_FI>Adobe-asennus</fi_FI>
+		<nb_NO>Installasjonsprogram for Adobe</nb_NO>
+		<pt_BR>Configuração Adobe</pt_BR>
+	</String>
+	<String stringID="main_pageSubTitle">
+		<ar_AE>تجهيز إعداد Adobe...</ar_AE>
+		<cs_CZ>Inicializuje se instalace Adobe...</cs_CZ>
+		<de_DE>Adobe-Setup wird initialisiert...</de_DE>
+		<el_GR>Προετοιμασία εγκατάστασης Adobe...</el_GR>
+		<en_US>Initializing Adobe Setup...</en_US>
+		<es_ES>Iniciando la instalación de Adobe...</es_ES>
+		<fr_FR>Initialisation de l'installation Adobe...</fr_FR>
+		<he_IL>מאתחל את תוכנית ההתקנה של Adobe...</he_IL>
+		<hu_HU>Az Adobe telepítő inicializálása...</hu_HU>
+		<it_IT>Inizializzazione installazione Adobe...</it_IT>
+		<ja_JP>Adobe セットアップを初期化しています...</ja_JP>
+		<ko_KR>Adobe 설치 프로그램 초기화 중...</ko_KR>
+		<nl_NL>Bezig met initialiseren van Adobe Setup...</nl_NL>
+		<pl_PL>Inicjalizacja instalacji Adobe...</pl_PL>
+		<ro_RO>Iniţializare Configurare Adobe...</ro_RO>
+		<ru_RU>Установка Adobe...</ru_RU>
+		<sv_SE>Initierar Adobe-installation...</sv_SE>
+		<tr_TR>Adobe Kurulum Başlatılıyor...</tr_TR>
+		<uk_UA>Ініціалізація програми установки Adobe...</uk_UA>
+		<zh_CN>正在初始化 Adobe 安装程序...</zh_CN>
+		<zh_TW>初始化 Adobe 安裝程式...</zh_TW>
+		<da_DK>Starter installationsprogram til Adobe...</da_DK>
+		<fi_FI>Adobe-asennusta alustetaan...</fi_FI>
+		<nb_NO>Initialiserer installasjonsprogrammet for Adobe...</nb_NO>
+		<pt_BR>Inicializando a configuração da Adobe...</pt_BR>
+	</String>
+	<String stringID="win32_unsupportedConfigurationTitle">
+		<ar_AE>إعداد غير مدعوم (عربي)</ar_AE>
+		<cs_CZ>Nepodporovaná konfigurace</cs_CZ>
+		<de_DE>Nicht unterstützte Konfiguration</de_DE>
+		<el_GR>Μη υποστηριζόμενη διαμόρφωση</el_GR>
+		<en_US>Unsupported Configuration</en_US>
+		<es_ES>Configuración no admitida</es_ES>
+		<fr_FR>Configuration non prise en charge</fr_FR>
+		<he_IL>תצורה לא נתמכת (עברית)</he_IL>
+		<hu_HU>Nem támogatott konfiguráció</hu_HU>
+		<it_IT>Configurazione non supportata</it_IT>
+		<ja_JP>サポートされていない設定</ja_JP>
+		<ko_KR>지원되지 않는 구성</ko_KR>
+		<nl_NL>Niet-ondersteunde configuratie</nl_NL>
+		<pl_PL>Nieobsługiwana konfiguracja</pl_PL>
+		<ro_RO>Configuraţie neacceptată</ro_RO>
+		<ru_RU>Неподдерживаемая конфигурация)</ru_RU>
+		<sv_SE>Konfigurationen saknar stöd</sv_SE>
+		<tr_TR>Desteklenmeyen Yapılandırma</tr_TR>
+		<uk_UA>Непідтримувана конфігурація</uk_UA>
+		<zh_CN>不受支持的配置</zh_CN>
+		<zh_TW>不支援的組態</zh_TW>
+		<da_DK>Ikke-understøttet konfiguration</da_DK>
+		<fi_FI>Kokoonpanoa ei tueta</fi_FI>
+		<nb_NO>Konfigurasjonen støttes ikke</nb_NO>
+		<pt_BR>Configuração incompatível</pt_BR>
+	</String>
+	<String stringID="win32_windows2000NotSupported">
+		<ar_AE>لا يدعم هذا المنتج Windows 2000</ar_AE>
+		<cs_CZ>Tento produkt nepodporuje Windows 2000</cs_CZ>
+		<de_DE>Dieses Produkt unterstützt Windows 2000 nicht.</de_DE>
+		<el_GR>Το προϊόν αυτό δεν υποστηρίζει Windows 2000</el_GR>
+		<en_US>This product does not support Windows 2000</en_US>
+		<es_ES>Este producto no admite Windows 2000</es_ES>
+		<fr_FR>Ce produit ne prend pas en charge Windows 2000</fr_FR>
+		<he_IL>מוצר זה אינו תומך ב- Windows 2000</he_IL>
+		<hu_HU>Ez a termék nem támogatja a Windows 2000 rendszert</hu_HU>
+		<it_IT>Il prodotto non supporta Windows 2000</it_IT>
+		<ja_JP>この製品は Windows 2000 をサポートしていません</ja_JP>
+		<ko_KR>이 제품은 Windows 2000을 지원하지 않습니다.</ko_KR>
+		<nl_NL>Dit product ondersteunt Windows 2000 niet.</nl_NL>
+		<pl_PL>Ten produkt nie obsługuje systemu Windows 2000</pl_PL>
+		<ro_RO>Acest produs nu acceptă Windows 2000</ro_RO>
+		<ru_RU>Данное приложение не поддерживается в Windows 2000</ru_RU>
+		<sv_SE>Den här produkten saknar stöd för Windows 2000</sv_SE>
+		<tr_TR>Bu ürün Windows 2000 sistemini desteklemiyor</tr_TR>
+		<uk_UA>Цей продукт не підтримує Windows 2000</uk_UA>
+		<zh_CN>此产品不支持 Windows 2000</zh_CN>
+		<zh_TW>此裝置不支援 Windows 2000</zh_TW>
+		<da_DK>Dette produkt understøtter ikke Windows 2000</da_DK>
+		<fi_FI>Tämä tuote ei tue versiota Windows 2000</fi_FI>
+		<nb_NO>Dette produktet støtter ikke Windows 2000</nb_NO>
+		<pt_BR>Este produto não suporta o Windows 2000</pt_BR>
+	</String>
+	<String stringID="locProductNameInstall">
+    <ar_AE>مثبت [productName]: [pageTitle]</ar_AE>
+    <cs_CZ>Instalátor pro [productName]: [pageTitle]</cs_CZ>
+    <de_DE>[productName]-Installationsprogramm: [pageTitle]</de_DE>
+    <el_GR>Πρόγραμμα εγκατάστασης του [productName]: [pageTitle]</el_GR>
+    <en_US>[productName] Installer: [pageTitle]</en_US>
+    <es_ES>[productName] Programa de instalación: [pageTitle]</es_ES>
+    <fr_FR>[productName] Programme d'installation : [pageTitle]</fr_FR>
+    <he_IL>תוכנית התקנה של [productName]: [pageTitle]</he_IL>
+    <hu_HU>A(z) [productName] telepítője: [pageTitle]</hu_HU>
+    <it_IT>[productName] Programma di disinstallazione: [pageTitle]</it_IT>
+    <ja_JP>[productName] インストーラ: [pageTitle]</ja_JP>
+    <ko_KR>[productName] 설치 관리자: [pageTitle]</ko_KR>
+    <nl_NL>Installation af [productName]: [pageTitle]</nl_NL>
+    <pl_PL>Instalator programu [productName]: [pageTitle]</pl_PL>
+    <ro_RO>Program de instalare [productName]: [pageTitle]</ro_RO>
+    <ru_RU>Программа установки [productName]: [pageTitle]</ru_RU>
+    <sv_SE>[productName] Installationsprogrammet: [pageTitle]</sv_SE>
+    <tr_TR>[productName] Yükleyici: [pageTitle]</tr_TR>
+    <uk_UA>Програма установки продукту [productName]: [pageTitle]</uk_UA>
+    <zh_CN>[productName] 卸载程序: [pageTitle]</zh_CN>
+    <zh_TW>[productName] 安裝程式: [pageTitle]</zh_TW>
+    <da_DK>Installationsprogram til [productName]: [pageTitle]</da_DK>
+    <fi_FI>[productName] Asennusohjelma: [pageTitle]</fi_FI>
+    <nb_NO>[productName] Installasjonsprogram: [pageTitle]</nb_NO>
+    <pt_BR>[productName] Instalador: [pageTitle]</pt_BR>
+  </String>
+	<String stringID="locInitializing">
+		<ar_AE>تجهيز</ar_AE>
+		<cs_CZ>Inicializace</cs_CZ>
+		<de_DE>Initialisierung wird ausgeführt</de_DE>
+		<el_GR>Προετοιμασία</el_GR>
+		<en_US>Initializing</en_US>
+		<es_ES>Iniciando</es_ES>
+		<fr_FR>Initialisation</fr_FR>
+		<he_IL>מאתחל</he_IL>
+		<hu_HU>Inicializálás</hu_HU>
+		<it_IT>Inizializzazione</it_IT>
+		<ja_JP> 初期化中</ja_JP>
+		<ko_KR>초기화 중</ko_KR>
+		<nl_NL>Bezig met initialiseren</nl_NL>
+		<pl_PL>Inicjalizacja</pl_PL>
+		<ro_RO>Iniţializare</ro_RO>
+		<ru_RU>Инициализация</ru_RU>
+		<sv_SE>Initierar</sv_SE>
+		<tr_TR>Başlatılıyor</tr_TR>
+		<uk_UA>Ініціалізація</uk_UA>
+		<zh_CN>正在初始化</zh_CN>
+		<zh_TW>初始化</zh_TW>
+		<da_DK>Starter...</da_DK>
+		<fi_FI>Alustetaan</fi_FI>
+		<nb_NO>Initialiserer</nb_NO>
+		<pt_BR>Inicializando</pt_BR>
+	</String>		
+	<String stringID="locBtnQuit">
+		<ar_AE>إلغاء الأمر</ar_AE>
+		<cs_CZ>Zrušit</cs_CZ>
+		<de_DE>Abbrechen</de_DE>
+		<el_GR>Άκυρο</el_GR>
+		<en_US>Cancel</en_US>
+		<es_ES>Cancelar</es_ES>
+		<fr_FR>Annuler</fr_FR>
+		<he_IL>בטל</he_IL>
+		<hu_HU>Mégse</hu_HU>
+		<it_IT>Annulla</it_IT>
+		<ja_JP>キャンセル</ja_JP>
+		<ko_KR>취소</ko_KR>
+		<nl_NL>Annuleren</nl_NL>
+		<pl_PL>Anuluj</pl_PL>
+		<ro_RO>Anulare</ro_RO>
+		<ru_RU>Отмена</ru_RU>
+		<sv_SE>Avbryt</sv_SE>
+		<tr_TR>İptal</tr_TR>
+		<uk_UA>Скасувати</uk_UA>
+		<zh_CN>取消</zh_CN>
+		<zh_TW>取消</zh_TW>
+		<da_DK>Annuller</da_DK>
+		<fi_FI>Peruuta</fi_FI>
+		<nb_NO>Avbryt</nb_NO>
+		<pt_BR>Cancelar</pt_BR>
+	</String>
+	<String stringID="locInvalidUserCredentialsTitle">
+		<ar_AE>ترخيص مستخدم غير سليم</ar_AE>
+		<cs_CZ>Neplatné oprávnění uživatele</cs_CZ>
+		<de_DE>Ungültiger Berechtigungsnachweis</de_DE>
+		<el_GR>Μη έγκυρες πιστοποιήσεις χρήστη</el_GR>
+		<en_US>Invalid User Credentials</en_US>
+		<es_ES>Credenciales de usuario no válidas</es_ES>
+		<fr_FR>Autorisations de l'utilisateur non valides</fr_FR>
+		<he_IL>הרשאות משתמש לא חוקיות</he_IL>
+		<hu_HU>Érvénytelen hitelesítő adatok</hu_HU>
+		<it_IT>Credenziali utente non valide</it_IT>
+		<ja_JP>不正なユーザ証明</ja_JP>
+		<ko_KR>잘못된 사용자 자격 증명</ko_KR>
+		<nl_NL>Ongeldige gebruikersreferenties</nl_NL>
+		<pl_PL>Nieprawidłowe dane uwierzytelniające użytkownika</pl_PL>
+		<ro_RO>Informaţii de conectare utilizator nevalide</ro_RO>
+		<ru_RU>Недействительные учетные данные пользователя</ru_RU>
+		<sv_SE>Ogiltiga användarrättigheter</sv_SE>
+		<tr_TR>Geçersiz Kullanıcı Bilgileri</tr_TR>
+		<uk_UA>Неправильні облікові дані користувача</uk_UA>
+		<zh_CN>用户凭据无效</zh_CN>
+		<zh_TW>無效的使用者憑証</zh_TW>
+		<da_DK>Ugyldige brugeroplysninger</da_DK>
+		<fi_FI>Virheelliset käyttäjätunnukset</fi_FI>
+		<nb_NO>Ugyldig brukerlegitimasjon</nb_NO>
+		<pt_BR>Credenciais de usuário inválidas</pt_BR>
+	</String>
+	<String stringID="locInvalidUserCredentialsBody">
+		<ar_AE>ليس لديك صلاحيات أمنية كافية لتثبيت [productName].</ar_AE>
+		<cs_CZ>Nemáte dostatečná bezpečnostní oprávnění pro instalaci softwaru [productName].</cs_CZ>
+		<de_DE>Ihr Sicherheitsnachweis ist für die Installation von [productName] nicht ausreichend.</de_DE>
+		<el_GR>Δεν έχετε επαρκείς πιστοποιήσεις ασφαλείας για να εγκαταστήσετε το [productName].</el_GR>
+		<en_US>You do not have sufficient security credentials to install [productName].</en_US>
+		<es_ES>No dispone de suficientes credenciales para instalar [productName].</es_ES>
+		<fr_FR>Vos autorisations de sécurité sont  insuffisantes pour installer [productName].</fr_FR>
+		<he_IL>אין לכם מספיק הרשאות אבטחה לצורך התקנת [productName].</he_IL>
+		<hu_HU>Nem rendelkezik megfelelő biztonsági jogosultságokkal a termék ([productName]) telepítéséhez.</hu_HU>
+		<it_IT>Non si dispone delle credenziali di protezione sufficienti per installare [productName].</it_IT>
+		<ja_JP>[productName] のインストールに必要なセキュリティの証明がありません。</ja_JP>
+		<ko_KR>[productName]을(를) 설치할 충분한 보안 자격 증명이 없습니다.</ko_KR>
+		<nl_NL>U hebt niet voldoende beveiligingsreferenties om [productName] te installeren.</nl_NL>
+		<pl_PL>Nie posiadasz danych uwierzytelniających, niezbędnych do bezpiecznej instalacji programu [productName].</pl_PL>
+		<ro_RO>Nu deţineţi suficiente informaţii de securizare pentru a instala [productName].</ro_RO>
+		<ru_RU>У вас недостаточно прав для установки [productName].</ru_RU>
+		<sv_SE>Du har inte tillräckliga säkerhetsrättigheter för att installera [productName].</sv_SE>
+		<tr_TR>[productName] ürününü yüklemek için yeterli güvenlik kimlik bilgileriniz yok.</tr_TR>
+		<uk_UA>Відсутні необхідні права для встановлення продукту [productName].</uk_UA>
+		<zh_CN>您没有足够的安全凭据，无法安装 [productName]。</zh_CN>
+		<zh_TW>您沒有安全性憑證不足，無法安裝 [productName]。</zh_TW>
+		<da_DK>Du har ikke tilstrækkelige sikkerhedstilladelser til at installere [productName].</da_DK>
+		<fi_FI>Salauksen käyttäjätunnus ei salli asentaa tuotetta [productName].</fi_FI>
+		<nb_NO>Du har ikke tilstrekkelige sikkerhetsrettigheter til å installere [productName].</nb_NO>
+		<pt_BR>Você não tem credenciais de segurança suficientes para instalar o [productName].</pt_BR>
+	</String>	
+	<String stringID="locSetupRunningTitle">
+		<ar_AE>الإعداد يعمل بالفعل</ar_AE>
+		<cs_CZ>Instalace již probíhá</cs_CZ>
+		<de_DE>Setup wird bereits ausgeführt</de_DE>
+		<el_GR>Η εγκατάσταση εκτελείται ήδη</el_GR>
+		<en_US>Setup Already Running</en_US>
+		<es_ES>La instalación ya se está ejecutando</es_ES>
+		<fr_FR>Installation déjà en cours</fr_FR>
+		<he_IL>תוכנית ההתקנה כבר פועלת</he_IL>
+		<hu_HU>A telepítő már fut</hu_HU>
+		<it_IT>Installazione già in corso</it_IT>
+		<ja_JP>セットアップは既に実行中です</ja_JP>
+		<ko_KR>설치 프로그램이 이미 실행 중입니다.</ko_KR>
+		<nl_NL>Setup wordt al uitgevoerd</nl_NL>
+		<pl_PL>Instalacja jest już uruchomiona</pl_PL>
+		<ro_RO>Configurarea rulează deja</ro_RO>
+		<ru_RU>Установка уже выполняется</ru_RU>
+		<sv_SE>Installationen körs redan</sv_SE>
+		<tr_TR>Kurulum Zaten Çalışıyor</tr_TR>
+		<uk_UA>Програму установки вже запущено</uk_UA>
+		<zh_CN>安装程序已经运行</zh_CN>
+		<zh_TW>安裝程式已執行</zh_TW>
+		<da_DK>Installationsprogrammet kører allerede</da_DK>
+		<fi_FI>Asennusohjelma on jo toiminnassa</fi_FI>
+		<nb_NO>Installasjonsprogrammet kjøres allerede</nb_NO>
+		<pt_BR>Configuração já em execução</pt_BR>
+	</String>
+	<String stringID="locSetupRunningBody">
+		<ar_AE>يمكنك تثبيت منتج Adobe واحد فقط في نفس الوقت. يرجى إكمال التثبيت الآخر قبل محاولة تثبيت [productName].</ar_AE>
+		<cs_CZ>Najednou můžete instalovat pouze jeden produkt Adobe.  Dokončete prosím druhou instalaci před tím, než se pokusíte nainstalovat [productName].</cs_CZ>
+		<de_DE>Sie können immer nur jeweils ein Adobe-Produkt installieren. Beenden Sie die andere Installation, bevor Sie mit der Installation von [productName] beginnen.</de_DE>
+		<el_GR>Μπορείτε να εγκαταστήσετε μόνο ένα προϊόν Adobe τη φορά.  Ολοκληρώστε πρώτα την άλλη εγκατάσταση προτού επιχειρήσετε να εγκαταστήσετε το [productName].</el_GR>
+		<en_US>You can only install one Adobe product at a time.  Please complete the other installation before attempting to install [productName].</en_US>
+		<es_ES>Sólo puede instalar un producto de Adobe a la vez.  Finalice la otra instalación antes de intentar instalar [productName].</es_ES>
+		<fr_FR>Vous ne pouvez installer qu'un seul produit Adobe à la fois. Veuillez terminer la première installation avant de tenter d'installer [productName].</fr_FR>
+		<he_IL>ניתן להתקין רק מוצר אחד של  Adobe ברגע נתון. אנא השלימו את ההתקנה הקודמת לפני שתנסו להתקין את [productName].</he_IL>
+		<hu_HU>Egyszerre csak egy Adobe termék telepíthető. A termék ([productName]) telepítése előtt fejezze be az előző telepítését.</hu_HU>
+		<it_IT>È possibile installare un solo un prodotto Adobe alla volta.  Completare l'installazione già iniziata prima di tentare l'installazione di [productName].</it_IT>
+		<ja_JP>複数のアドビ製品を同時にインストールすることはできません。[productName] のインストールを開始する前に、ほかの製品のインストールを完了してください。</ja_JP>
+		<ko_KR>Adobe 제품은 한 번에 하나만 설치할 수 있습니다. [productName]을(를) 설치하기 전에 다른 설치를 완료하십시오.</ko_KR>
+		<nl_NL>U kunt slechts één Adobe-product tegelijk installeren. Voltooi de andere installatie voordat u [productName] probeert te installeren.</nl_NL>
+		<pl_PL>W danym momencie może być instalowany tylko jeden program Adobe.  Proszę dokończyć trwającą instalację, przed rozpoczęciem instalacji programu [productName].</pl_PL>
+		<ro_RO>Nu puteţi înregistra decât câte un singur produs Adobe odată.  Finalizaţi cealaltă instalare înainte de a încerca să instalaţi [productName].</ro_RO>
+		<ru_RU>Возможна установка только одного продукта Adobe за один раз. Завершите начатую ранее установку, прежде чем начнете установку [productName].</ru_RU>
+		<sv_SE>Du kan bara installera en Adobe-produkt åt gången.  Slutför den andra installationen innan du installerar [productName].</sv_SE>
+		<tr_TR>Her seferinden yalnızca bir Adobe ürünü yükleyebilirsiniz.  [productName] ürününü yüklemeyi denemeden önce lütfen diğer yüklemeyi tamamlayın.</tr_TR>
+		<uk_UA>Можна одночасно встановлювати лише один продукт Adobe.  Завершіть інші установки перед установкою продукту [productName].</uk_UA>
+		<zh_CN>一次只能安装一个 Adobe 产品。尝试安装 [productName] 前，请先完成其它安装。</zh_CN>
+		<zh_TW>您一次只能安裝一個 Adobe 產品。請先完成其他的安裝程式，再嘗試安裝 [productName]。</zh_TW>
+		<da_DK>Du kan kun installere ét Adobe-produkt ad gangen. Afslut først den anden installation, før du forsøger at installere [productName].</da_DK>
+		<fi_FI>Voit asentaa vain yhden Adobe-tuotteen kerrallaan.  Tee tuotteen asennus valmiiksi, ennen kuin yrität asentaa [productName] -tuotteen.</fi_FI>
+		<nb_NO>Du kan bare installere ett Adobe-produkt om gangen. Fullfør den andre installasjonen før du prøver å installere [productName].</nb_NO>
+		<pt_BR>É possível instalar apenas um produto da Adobe por vez.  Conclua a outra instalação antes de tentar instalar o [productName].</pt_BR>
+	</String>
+	<String stringID="locBootstrapFailedTitle">
+		<ar_AE>خطأ في الإعداد</ar_AE>
+		<cs_CZ>Chyba instalace</cs_CZ>
+		<de_DE>Setup-Fehler</de_DE>
+		<el_GR>Σφάλμα εγκατάστασης</el_GR>
+		<en_US>Setup Error</en_US>
+		<es_ES>Error de instalación</es_ES>
+		<fr_FR>Erreur d'installation</fr_FR>
+		<he_IL>שגיאת התקנה</he_IL>
+		<hu_HU>Telepítési hiba</hu_HU>
+		<it_IT>Errore di installazione</it_IT>
+		<ja_JP>セットアップエラー</ja_JP>
+		<ko_KR>설치 프로그램 오류</ko_KR>
+		<nl_NL>Setup-fout</nl_NL>
+		<pl_PL>Błąd instalacji</pl_PL>
+		<ro_RO>Eroare de configurare</ro_RO>
+		<ru_RU>Ошибка установки</ru_RU>
+		<sv_SE>Installationsfel</sv_SE>
+		<tr_TR>Kurulum Hatası</tr_TR>
+		<uk_UA>Помилка програми установки</uk_UA>
+		<zh_CN>安装程序错误</zh_CN>
+		<zh_TW>安裝程式錯誤</zh_TW>
+		<da_DK>Installationsfejl</da_DK>
+		<fi_FI>Asennusvirhe</fi_FI>
+		<nb_NO>Installasjonsfeil</nb_NO>
+		<pt_BR>Erro de configuração</pt_BR>
+	</String>
+	<String stringID="locBootstrapFailedBody">
+		<ar_AE>لقد واجه الإعداد خطأ ولا يمكن أن يستمر. اتصل بخدمة عملاء Adobe للمساعدة.</ar_AE>
+		<cs_CZ>Při instalaci se vyskytla chyba a nelze pokračovat. Vyžádejte si pomoc od zákaznické podpory Adobe.</cs_CZ>
+		<de_DE>Setup hat einen Fehler festgestellt und kann nicht fortgesetzt werden. Für weitere Hilfestellung wenden Sie sich an den Kundendienst von Adobe.</de_DE>
+		<el_GR>Παρουσιάστηκε σφάλμα και η εγκατάσταση δεν μπορεί να συνεχιστεί. Επικοινωνήστε με την υπηρεσία υποστήριξης πελατών της Adobe για βοήθεια.</el_GR>
+		<en_US>Setup has encountered an error and cannot continue. Contact Adobe Customer Support for assistance.</en_US>
+		<es_ES>La configuración ha detectado un error y no puede continuar. Póngase en contacto con el servicio de atención al cliente de Adobe para obtener ayuda.</es_ES>
+		<fr_FR>Un erreur est survenue pendant l'installation et celle-ci ne peut continuer. Contactez le support clientèle d'Adobe.</fr_FR>
+		<he_IL>תוכנית ההתקנה נתקלה בשגיאה ולא תוכל להמשיך לפעול. פנו לשירות לקוחות של Adobe לקבלת עזרה.</he_IL>
+		<hu_HU>A telepítő hibát észlelt, így nem futhat tovább. Segítségért forduljon az Adobe ügyfélszolgálatához.</hu_HU>
+		<it_IT>Errore di installazione, impossibile continuare. Contattare il Servizio assistenza di Adobe.</it_IT>
+		<ja_JP>セットアップの実行中にエラーが発生したため続行できません。カスタマーサポートにお問い合わせください。</ja_JP>
+		<ko_KR>오류가 발생하여 계속 진행할 수 없습니다. Adobe 고객 지원 팀에 문의하십시오.</ko_KR>
+		<nl_NL>Setup heeft een fout ontdekt en kan niet doorgaan. Neem contact op met de klantenondersteuning van Adobe voor assistentie.</nl_NL>
+		<pl_PL>Instalacja nie może być kontynuowana, ponieważ wystąpił błąd. Proszę skorzystać z pomocy Obsługi klienta firmy Adobe.</pl_PL>
+		<ro_RO>Configurarea a întâmpinat o eroare şi nu poate continua. Pentru ajutor, contactaţi Serviciul de asistenţă tehnică Adobe.</ro_RO>
+		<ru_RU>Установка не может продолжаться, поскольку произошла ошибка. Обратитесь за помощью в службу поддержки Adobe.</ru_RU>
+		<sv_SE>Ett problem uppstod under installationen och den måste avbrytas. Kontakta Adobes kundtjänst.</sv_SE>
+		<tr_TR>Kurulum bir hatayla karşılaştı ve devam edemiyor. Yardım için Adobe Müşteri Hizmetleri'ne Başvurun.</tr_TR>
+		<uk_UA>Виникла помилка програми установки і її буде закрито. Зверніться до центру підтримки клієнтів Adobe по допомогу.</uk_UA>
+		<zh_CN>安装程序遇到错误无法继续。请联系 Adobe 客户支持部门获得支持。</zh_CN>
+		<zh_TW>安裝程式遇到問題且無法繼續。請聯絡 Adobe 客戶服務中心以尋求協助。</zh_TW>
+		<da_DK>Installationsprogrammet stødte på en fejl og kan ikke fortsætte. Kontakt Adobes kundesupport for at få hjælp.</da_DK>
+		<fi_FI>Asennusohjelma havaitsi virheen eikä voi jatkaa. Ota yhteys Adoben tukeen.</fi_FI>
+		<nb_NO>Installasjonsprogrammet har oppdaget en feil og kan ikke fortsette. Kontakt Adobes kundestøtte hvis du trenger hjelp.</nb_NO>
+		<pt_BR>A configuração encontrou um erro e não pode continuar. Entre em contato com o atendimento ao cliente da Adobe para obter ajuda.</pt_BR>
+	</String>				
+	<String stringID="locAlertWindowTitle">
+		<ar_AE>تنبيه مثبت</ar_AE>
+		<cs_CZ>Upozornění instalátoru</cs_CZ>
+		<de_DE>Warnung des Installationsprogramms</de_DE>
+		<el_GR>Ειδοποίηση προγράμματος εγκατάστασης</el_GR>
+		<en_US>Installer Alert</en_US>
+		<es_ES>Alerta del programa de instalación</es_ES>
+		<fr_FR>Avertissement du programme d'installation</fr_FR>
+		<he_IL>אזהרה של תוכנית ההתקנה</he_IL>
+		<hu_HU>Telepítő riasztása</hu_HU>
+		<it_IT>Avviso del programma di installazione</it_IT>
+		<ja_JP>インストーラの警告</ja_JP>
+		<ko_KR>설치 관리자 경고</ko_KR>
+		<nl_NL>Installatiemelding</nl_NL>
+		<pl_PL>Komunikat programu instalacyjnego</pl_PL>
+		<ro_RO>Alertă de instalare</ro_RO>
+		<ru_RU>Оповещение установки</ru_RU>
+		<sv_SE>Installationsmeddelande</sv_SE>
+		<tr_TR>Yükleyici Uyarısı</tr_TR>
+		<uk_UA>Попередження програми установки</uk_UA>
+		<zh_CN>安装程序警告</zh_CN>
+		<zh_TW>安裝程式警告</zh_TW>
+		<da_DK>Installationsadvarsel</da_DK>
+		<fi_FI>Asennusohjelman varoitus</fi_FI>
+		<nb_NO>Varsel fra installasjonsprogram</nb_NO>
+		<pt_BR>Alerta de Instalador</pt_BR>
+	</String>
+</Localization>

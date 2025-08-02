@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0" md5="e11db9df31ad2e5bdb6e4f17b4d73780"><BuildInfo>
+    <Property name="Created">2007-02-22 15:08:10.966000</Property>
+    <Property name="TargetName">AdobeHelpViewerAll</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{B62B14F8-19D1-4B2E-9608-DC79E98C0FF3}</Property>
+    <Property name="ProductName">Adobe Help Viewer CS3</Property>
+    <Property name="ProductVersion">1</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+        <Family>CoreTech</Family>
+        <ProductName>Adobe Help Viewer CS3</ProductName>
+    <ProductVersion>1</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1</Value>
+      <Value lang="ar_AE">1</Value>
+      <Value lang="be_BY">1</Value>
+      <Value lang="bg_BG">1</Value>
+      <Value lang="ca_ES">1</Value>
+      <Value lang="zh_CN">1</Value>
+      <Value lang="zh_TW">1</Value>
+      <Value lang="hr_HR">1</Value>
+      <Value lang="cs_CZ">1</Value>
+      <Value lang="da_DK">1</Value>
+      <Value lang="nl_NL">1</Value>
+      <Value lang="en_XC">1</Value>
+      <Value lang="en_XM">1</Value>
+      <Value lang="en_GB">1</Value>
+      <Value lang="en_US">1</Value>
+      <Value lang="et_EE">1</Value>
+      <Value lang="fi_FI">1</Value>
+      <Value lang="fr_FR">1</Value>
+      <Value lang="fr_XM">1</Value>
+      <Value lang="de_DE">1</Value>
+      <Value lang="el_GR">1</Value>
+      <Value lang="he_IL">1</Value>
+      <Value lang="hu_HU">1</Value>
+      <Value lang="hi_IN">1</Value>
+      <Value lang="is_IS">1</Value>
+      <Value lang="it_IT">1</Value>
+      <Value lang="ja_JP">1</Value>
+      <Value lang="ko_KR">1</Value>
+      <Value lang="lv_LV">1</Value>
+      <Value lang="lt_LT">1</Value>
+      <Value lang="mk_MK">1</Value>
+      <Value lang="nn_NO">1</Value>
+      <Value lang="no_NO">1</Value>
+      <Value lang="nb_NO">1</Value>
+      <Value lang="pl_PL">1</Value>
+      <Value lang="pt_BR">1</Value>
+      <Value lang="ro_RO">1</Value>
+      <Value lang="ru_RU">1</Value>
+      <Value lang="sh_YU">1</Value>
+      <Value lang="sk_SK">1</Value>
+      <Value lang="sl_SI">1</Value>
+      <Value lang="es_QM">1</Value>
+      <Value lang="es_ES">1</Value>
+      <Value lang="sv_SE">1</Value>
+      <Value lang="th_TH">1</Value>
+      <Value lang="tr_TR">1</Value>
+      <Value lang="uk_UA">1</Value>
+      <Value lang="vi_VN">1</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Help Viewer CS3</Value>
+      <Value lang="ar_AE">Adobe Help Viewer CS3</Value>
+      <Value lang="be_BY">Adobe Help Viewer CS3</Value>
+      <Value lang="bg_BG">Adobe Help Viewer CS3</Value>
+      <Value lang="ca_ES">Adobe Help Viewer CS3</Value>
+      <Value lang="zh_CN">Adobe Help Viewer CS3</Value>
+      <Value lang="zh_TW">Adobe Help Viewer CS3</Value>
+      <Value lang="hr_HR">Adobe Help Viewer CS3</Value>
+      <Value lang="cs_CZ">Adobe Help Viewer CS3</Value>
+      <Value lang="da_DK">Adobe Help Viewer CS3</Value>
+      <Value lang="nl_NL">Adobe Help Viewer CS3</Value>
+      <Value lang="en_XC">Adobe Help Viewer CS3</Value>
+      <Value lang="en_XM">Adobe Help Viewer CS3</Value>
+      <Value lang="en_GB">Adobe Help Viewer CS3</Value>
+      <Value lang="en_US">Adobe Help Viewer CS3</Value>
+      <Value lang="et_EE">Adobe Help Viewer CS3</Value>
+      <Value lang="fi_FI">Adobe Help Viewer CS3</Value>
+      <Value lang="fr_FR">Adobe Help Viewer CS3</Value>
+      <Value lang="fr_XM">Adobe Help Viewer CS3</Value>
+      <Value lang="de_DE">Adobe Help Viewer CS3</Value>
+      <Value lang="el_GR">Adobe Help Viewer CS3</Value>
+      <Value lang="he_IL">Adobe Help Viewer CS3</Value>
+      <Value lang="hu_HU">Adobe Help Viewer CS3</Value>
+      <Value lang="hi_IN">Adobe Help Viewer CS3</Value>
+      <Value lang="is_IS">Adobe Help Viewer CS3</Value>
+      <Value lang="it_IT">Adobe Help Viewer CS3</Value>
+      <Value lang="ja_JP">Adobe Help Viewer CS3</Value>
+      <Value lang="ko_KR">Adobe Help Viewer CS3</Value>
+      <Value lang="lv_LV">Adobe Help Viewer CS3</Value>
+      <Value lang="lt_LT">Adobe Help Viewer CS3</Value>
+      <Value lang="mk_MK">Adobe Help Viewer CS3</Value>
+      <Value lang="nn_NO">Adobe Help Viewer CS3</Value>
+      <Value lang="no_NO">Adobe Help Viewer CS3</Value>
+      <Value lang="nb_NO">Adobe Help Viewer CS3</Value>
+      <Value lang="pl_PL">Adobe Help Viewer CS3</Value>
+      <Value lang="pt_BR">Adobe Help Viewer CS3</Value>
+      <Value lang="ro_RO">Adobe Help Viewer CS3</Value>
+      <Value lang="ru_RU">Adobe Help Viewer CS3</Value>
+      <Value lang="sh_YU">Adobe Help Viewer CS3</Value>
+      <Value lang="sk_SK">Adobe Help Viewer CS3</Value>
+      <Value lang="sl_SI">Adobe Help Viewer CS3</Value>
+      <Value lang="es_QM">Adobe Help Viewer CS3</Value>
+      <Value lang="es_ES">Adobe Help Viewer CS3</Value>
+      <Value lang="sv_SE">Adobe Help Viewer CS3</Value>
+      <Value lang="th_TH">Adobe Help Viewer CS3</Value>
+      <Value lang="tr_TR">Adobe Help Viewer CS3</Value>
+      <Value lang="uk_UA">Adobe Help Viewer CS3</Value>
+      <Value lang="vi_VN">Adobe Help Viewer CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

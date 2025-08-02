@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.125.0">
+  <BuildInfo>
+    <Property name="Created">2007-02-28 23:07:02.302000</Property>
+    <Property name="TargetName">AdobeAUM5.1All</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{FA70D08A-5D90-496D-AF9A-9DBCEE4FC005}</Property>
+    <Property name="ProductName">Adobe Update Manager CS3</Property>
+    <Property name="ProductVersion">5.1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]/Updater5</Platform>
+    <Platform isFixed="1" name="OSX" folderName="">[Utilities]/Adobe Utilities/Adobe Updater5</Platform>
+    <Platform isFixed="1" name="Win32" folderName="">[AdobeCommon]/Updater5</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>AdobeAUM</ProductName>
+	<ProductVersion>5.1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{9D0A39AF-AB48-4A77-8B1F-F7E88365C581}</AdobeCode>
+    <AdobeCode>{4056428B-7113-4ED4-8126-6A2F2F7F01DD}</AdobeCode>
+    <AdobeCode>{5D817276-3543-40FC-BE35-B6CE9A9BDE59}</AdobeCode>
+    <AdobeCode>{C0988819-B28A-40DE-A928-E07430904211}</AdobeCode>
+    <AdobeCode>{55ED171C-DAAF-4EC7-A9B7-5E9758D36757}</AdobeCode>
+    <AdobeCode>{CDF228C0-CBA4-44EB-A65B-4B580A753BE1}</AdobeCode>
+    <AdobeCode>{E584C28A-49D1-42A9-BEE0-1312C93C6A71}</AdobeCode>
+    <AdobeCode>{5819DC93-7785-4659-A950-1A5E4636485C}</AdobeCode>
+    <AdobeCode>{721FB4F0-6909-47D1-A25A-BD6F699FF8BC}</AdobeCode>
+    <AdobeCode>{2E0B102F-BC13-41F6-9C0F-670F0BAB2534}</AdobeCode>
+    <AdobeCode>{620B6A09-43F4-40CD-AE9D-19864BCD158D}</AdobeCode>
+    <AdobeCode>{76647B41-FBBA-49BF-B70F-2AEAF47ED37C}</AdobeCode>
+    <AdobeCode>{4E1194AC-ED78-42B5-9F07-09078129ABED}</AdobeCode>
+    <AdobeCode>{E535C5EF-1117-4A3F-A684-E74A683F5FC1}</AdobeCode>
+    <AdobeCode>{3A11FCA6-2293-4D3A-BCF9-6A8539F3BD95}</AdobeCode>
+    <AdobeCode>{36B8B571-8C0C-40C6-B328-CE1B1226C0AD}</AdobeCode>
+    <AdobeCode>{264AA54E-2D76-4089-823F-D00E6B3164CA}</AdobeCode>
+    <AdobeCode>{B20CEDA7-0A8A-41EE-A2ED-3AAD9A021DD8}</AdobeCode>
+    <AdobeCode>{E1CEE9B3-8A91-4924-888B-A6601B8FCD92}</AdobeCode>
+    <AdobeCode>{44DA5E28-A89E-47A6-928E-54EFEE656251}</AdobeCode>
+    <AdobeCode>{4766990B-B0B1-4415-8969-2A5B09E35CAA}</AdobeCode>
+    <AdobeCode>{6AA2A4EB-45D5-415B-9B1F-A76512309BD5}</AdobeCode>
+    <AdobeCode>{91477001-73BB-425D-9863-FA22CA1087FF}</AdobeCode>
+    <AdobeCode>{0A9AC22D-5D5C-417A-A3A0-2999FD05FCB9}</AdobeCode>
+    <AdobeCode>{D2971794-DDE8-4D61-B025-DB749807438C}</AdobeCode>
+    <AdobeCode>{9A2A244B-547F-4E0A-9256-8AE4827B496D}</AdobeCode>
+    <AdobeCode>{1E9F943C-42AD-49A5-A5CA-AF247EA45954}</AdobeCode>
+    <AdobeCode>{E4B63BDF-1D41-4FD0-87C7-06832BC76B98}</AdobeCode>
+    <AdobeCode>{34D678C6-6241-4C46-B150-1B16148915E6}</AdobeCode>
+    <AdobeCode>{3E1419DB-3770-4648-904E-A25AE18F5039}</AdobeCode>
+    <AdobeCode>{46E020ED-7D17-4EE9-8C6B-06444D18950F}</AdobeCode>
+    <AdobeCode>{B6AEDE53-6233-4784-85D7-6A8803DD4F71}</AdobeCode>
+    <AdobeCode>{1C2E0B10-2DE0-4634-B21C-FA2D67FD5089}</AdobeCode>
+    <AdobeCode>{E009F3AD-611A-4705-8B71-73BA5208FE6A}</AdobeCode>
+    <AdobeCode>{C2C3F860-6278-4C78-9115-49B5BB798A63}</AdobeCode>
+    <AdobeCode>{4CC2B8B4-A10F-44D8-A0B9-9DBA904FB941}</AdobeCode>
+    <AdobeCode>{820CEC6A-38D4-4074-810D-5695EFFC1326}</AdobeCode>
+    <AdobeCode>{80F991FD-065A-43A7-BE6D-F3607FE341A3}</AdobeCode>
+    <AdobeCode>{0D93890D-86FA-44DA-B83E-AFD96FED73F4}</AdobeCode>
+    <AdobeCode>{0BE19D66-236B-4F12-990D-23610F83A606}</AdobeCode>
+    <AdobeCode>{21AA4575-EBF7-4BB7-AF54-012D953229BA}</AdobeCode>
+    <AdobeCode>{AF0A860D-5FCB-426C-AC2E-BD7611BFA49A}</AdobeCode>
+    <AdobeCode>{501F2100-BF78-4A28-8750-9605F2F8426A}</AdobeCode>
+    <AdobeCode>{E66C86C5-1DFE-4D6C-BAC5-C47DF7CEAA6E}</AdobeCode>
+    <AdobeCode>{CD500B20-6164-4FD9-A13A-E55D9FFA6740}</AdobeCode>
+    <AdobeCode>{A9D2353C-1D0E-4543-9F1F-E3536CB52688}</AdobeCode>
+    <AdobeCode>{3235C002-FDD0-4922-95A3-9351CA0B2EAA}</AdobeCode>
+    <AdobeCode>{E6FDBF57-3657-4865-9A8A-80E3EA2CFB2F}</AdobeCode>
+    <AdobeCode>{62FF1AA6-FAC0-4004-A0CB-A8587DA09D6F}</AdobeCode>
+    <AdobeCode>{FC0B3623-A0EF-4C67-948B-F2B789CDD36A}</AdobeCode>
+    <AdobeCode>{317C222A-B38A-486B-9EB2-89F0066C6F74}</AdobeCode>
+    <AdobeCode>{FF2A3E96-DE9B-44C4-A633-C508E7FA645A}</AdobeCode>
+    <AdobeCode>{4DD693AB-890F-40B9-A2FA-5432D88F22BE}</AdobeCode>
+    <AdobeCode>{15D2315B-03E3-4B63-BE3F-E08B7C3C3FFC}</AdobeCode>
+    <AdobeCode>{DA4A1CED-C8CB-47B2-93E8-999BE2CFC66F}</AdobeCode>
+    <AdobeCode>{59C699C8-F6FE-431D-BDC1-4659931C3A73}</AdobeCode>
+    <AdobeCode>{4390B198-8229-418B-83A9-3AE8349C87E3}</AdobeCode>
+    <AdobeCode>{739A07D5-33FB-4569-939D-34B88FCF41D4}</AdobeCode>
+    <AdobeCode>{B381FA69-59A4-4400-878B-B4EC171EDD16}</AdobeCode>
+    <AdobeCode>{D6E55EF4-9DD6-4E1F-9B2D-7F16E54E24AA}</AdobeCode>
+    <AdobeCode>{F0BABAC2-9019-413D-8BD2-330DCB5B5884}</AdobeCode>
+    <AdobeCode>{9E7F5819-12DE-4BD0-BC7D-C0C199768EE3}</AdobeCode>
+    <AdobeCode>{DB9ABC28-6A7D-41EE-A99F-A5EB1E99C8A3}</AdobeCode>
+    <AdobeCode>{1A96B017-D4B8-4070-8A02-EE64D8FC4E96}</AdobeCode>
+    <AdobeCode>{CDFBE350-A520-40C9-AEE8-A17717546B60}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[UserRoamingAppData]</Root>
+      <TotalSize>0</TotalSize>
+      <MaxPathComponent>/Adobe/Updater5</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>4644909</TotalSize>
+      <MaxPathComponent>/Updater5\AdobeUpdaterInstallMgr.exe</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses>
+    <Win32>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Ii][Nn][Gg] [Gg][Ll][Yy][Pp][Hh][Ll][Ee][Tt] [Mm][Aa][Nn][Aa][Gg][Ee][Rr] [Cc][Ss]3\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Gg][Ll][Yy][Pp][Hh][Ll][Ee][Tt] [Mm][Aa][Nn][Aa][Gg][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Uu][Dd][Ii][Tt][Ii][Oo][Nn]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Oo][Uu][Nn][Dd][Bb][Oo][Oo][Tt][Hh] [Cc][Ss]3\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Gg][Oo][Ll][Ii][Vv][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Hh][Vv]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Gg][Oo][Ll][Ii][Vv][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Ff][Tt][Ee][Rr][Ff][Xx]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Ii][Pp][Ll][Tt][Oo][Oo][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Rr][Ee][Ss][Tt][Oo][Oo][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ss][Hh][Ee][Ll][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Mm][Aa][Nn][Aa][Gg][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Uu][Pp][Dd][Aa][Tt][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Ii][Nn][Ss][Tt][Aa][Ll][Ll][Mm][Gg][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee][Uu][Pp][Dd][Aa][Tt][Ee][Rr][Ii][Nn][Ss][Tt][Aa][Ll][Ll][Mm][Gg][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Dd][Nn][Gg] [Cc][Oo][Nn][Vv][Ee][Rr][Tt][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Bb][Rr][Ii][Dd][Gg][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Bb][Rr][Ii][Dd][Gg][Ee][Pp][Rr][Oo][Xx][Yy]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Dd][Oo][Ww][Nn][Ll][Oo][Aa][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Cc][Oo][Nn][Tt][Rr][Ii][Bb][Uu][Tt][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Dd][Ee][Vv][Ii][Cc][Ee][Cc][Ee][Nn][Tt][Rr][Aa][Ll]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Dd][Rr][Ee][Aa][Mm][Ww][Ee][Aa][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ee][Nn][Cc][Oo][Rr][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ee][Nn][Cc][Oo][Rr][Ee]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Xx][Hh][Pp][Ii][Nn][Ss][Tt]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ee][Xx][Tt][Ee][Nn][Dd][Ss][Cc][Rr][Ii][Pp][Tt] [Tt][Oo][Oo][Ll][Kk][Ii][Tt]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ee][Xx][Tt][Ee][Nn][Ss][Ii][Oo][Nn] [Mm][Aa][Nn][Aa][Gg][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Rr][Ee][Pp][Ll][Aa][Cc][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Cc][Rr][Aa][Ss][Hh][Rr][Ee][Pp][Oo][Rr][Tt][Ee][Rr]App\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ii][Rr][Ee][Ww][Oo][Rr][Kk][Ss]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh][Pp][Ll][Aa][Yy][Ee][Rr]*\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] 7 [Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] 8 [Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ff][Ll][Aa][Ss][Hh] [Vv][Ii][Dd][Ee][Oo] [Ee][Nn][Cc][Oo][Dd][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Hh][Vv]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Ll][Ll][Uu][Ss][Tt][Rr][Aa][Tt][Oo][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Cc][Oo][Pp][Yy]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Mm][Rr][Ee][Aa][Dd][Ee][Rr][Aa][Pp][Pp]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee] [Pp][Rr][Oo]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Pp][Rr][Ee][Mm][Ii][Ee][Rr][Ee] [Ee][Ll][Ee][Mm][Ee][Nn][[Tt][Ss]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ww][Mm][Ee][Nn][Cc][Oo][Dd][Ii][Nn][Gg][[Hh][Ee][Ll][Pp][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Aa][Dd][Oo][Bb][Ee] [Ss][Tt][Oo][Cc][Kk] [Pp][Hh][Oo][Tt][Oo][Ss] [Cc][Ss]3\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Vv][Cc][Pp][Rr][Ee][Ff][Ss][Hh][Ee][Ll][Pp][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Vv][Ee][Rr][Ss][Ii][Oo][Nn][Cc][Uu][Ee][Cc][Ss]3Ctl\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn][Ss][Ee][Rr][Vv][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">^[Ii][Nn][Dd][Ee][Ss][Ii][Gg][Nn][Ss][Ee][Rr][Vv][Ee][Rr][Ss][Ee][Rr][Vv][Ii][Cc][Ee]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp] [Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss] 4\.0\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp] [Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss] 5\.0\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss][Oo][Rr][Gg][Aa][Nn][Ii][Zz][Ee][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Pp][Hh][Oo][Tt][Oo][Ss][Hh][Oo][Pp][Ee][Ll][Ee][Mm][Ee][Nn][Tt][Ss][Ee][Dd][Ii][Tt][Oo][Rr]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Ii][Mm][Aa][Gg][Ee][Rr][Ee][Aa][Dd][Yy]\.[Ee][Xx][Ee]</Process>
+      <Process blocking="1">[Aa][Dd][Oo][Bb][Ee] [Ee][Nn][Cc][Oo][Rr][Ee] [Dd][Vv][Dd]\.[Ee][Xx][Ee]</Process>
+    </Win32>
+  </ConflictingProcesses>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">5.1.0</Value>
+      <Value lang="ar_AE">5.1.0</Value>
+      <Value lang="be_BY">5.1.0</Value>
+      <Value lang="bg_BG">5.1.0</Value>
+      <Value lang="ca_ES">5.1.0</Value>
+      <Value lang="zh_CN">5.1.0</Value>
+      <Value lang="zh_TW">5.1.0</Value>
+      <Value lang="hr_HR">5.1.0</Value>
+      <Value lang="cs_CZ">5.1.0</Value>
+      <Value lang="da_DK">5.1.0</Value>
+      <Value lang="nl_NL">5.1.0</Value>
+      <Value lang="en_XC">5.1.0</Value>
+      <Value lang="en_XM">5.1.0</Value>
+      <Value lang="en_GB">5.1.0</Value>
+      <Value lang="en_US">5.1.0</Value>
+      <Value lang="et_EE">5.1.0</Value>
+      <Value lang="fi_FI">5.1.0</Value>
+      <Value lang="fr_FR">5.1.0</Value>
+      <Value lang="fr_XM">5.1.0</Value>
+      <Value lang="de_DE">5.1.0</Value>
+      <Value lang="el_GR">5.1.0</Value>
+      <Value lang="he_IL">5.1.0</Value>
+      <Value lang="hu_HU">5.1.0</Value>
+      <Value lang="hi_IN">5.1.0</Value>
+      <Value lang="is_IS">5.1.0</Value>
+      <Value lang="it_IT">5.1.0</Value>
+      <Value lang="ja_JP">5.1.0</Value>
+      <Value lang="ko_KR">5.1.0</Value>
+      <Value lang="lv_LV">5.1.0</Value>
+      <Value lang="lt_LT">5.1.0</Value>
+      <Value lang="mk_MK">5.1.0</Value>
+      <Value lang="nn_NO">5.1.0</Value>
+      <Value lang="no_NO">5.1.0</Value>
+      <Value lang="nb_NO">5.1.0</Value>
+      <Value lang="pl_PL">5.1.0</Value>
+      <Value lang="pt_BR">5.1.0</Value>
+      <Value lang="ro_RO">5.1.0</Value>
+      <Value lang="ru_RU">5.1.0</Value>
+      <Value lang="sh_YU">5.1.0</Value>
+      <Value lang="sk_SK">5.1.0</Value>
+      <Value lang="sl_SI">5.1.0</Value>
+      <Value lang="es_QM">5.1.0</Value>
+      <Value lang="es_ES">5.1.0</Value>
+      <Value lang="sv_SE">5.1.0</Value>
+      <Value lang="th_TH">5.1.0</Value>
+      <Value lang="tr_TR">5.1.0</Value>
+      <Value lang="uk_UA">5.1.0</Value>
+      <Value lang="vi_VN">5.1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Update Manager CS3</Value>
+      <Value lang="ar_AE">Adobe Update Manager CS3</Value>
+      <Value lang="be_BY">Adobe Update Manager CS3</Value>
+      <Value lang="bg_BG">Adobe Update Manager CS3</Value>
+      <Value lang="ca_ES">Adobe Update Manager CS3</Value>
+      <Value lang="zh_CN">Adobe Update Manager CS3</Value>
+      <Value lang="zh_TW">Adobe Update Manager CS3</Value>
+      <Value lang="hr_HR">Adobe Update Manager CS3</Value>
+      <Value lang="cs_CZ">Adobe Update Manager CS3</Value>
+      <Value lang="da_DK">Adobe Update Manager CS3</Value>
+      <Value lang="nl_NL">Adobe Update Manager CS3</Value>
+      <Value lang="en_XC">Adobe Update Manager CS3</Value>
+      <Value lang="en_XM">Adobe Update Manager CS3</Value>
+      <Value lang="en_GB">Adobe Update Manager CS3</Value>
+      <Value lang="en_US">Adobe Update Manager CS3</Value>
+      <Value lang="et_EE">Adobe Update Manager CS3</Value>
+      <Value lang="fi_FI">Adobe Update Manager CS3</Value>
+      <Value lang="fr_FR">Adobe Update Manager CS3</Value>
+      <Value lang="fr_XM">Adobe Update Manager CS3</Value>
+      <Value lang="de_DE">Adobe Update Manager CS3</Value>
+      <Value lang="el_GR">Adobe Update Manager CS3</Value>
+      <Value lang="he_IL">Adobe Update Manager CS3</Value>
+      <Value lang="hu_HU">Adobe Update Manager CS3</Value>
+      <Value lang="hi_IN">Adobe Update Manager CS3</Value>
+      <Value lang="is_IS">Adobe Update Manager CS3</Value>
+      <Value lang="it_IT">Adobe Update Manager CS3</Value>
+      <Value lang="ja_JP">Adobe Update Manager CS3</Value>
+      <Value lang="ko_KR">Adobe Update Manager CS3</Value>
+      <Value lang="lv_LV">Adobe Update Manager CS3</Value>
+      <Value lang="lt_LT">Adobe Update Manager CS3</Value>
+      <Value lang="mk_MK">Adobe Update Manager CS3</Value>
+      <Value lang="nn_NO">Adobe Update Manager CS3</Value>
+      <Value lang="no_NO">Adobe Update Manager CS3</Value>
+      <Value lang="nb_NO">Adobe Update Manager CS3</Value>
+      <Value lang="pl_PL">Adobe Update Manager CS3</Value>
+      <Value lang="pt_BR">Adobe Update Manager CS3</Value>
+      <Value lang="ro_RO">Adobe Update Manager CS3</Value>
+      <Value lang="ru_RU">Adobe Update Manager CS3</Value>
+      <Value lang="sh_YU">Adobe Update Manager CS3</Value>
+      <Value lang="sk_SK">Adobe Update Manager CS3</Value>
+      <Value lang="sl_SI">Adobe Update Manager CS3</Value>
+      <Value lang="es_QM">Adobe Update Manager CS3</Value>
+      <Value lang="es_ES">Adobe Update Manager CS3</Value>
+      <Value lang="sv_SE">Adobe Update Manager CS3</Value>
+      <Value lang="th_TH">Adobe Update Manager CS3</Value>
+      <Value lang="tr_TR">Adobe Update Manager CS3</Value>
+      <Value lang="uk_UA">Adobe Update Manager CS3</Value>
+      <Value lang="vi_VN">Adobe Update Manager CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

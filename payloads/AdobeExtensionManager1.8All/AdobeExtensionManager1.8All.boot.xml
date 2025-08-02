@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="1.0.133.0" md5="604624eb90bf033cf2832507ef389e35"><BuildInfo>
+    <Property name="Created">2007-03-12 14:08:06.312000</Property>
+    <Property name="TargetName">AdobeExtensionManager1.8All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{450CDEDE-2E5F-4659-AC0D-BA693424ACAF}</Property>
+    <Property name="ProductName">Adobe Extension Manager CS3</Property>
+    <Property name="ProductVersion">1.8</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+        <Family>Creative Suites</Family>
+        <ProductName>Adobe Extension Manager CS3</ProductName>
+    <ProductVersion>1.8</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.8</Value>
+      <Value lang="ar_AE">1.8</Value>
+      <Value lang="be_BY">1.8</Value>
+      <Value lang="bg_BG">1.8</Value>
+      <Value lang="ca_ES">1.8</Value>
+      <Value lang="zh_CN">1.8</Value>
+      <Value lang="zh_TW">1.8</Value>
+      <Value lang="hr_HR">1.8</Value>
+      <Value lang="cs_CZ">1.8</Value>
+      <Value lang="da_DK">1.8</Value>
+      <Value lang="nl_NL">1.8</Value>
+      <Value lang="en_XC">1.8</Value>
+      <Value lang="en_XM">1.8</Value>
+      <Value lang="en_GB">1.8</Value>
+      <Value lang="en_US">1.8</Value>
+      <Value lang="et_EE">1.8</Value>
+      <Value lang="fi_FI">1.8</Value>
+      <Value lang="fr_FR">1.8</Value>
+      <Value lang="fr_XM">1.8</Value>
+      <Value lang="de_DE">1.8</Value>
+      <Value lang="el_GR">1.8</Value>
+      <Value lang="he_IL">1.8</Value>
+      <Value lang="hu_HU">1.8</Value>
+      <Value lang="hi_IN">1.8</Value>
+      <Value lang="is_IS">1.8</Value>
+      <Value lang="it_IT">1.8</Value>
+      <Value lang="ja_JP">1.8</Value>
+      <Value lang="ko_KR">1.8</Value>
+      <Value lang="lv_LV">1.8</Value>
+      <Value lang="lt_LT">1.8</Value>
+      <Value lang="mk_MK">1.8</Value>
+      <Value lang="nn_NO">1.8</Value>
+      <Value lang="no_NO">1.8</Value>
+      <Value lang="nb_NO">1.8</Value>
+      <Value lang="pl_PL">1.8</Value>
+      <Value lang="pt_BR">1.8</Value>
+      <Value lang="ro_RO">1.8</Value>
+      <Value lang="ru_RU">1.8</Value>
+      <Value lang="sh_YU">1.8</Value>
+      <Value lang="sk_SK">1.8</Value>
+      <Value lang="sl_SI">1.8</Value>
+      <Value lang="es_QM">1.8</Value>
+      <Value lang="es_ES">1.8</Value>
+      <Value lang="sv_SE">1.8</Value>
+      <Value lang="th_TH">1.8</Value>
+      <Value lang="tr_TR">1.8</Value>
+      <Value lang="uk_UA">1.8</Value>
+      <Value lang="vi_VN">1.8</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Extension Manager CS3</Value>
+      <Value lang="ar_AE">Adobe Extension Manager CS3</Value>
+      <Value lang="be_BY">Adobe Extension Manager CS3</Value>
+      <Value lang="bg_BG">Adobe Extension Manager CS3</Value>
+      <Value lang="ca_ES">Adobe Extension Manager CS3</Value>
+      <Value lang="zh_CN">Adobe Extension Manager CS3</Value>
+      <Value lang="zh_TW">Adobe Extension Manager CS3</Value>
+      <Value lang="hr_HR">Adobe Extension Manager CS3</Value>
+      <Value lang="cs_CZ">Adobe Extension Manager CS3</Value>
+      <Value lang="da_DK">Adobe Extension Manager CS3</Value>
+      <Value lang="nl_NL">Adobe Extension Manager CS3</Value>
+      <Value lang="en_XC">Adobe Extension Manager CS3</Value>
+      <Value lang="en_XM">Adobe Extension Manager CS3</Value>
+      <Value lang="en_GB">Adobe Extension Manager CS3</Value>
+      <Value lang="en_US">Adobe Extension Manager CS3</Value>
+      <Value lang="et_EE">Adobe Extension Manager CS3</Value>
+      <Value lang="fi_FI">Adobe Extension Manager CS3</Value>
+      <Value lang="fr_FR">Adobe Extension Manager CS3</Value>
+      <Value lang="fr_XM">Adobe Extension Manager CS3</Value>
+      <Value lang="de_DE">Adobe Extension Manager CS3</Value>
+      <Value lang="el_GR">Adobe Extension Manager CS3</Value>
+      <Value lang="he_IL">Adobe Extension Manager CS3</Value>
+      <Value lang="hu_HU">Adobe Extension Manager CS3</Value>
+      <Value lang="hi_IN">Adobe Extension Manager CS3</Value>
+      <Value lang="is_IS">Adobe Extension Manager CS3</Value>
+      <Value lang="it_IT">Adobe Extension Manager CS3</Value>
+      <Value lang="ja_JP">Adobe Extension Manager CS3</Value>
+      <Value lang="ko_KR">Adobe Extension Manager CS3</Value>
+      <Value lang="lv_LV">Adobe Extension Manager CS3</Value>
+      <Value lang="lt_LT">Adobe Extension Manager CS3</Value>
+      <Value lang="mk_MK">Adobe Extension Manager CS3</Value>
+      <Value lang="nn_NO">Adobe Extension Manager CS3</Value>
+      <Value lang="no_NO">Adobe Extension Manager CS3</Value>
+      <Value lang="nb_NO">Adobe Extension Manager CS3</Value>
+      <Value lang="pl_PL">Adobe Extension Manager CS3</Value>
+      <Value lang="pt_BR">Adobe Extension Manager CS3</Value>
+      <Value lang="ro_RO">Adobe Extension Manager CS3</Value>
+      <Value lang="ru_RU">Adobe Extension Manager CS3</Value>
+      <Value lang="sh_YU">Adobe Extension Manager CS3</Value>
+      <Value lang="sk_SK">Adobe Extension Manager CS3</Value>
+      <Value lang="sl_SI">Adobe Extension Manager CS3</Value>
+      <Value lang="es_QM">Adobe Extension Manager CS3</Value>
+      <Value lang="es_ES">Adobe Extension Manager CS3</Value>
+      <Value lang="sv_SE">Adobe Extension Manager CS3</Value>
+      <Value lang="th_TH">Adobe Extension Manager CS3</Value>
+      <Value lang="tr_TR">Adobe Extension Manager CS3</Value>
+      <Value lang="uk_UA">Adobe Extension Manager CS3</Value>
+      <Value lang="vi_VN">Adobe Extension Manager CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

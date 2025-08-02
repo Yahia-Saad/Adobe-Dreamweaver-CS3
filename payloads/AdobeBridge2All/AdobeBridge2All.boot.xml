@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="1.0.133.0" md5="a884e6130273f5fe52c73ade0d297caf"><BuildInfo>
+    <Property name="Created">2007-03-14 19:25:21.256000</Property>
+    <Property name="TargetName">AdobeBridge2All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{61D23D99-3398-414E-974E-EBAE498BB298}</Property>
+    <Property name="ProductName">Adobe Bridge CS3</Property>
+    <Property name="ProductVersion">2</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+        <Family>CoreTech</Family>
+        <ProductName>Adobe Bridge CS3</ProductName>
+    <ProductVersion>2</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">2</Value>
+      <Value lang="ar_AE">2</Value>
+      <Value lang="be_BY">2</Value>
+      <Value lang="bg_BG">2</Value>
+      <Value lang="ca_ES">2</Value>
+      <Value lang="zh_CN">2</Value>
+      <Value lang="zh_TW">2</Value>
+      <Value lang="hr_HR">2</Value>
+      <Value lang="cs_CZ">2</Value>
+      <Value lang="da_DK">2</Value>
+      <Value lang="nl_NL">2</Value>
+      <Value lang="en_XC">2</Value>
+      <Value lang="en_XM">2</Value>
+      <Value lang="en_GB">2</Value>
+      <Value lang="en_US">2</Value>
+      <Value lang="et_EE">2</Value>
+      <Value lang="fi_FI">2</Value>
+      <Value lang="fr_FR">2</Value>
+      <Value lang="fr_XM">2</Value>
+      <Value lang="de_DE">2</Value>
+      <Value lang="el_GR">2</Value>
+      <Value lang="he_IL">2</Value>
+      <Value lang="hu_HU">2</Value>
+      <Value lang="hi_IN">2</Value>
+      <Value lang="is_IS">2</Value>
+      <Value lang="it_IT">2</Value>
+      <Value lang="ja_JP">2</Value>
+      <Value lang="ko_KR">2</Value>
+      <Value lang="lv_LV">2</Value>
+      <Value lang="lt_LT">2</Value>
+      <Value lang="mk_MK">2</Value>
+      <Value lang="nn_NO">2</Value>
+      <Value lang="no_NO">2</Value>
+      <Value lang="nb_NO">2</Value>
+      <Value lang="pl_PL">2</Value>
+      <Value lang="pt_BR">2</Value>
+      <Value lang="ro_RO">2</Value>
+      <Value lang="ru_RU">2</Value>
+      <Value lang="sh_YU">2</Value>
+      <Value lang="sk_SK">2</Value>
+      <Value lang="sl_SI">2</Value>
+      <Value lang="es_QM">2</Value>
+      <Value lang="es_ES">2</Value>
+      <Value lang="sv_SE">2</Value>
+      <Value lang="th_TH">2</Value>
+      <Value lang="tr_TR">2</Value>
+      <Value lang="uk_UA">2</Value>
+      <Value lang="vi_VN">2</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Bridge CS3</Value>
+      <Value lang="ar_AE">Adobe Bridge CS3</Value>
+      <Value lang="be_BY">Adobe Bridge CS3</Value>
+      <Value lang="bg_BG">Adobe Bridge CS3</Value>
+      <Value lang="ca_ES">Adobe Bridge CS3</Value>
+      <Value lang="zh_CN">Adobe Bridge CS3</Value>
+      <Value lang="zh_TW">Adobe Bridge CS3</Value>
+      <Value lang="hr_HR">Adobe Bridge CS3</Value>
+      <Value lang="cs_CZ">Adobe Bridge CS3</Value>
+      <Value lang="da_DK">Adobe Bridge CS3</Value>
+      <Value lang="nl_NL">Adobe Bridge CS3</Value>
+      <Value lang="en_XC">Adobe Bridge CS3</Value>
+      <Value lang="en_XM">Adobe Bridge CS3</Value>
+      <Value lang="en_GB">Adobe Bridge CS3</Value>
+      <Value lang="en_US">Adobe Bridge CS3</Value>
+      <Value lang="et_EE">Adobe Bridge CS3</Value>
+      <Value lang="fi_FI">Adobe Bridge CS3</Value>
+      <Value lang="fr_FR">Adobe Bridge CS3</Value>
+      <Value lang="fr_XM">Adobe Bridge CS3</Value>
+      <Value lang="de_DE">Adobe Bridge CS3</Value>
+      <Value lang="el_GR">Adobe Bridge CS3</Value>
+      <Value lang="he_IL">Adobe Bridge CS3</Value>
+      <Value lang="hu_HU">Adobe Bridge CS3</Value>
+      <Value lang="hi_IN">Adobe Bridge CS3</Value>
+      <Value lang="is_IS">Adobe Bridge CS3</Value>
+      <Value lang="it_IT">Adobe Bridge CS3</Value>
+      <Value lang="ja_JP">Adobe Bridge CS3</Value>
+      <Value lang="ko_KR">Adobe Bridge CS3</Value>
+      <Value lang="lv_LV">Adobe Bridge CS3</Value>
+      <Value lang="lt_LT">Adobe Bridge CS3</Value>
+      <Value lang="mk_MK">Adobe Bridge CS3</Value>
+      <Value lang="nn_NO">Adobe Bridge CS3</Value>
+      <Value lang="no_NO">Adobe Bridge CS3</Value>
+      <Value lang="nb_NO">Adobe Bridge CS3</Value>
+      <Value lang="pl_PL">Adobe Bridge CS3</Value>
+      <Value lang="pt_BR">Adobe Bridge CS3</Value>
+      <Value lang="ro_RO">Adobe Bridge CS3</Value>
+      <Value lang="ru_RU">Adobe Bridge CS3</Value>
+      <Value lang="sh_YU">Adobe Bridge CS3</Value>
+      <Value lang="sk_SK">Adobe Bridge CS3</Value>
+      <Value lang="sl_SI">Adobe Bridge CS3</Value>
+      <Value lang="es_QM">Adobe Bridge CS3</Value>
+      <Value lang="es_ES">Adobe Bridge CS3</Value>
+      <Value lang="sv_SE">Adobe Bridge CS3</Value>
+      <Value lang="th_TH">Adobe Bridge CS3</Value>
+      <Value lang="tr_TR">Adobe Bridge CS3</Value>
+      <Value lang="uk_UA">Adobe Bridge CS3</Value>
+      <Value lang="vi_VN">Adobe Bridge CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

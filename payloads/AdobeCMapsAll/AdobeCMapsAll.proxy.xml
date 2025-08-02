@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-02-19 21:05:26.335000</Property>
+    <Property name="TargetName">AdobeCMapsAll</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{FB235376-7904-4164-88F4-13CA3944BBB9}</Property>
+    <Property name="ProductName">Adobe CMaps</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]/TypeSupport/CMaps</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>AdobeCMaps</ProductName>
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{FC55C036-ACA6-431E-9D48-5B88FFF81FAB}</AdobeCode>
+    <AdobeCode>{33A080EF-9426-4206-9698-559D7535C9ED}</AdobeCode>
+    <AdobeCode>{106821F5-6113-4604-A8E4-BF5803A4CFA9}</AdobeCode>
+    <AdobeCode>{491757C8-70E3-41FA-A318-07A00D4184E4}</AdobeCode>
+    <AdobeCode>{7D83E85F-10E7-4366-8B4D-082CC1CCE9B8}</AdobeCode>
+    <AdobeCode>{0D459C33-4077-47D2-A532-A0EC521FAA01}</AdobeCode>
+    <AdobeCode>{B2D0CBC4-D4B2-421A-87A3-7932E72295FB}</AdobeCode>
+    <AdobeCode>{3C1C36B9-11FB-4F81-B7AE-608AFAFA51E2}</AdobeCode>
+    <AdobeCode>{980D3C98-9AFC-4A81-B95D-3174B89DAE53}</AdobeCode>
+    <AdobeCode>{22761D91-E502-438C-8112-36124DCF388A}</AdobeCode>
+    <AdobeCode>{E55B2254-1ECC-4000-B550-646C0D1AD802}</AdobeCode>
+    <AdobeCode>{BFB931D4-40D9-44C3-B645-D1AB214AB5E1}</AdobeCode>
+    <AdobeCode>{CC3362AB-CA54-460C-9A69-358C8C619510}</AdobeCode>
+    <AdobeCode>{E10A7ABE-BD11-4D9B-B10D-C82679213D17}</AdobeCode>
+    <AdobeCode>{08D6A4E6-7885-4E0D-8F03-0AD12C8E19C6}</AdobeCode>
+    <AdobeCode>{0E76D49F-70EA-4CD6-8C9B-DB1AD7B8756D}</AdobeCode>
+    <AdobeCode>{66393DFE-4604-49C7-A216-1975D051A1E7}</AdobeCode>
+    <AdobeCode>{7F5DA9D0-98DF-4B16-8884-6BCA1CE15C3E}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>6402823</TotalSize>
+      <MaxPathComponent>/TypeSupport/CMaps\UniJISPro-UCS2-HW-V</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe CMaps</Value>
+      <Value lang="ar_AE">Adobe CMaps</Value>
+      <Value lang="be_BY">Adobe CMaps</Value>
+      <Value lang="bg_BG">Adobe CMaps</Value>
+      <Value lang="ca_ES">Adobe CMaps</Value>
+      <Value lang="zh_CN">Adobe CMaps</Value>
+      <Value lang="zh_TW">Adobe CMaps</Value>
+      <Value lang="hr_HR">Adobe CMaps</Value>
+      <Value lang="cs_CZ">Adobe CMaps</Value>
+      <Value lang="da_DK">Adobe CMaps</Value>
+      <Value lang="nl_NL">Adobe CMaps</Value>
+      <Value lang="en_XC">Adobe CMaps</Value>
+      <Value lang="en_XM">Adobe CMaps</Value>
+      <Value lang="en_GB">Adobe CMaps</Value>
+      <Value lang="en_US">Adobe CMaps</Value>
+      <Value lang="et_EE">Adobe CMaps</Value>
+      <Value lang="fi_FI">Adobe CMaps</Value>
+      <Value lang="fr_FR">Adobe CMaps</Value>
+      <Value lang="fr_XM">Adobe CMaps</Value>
+      <Value lang="de_DE">Adobe CMaps</Value>
+      <Value lang="el_GR">Adobe CMaps</Value>
+      <Value lang="he_IL">Adobe CMaps</Value>
+      <Value lang="hu_HU">Adobe CMaps</Value>
+      <Value lang="hi_IN">Adobe CMaps</Value>
+      <Value lang="is_IS">Adobe CMaps</Value>
+      <Value lang="it_IT">Adobe CMaps</Value>
+      <Value lang="ja_JP">Adobe CMaps</Value>
+      <Value lang="ko_KR">Adobe CMaps</Value>
+      <Value lang="lv_LV">Adobe CMaps</Value>
+      <Value lang="lt_LT">Adobe CMaps</Value>
+      <Value lang="mk_MK">Adobe CMaps</Value>
+      <Value lang="nn_NO">Adobe CMaps</Value>
+      <Value lang="no_NO">Adobe CMaps</Value>
+      <Value lang="nb_NO">Adobe CMaps</Value>
+      <Value lang="pl_PL">Adobe CMaps</Value>
+      <Value lang="pt_BR">Adobe CMaps</Value>
+      <Value lang="ro_RO">Adobe CMaps</Value>
+      <Value lang="ru_RU">Adobe CMaps</Value>
+      <Value lang="sh_YU">Adobe CMaps</Value>
+      <Value lang="sk_SK">Adobe CMaps</Value>
+      <Value lang="sl_SI">Adobe CMaps</Value>
+      <Value lang="es_QM">Adobe CMaps</Value>
+      <Value lang="es_ES">Adobe CMaps</Value>
+      <Value lang="sv_SE">Adobe CMaps</Value>
+      <Value lang="th_TH">Adobe CMaps</Value>
+      <Value lang="tr_TR">Adobe CMaps</Value>
+      <Value lang="uk_UA">Adobe CMaps</Value>
+      <Value lang="vi_VN">Adobe CMaps</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

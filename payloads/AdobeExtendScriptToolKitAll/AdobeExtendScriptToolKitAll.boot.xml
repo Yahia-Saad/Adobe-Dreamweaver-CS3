@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="1.0.133.0" md5="8f1006b6fb67cba0de6c36586eb6ee1c"><BuildInfo>
+    <Property name="Created">2007-03-14 17:36:10.914000</Property>
+    <Property name="TargetName">AdobeExtendScriptToolKitAll</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{193F8A7B-1853-48D5-88AC-19446C2C1D13}</Property>
+    <Property name="ProductName">Adobe ExtendScript Toolkit 2</Property>
+    <Property name="ProductVersion">2.0</Property>
+  </InstallerProperties><Languages>
+    <Language>en_US</Language>
+    <Language>ar_AE</Language>
+    <Language>be_BY</Language>
+    <Language>bg_BG</Language>
+    <Language>ca_ES</Language>
+    <Language>cs_CZ</Language>
+    <Language>da_DK</Language>
+    <Language>de_DE</Language>
+    <Language>el_GR</Language>
+    <Language>en_GB</Language>
+    <Language>en_XC</Language>
+    <Language>en_XM</Language>
+    <Language>es_ES</Language>
+    <Language>es_QM</Language>
+    <Language>et_EE</Language>
+    <Language>fi_FI</Language>
+    <Language>fr_FR</Language>
+    <Language>fr_XM</Language>
+    <Language>he_IL</Language>
+    <Language>hi_IN</Language>
+    <Language>hr_HR</Language>
+    <Language>hu_HU</Language>
+    <Language>is_IS</Language>
+    <Language>it_IT</Language>
+    <Language>ja_JP</Language>
+    <Language>ko_KR</Language>
+    <Language>lt_LT</Language>
+    <Language>lv_LV</Language>
+    <Language>mk_MK</Language>
+    <Language>nb_NO</Language>
+    <Language>nl_NL</Language>
+    <Language>pl_PL</Language>
+    <Language>pt_BR</Language>
+    <Language>ro_RO</Language>
+    <Language>ru_RU</Language>
+    <Language>sh_YU</Language>
+    <Language>sk_SK</Language>
+    <Language>sl_SI</Language>
+    <Language>sq_AL</Language>
+    <Language>sv_SE</Language>
+    <Language>th_TH</Language>
+    <Language>tr_TR</Language>
+    <Language>uk_UA</Language>
+    <Language>vi_VN</Language>
+    <Language>zh_CN</Language>
+    <Language>zh_TW</Language>
+  </Languages><Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>Adobe ExtendScript Toolkit 2</ProductName>
+	<ProductVersion>2.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="en_US">2.0</Value>
+      <Value lang="ar_AE">2.0</Value>
+      <Value lang="be_BY">2.0</Value>
+      <Value lang="bg_BG">2.0</Value>
+      <Value lang="ca_ES">2.0</Value>
+      <Value lang="cs_CZ">2.0</Value>
+      <Value lang="da_DK">2.0</Value>
+      <Value lang="de_DE">2.0</Value>
+      <Value lang="el_GR">2.0</Value>
+      <Value lang="en_GB">2.0</Value>
+      <Value lang="en_XC">2.0</Value>
+      <Value lang="en_XM">2.0</Value>
+      <Value lang="es_ES">2.0</Value>
+      <Value lang="es_QM">2.0</Value>
+      <Value lang="et_EE">2.0</Value>
+      <Value lang="fi_FI">2.0</Value>
+      <Value lang="fr_FR">2.0</Value>
+      <Value lang="fr_XM">2.0</Value>
+      <Value lang="he_IL">2.0</Value>
+      <Value lang="hi_IN">2.0</Value>
+      <Value lang="hr_HR">2.0</Value>
+      <Value lang="hu_HU">2.0</Value>
+      <Value lang="is_IS">2.0</Value>
+      <Value lang="it_IT">2.0</Value>
+      <Value lang="ja_JP">2.0</Value>
+      <Value lang="ko_KR">2.0</Value>
+      <Value lang="lt_LT">2.0</Value>
+      <Value lang="lv_LV">2.0</Value>
+      <Value lang="mk_MK">2.0</Value>
+      <Value lang="nb_NO">2.0</Value>
+      <Value lang="nl_NL">2.0</Value>
+      <Value lang="pl_PL">2.0</Value>
+      <Value lang="pt_BR">2.0</Value>
+      <Value lang="ro_RO">2.0</Value>
+      <Value lang="ru_RU">2.0</Value>
+      <Value lang="sh_YU">2.0</Value>
+      <Value lang="sk_SK">2.0</Value>
+      <Value lang="sl_SI">2.0</Value>
+      <Value lang="sq_AL">2.0</Value>
+      <Value lang="sv_SE">2.0</Value>
+      <Value lang="th_TH">2.0</Value>
+      <Value lang="tr_TR">2.0</Value>
+      <Value lang="uk_UA">2.0</Value>
+      <Value lang="vi_VN">2.0</Value>
+      <Value lang="zh_CN">2.0</Value>
+      <Value lang="zh_TW">2.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="en_US">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="ar_AE">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="be_BY">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="bg_BG">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="ca_ES">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="cs_CZ">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="da_DK">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="de_DE">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="el_GR">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="en_GB">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="en_XC">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="en_XM">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="es_ES">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="es_QM">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="et_EE">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="fi_FI">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="fr_FR">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="fr_XM">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="he_IL">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="hi_IN">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="hr_HR">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="hu_HU">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="is_IS">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="it_IT">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="ja_JP">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="ko_KR">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="lt_LT">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="lv_LV">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="mk_MK">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="nb_NO">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="nl_NL">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="pl_PL">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="pt_BR">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="ro_RO">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="ru_RU">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="sh_YU">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="sk_SK">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="sl_SI">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="sq_AL">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="sv_SE">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="th_TH">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="tr_TR">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="uk_UA">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="vi_VN">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="zh_CN">Adobe ExtendScript Toolkit 2</Value>
+      <Value lang="zh_TW">Adobe ExtendScript Toolkit 2</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

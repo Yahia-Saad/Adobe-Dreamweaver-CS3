@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-02-19 22:03:58.944000</Property>
+    <Property name="TargetName">AdobeTypeSupportAll</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{078B624D-5FF6-40CF-8B92-312FD03FE4EB}</Property>
+    <Property name="ProductName">Adobe Type Support</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]/TypeSupport</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>AdobeTypeSupport</ProductName>
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{2EAAE9C2-581E-4F4B-BBA5-951908439398}</AdobeCode>
+    <AdobeCode>{A8B2A302-4156-48A9-A377-285D35028118}</AdobeCode>
+    <AdobeCode>{D4895221-C88F-4374-A931-DA706C0C9072}</AdobeCode>
+    <AdobeCode>{ABA4A991-4DF5-4DB3-94B6-4CF6DD25D772}</AdobeCode>
+    <AdobeCode>{2CFCE1EA-E5AD-452B-A50B-2B358FA88469}</AdobeCode>
+    <AdobeCode>{8E2BC02B-FFB6-4538-8FA2-A72E71BAEB14}</AdobeCode>
+    <AdobeCode>{31C5C343-2351-42D2-9E8E-647D275417CC}</AdobeCode>
+    <AdobeCode>{0D0815C6-0B03-4F69-A246-972227D35F37}</AdobeCode>
+    <AdobeCode>{64EADEB0-4D3C-4195-988C-EBFAE2A113BE}</AdobeCode>
+    <AdobeCode>{0FFF3C1E-8CBF-4EDB-8C06-BF818BC17B59}</AdobeCode>
+    <AdobeCode>{89DBBD88-E020-45AB-9A7E-002AB9988EC6}</AdobeCode>
+    <AdobeCode>{335D823E-1C46-44D9-B815-2E6F5741CA2C}</AdobeCode>
+    <AdobeCode>{FC052147-DE18-4950-82FE-014D01BD9AF1}</AdobeCode>
+    <AdobeCode>{59CAEB6D-497F-44F3-A69D-0BCF44F18C51}</AdobeCode>
+    <AdobeCode>{23B21D0D-FD69-49B4-B959-7E98D5A693AD}</AdobeCode>
+    <AdobeCode>{EC5DA238-BDC4-49DA-ABC5-BC870A79927D}</AdobeCode>
+    <AdobeCode>{0CC6B674-422A-451C-932C-6C20BE5039B1}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>5738700</TotalSize>
+      <MaxPathComponent>/TypeSupport/Unicode/Mappings/Adobe\Japanese83pv.txt</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Type Support</Value>
+      <Value lang="ar_AE">Adobe Type Support</Value>
+      <Value lang="be_BY">Adobe Type Support</Value>
+      <Value lang="bg_BG">Adobe Type Support</Value>
+      <Value lang="ca_ES">Adobe Type Support</Value>
+      <Value lang="zh_CN">Adobe Type Support</Value>
+      <Value lang="zh_TW">Adobe Type Support</Value>
+      <Value lang="hr_HR">Adobe Type Support</Value>
+      <Value lang="cs_CZ">Adobe Type Support</Value>
+      <Value lang="da_DK">Adobe Type Support</Value>
+      <Value lang="nl_NL">Adobe Type Support</Value>
+      <Value lang="en_XC">Adobe Type Support</Value>
+      <Value lang="en_XM">Adobe Type Support</Value>
+      <Value lang="en_GB">Adobe Type Support</Value>
+      <Value lang="en_US">Adobe Type Support</Value>
+      <Value lang="et_EE">Adobe Type Support</Value>
+      <Value lang="fi_FI">Adobe Type Support</Value>
+      <Value lang="fr_FR">Adobe Type Support</Value>
+      <Value lang="fr_XM">Adobe Type Support</Value>
+      <Value lang="de_DE">Adobe Type Support</Value>
+      <Value lang="el_GR">Adobe Type Support</Value>
+      <Value lang="he_IL">Adobe Type Support</Value>
+      <Value lang="hu_HU">Adobe Type Support</Value>
+      <Value lang="hi_IN">Adobe Type Support</Value>
+      <Value lang="is_IS">Adobe Type Support</Value>
+      <Value lang="it_IT">Adobe Type Support</Value>
+      <Value lang="ja_JP">Adobe Type Support</Value>
+      <Value lang="ko_KR">Adobe Type Support</Value>
+      <Value lang="lv_LV">Adobe Type Support</Value>
+      <Value lang="lt_LT">Adobe Type Support</Value>
+      <Value lang="mk_MK">Adobe Type Support</Value>
+      <Value lang="nn_NO">Adobe Type Support</Value>
+      <Value lang="no_NO">Adobe Type Support</Value>
+      <Value lang="nb_NO">Adobe Type Support</Value>
+      <Value lang="pl_PL">Adobe Type Support</Value>
+      <Value lang="pt_BR">Adobe Type Support</Value>
+      <Value lang="ro_RO">Adobe Type Support</Value>
+      <Value lang="ru_RU">Adobe Type Support</Value>
+      <Value lang="sh_YU">Adobe Type Support</Value>
+      <Value lang="sk_SK">Adobe Type Support</Value>
+      <Value lang="sl_SI">Adobe Type Support</Value>
+      <Value lang="es_QM">Adobe Type Support</Value>
+      <Value lang="es_ES">Adobe Type Support</Value>
+      <Value lang="sv_SE">Adobe Type Support</Value>
+      <Value lang="th_TH">Adobe Type Support</Value>
+      <Value lang="tr_TR">Adobe Type Support</Value>
+      <Value lang="uk_UA">Adobe Type Support</Value>
+      <Value lang="vi_VN">Adobe Type Support</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

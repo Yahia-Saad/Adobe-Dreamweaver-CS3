@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-02-20 11:13:27.443000</Property>
+    <Property name="TargetName">AdobeALMAnchorServiceAll</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{2E4528EC-5ACB-4D19-98DD-6CC3594EB1A1}</Property>
+    <Property name="ProductName">Adobe Anchor Service CS3</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]/Adobe Anchor Service</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>ALM</ProductName>
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{FFCA7758-6C0C-4C51-9696-D8EB58A3E0CB}</AdobeCode>
+    <AdobeCode>{21922C40-5ACF-4418-B7A5-15A0EA254617}</AdobeCode>
+    <AdobeCode>{FF7E9014-B726-4D02-8273-AD328ECDED30}</AdobeCode>
+    <AdobeCode>{472A8FF3-E973-47E1-B4C9-39EA2AE1399E}</AdobeCode>
+    <AdobeCode>{845AAC4B-056D-42F5-9BAF-E74935A0DF96}</AdobeCode>
+    <AdobeCode>{7CF6D16D-3B74-484C-88A0-F9E6909A2402}</AdobeCode>
+    <AdobeCode>{922ADFEF-7E00-4935-B3CD-37D1E8D2A51F}</AdobeCode>
+    <AdobeCode>{3A1E7374-999E-4D11-9929-D7EDDCC753DE}</AdobeCode>
+    <AdobeCode>{896F5EBC-82AD-46F7-B571-C557096926AF}</AdobeCode>
+    <AdobeCode>{52685C3B-3DD1-45C7-9F4B-0D350B2B4477}</AdobeCode>
+    <AdobeCode>{26FCC304-E204-429F-AC1C-958570EC14D3}</AdobeCode>
+    <AdobeCode>{0CFCAA7A-9452-4A38-A0C6-793B8A43C2E8}</AdobeCode>
+    <AdobeCode>{C494AD35-E78B-46D5-AE1D-459F229ECF28}</AdobeCode>
+    <AdobeCode>{7B83FBBF-6656-4F30-A2CC-9A7E4C9E6F04}</AdobeCode>
+    <AdobeCode>{EE3B542B-B06A-487B-BD18-3D27AE5E4AEE}</AdobeCode>
+    <AdobeCode>{66C73B13-7568-48F0-A9E6-1C733020B70C}</AdobeCode>
+    <AdobeCode>{8E8F1E1C-B0EC-43FB-80F9-A97C1516E6A6}</AdobeCode>
+    <AdobeCode>{A058063A-D7D5-4D33-AC1D-B9B6D98EF99E}</AdobeCode>
+    <AdobeCode>{9A43643D-9C4F-47B5-955A-28296A3E04B3}</AdobeCode>
+    <AdobeCode>{0968DBEB-C541-48F5-AC38-13CA01A739D5}</AdobeCode>
+    <AdobeCode>{7632B1A3-B054-43EA-9F1E-E1D89CA59A8F}</AdobeCode>
+    <AdobeCode>{977ECFC7-C1D4-4953-BD7A-52E9B2E74A25}</AdobeCode>
+    <AdobeCode>{66F02467-03B4-42D5-A6F6-43BACD272FA1}</AdobeCode>
+    <AdobeCode>{3A594F1F-F2A3-4B3F-8774-1AE84596BFBC}</AdobeCode>
+    <AdobeCode>{C3B52C62-6DED-4BF1-983C-BCBFA626E4DC}</AdobeCode>
+    <AdobeCode>{43ACB878-0F7D-47A2-945A-9F2FA9C2772F}</AdobeCode>
+    <AdobeCode>{A2F60387-8470-4EDC-A3C5-9A4034798CF6}</AdobeCode>
+    <AdobeCode>{FED52001-7680-4A76-A8F8-6A95A83A60F1}</AdobeCode>
+    <AdobeCode>{D7CF562E-94CB-45BF-ACA5-5526C92D52F0}</AdobeCode>
+    <AdobeCode>{712CD22B-6388-4753-A7A9-37AD57BB42E3}</AdobeCode>
+    <AdobeCode>{B7C544EA-C80A-45C8-B5D5-F54C7E8DCB81}</AdobeCode>
+    <AdobeCode>{682FF936-51F8-4323-884F-C468421BE782}</AdobeCode>
+    <AdobeCode>{BB8C6C86-334D-421C-BFFD-67C85B99C044}</AdobeCode>
+    <AdobeCode>{38024324-2E3E-46E4-808D-78FA477B3ABC}</AdobeCode>
+    <AdobeCode>{AD12FB9D-7A8C-44DF-BFA9-554515FD85EF}</AdobeCode>
+    <AdobeCode>{50D40078-B81E-42D9-8137-2C519FE24FF8}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>1059066</TotalSize>
+      <MaxPathComponent>/Adobe Anchor Service\adobelm_service_installer.dll</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Anchor Service CS3</Value>
+      <Value lang="ar_AE">Adobe Anchor Service CS3</Value>
+      <Value lang="be_BY">Adobe Anchor Service CS3</Value>
+      <Value lang="bg_BG">Adobe Anchor Service CS3</Value>
+      <Value lang="ca_ES">Adobe Anchor Service CS3</Value>
+      <Value lang="zh_CN">Adobe Anchor Service CS3</Value>
+      <Value lang="zh_TW">Adobe Anchor Service CS3</Value>
+      <Value lang="hr_HR">Adobe Anchor Service CS3</Value>
+      <Value lang="cs_CZ">Adobe Anchor Service CS3</Value>
+      <Value lang="da_DK">Adobe Anchor Service CS3</Value>
+      <Value lang="nl_NL">Adobe Anchor Service CS3</Value>
+      <Value lang="en_XC">Adobe Anchor Service CS3</Value>
+      <Value lang="en_XM">Adobe Anchor Service CS3</Value>
+      <Value lang="en_GB">Adobe Anchor Service CS3</Value>
+      <Value lang="en_US">Adobe Anchor Service CS3</Value>
+      <Value lang="et_EE">Adobe Anchor Service CS3</Value>
+      <Value lang="fi_FI">Adobe Anchor Service CS3</Value>
+      <Value lang="fr_FR">Adobe Anchor Service CS3</Value>
+      <Value lang="fr_XM">Adobe Anchor Service CS3</Value>
+      <Value lang="de_DE">Adobe Anchor Service CS3</Value>
+      <Value lang="el_GR">Adobe Anchor Service CS3</Value>
+      <Value lang="he_IL">Adobe Anchor Service CS3</Value>
+      <Value lang="hu_HU">Adobe Anchor Service CS3</Value>
+      <Value lang="hi_IN">Adobe Anchor Service CS3</Value>
+      <Value lang="is_IS">Adobe Anchor Service CS3</Value>
+      <Value lang="it_IT">Adobe Anchor Service CS3</Value>
+      <Value lang="ja_JP">Adobe Anchor Service CS3</Value>
+      <Value lang="ko_KR">Adobe Anchor Service CS3</Value>
+      <Value lang="lv_LV">Adobe Anchor Service CS3</Value>
+      <Value lang="lt_LT">Adobe Anchor Service CS3</Value>
+      <Value lang="mk_MK">Adobe Anchor Service CS3</Value>
+      <Value lang="nn_NO">Adobe Anchor Service CS3</Value>
+      <Value lang="no_NO">Adobe Anchor Service CS3</Value>
+      <Value lang="nb_NO">Adobe Anchor Service CS3</Value>
+      <Value lang="pl_PL">Adobe Anchor Service CS3</Value>
+      <Value lang="pt_BR">Adobe Anchor Service CS3</Value>
+      <Value lang="ro_RO">Adobe Anchor Service CS3</Value>
+      <Value lang="ru_RU">Adobe Anchor Service CS3</Value>
+      <Value lang="sh_YU">Adobe Anchor Service CS3</Value>
+      <Value lang="sk_SK">Adobe Anchor Service CS3</Value>
+      <Value lang="sl_SI">Adobe Anchor Service CS3</Value>
+      <Value lang="es_QM">Adobe Anchor Service CS3</Value>
+      <Value lang="es_ES">Adobe Anchor Service CS3</Value>
+      <Value lang="sv_SE">Adobe Anchor Service CS3</Value>
+      <Value lang="th_TH">Adobe Anchor Service CS3</Value>
+      <Value lang="tr_TR">Adobe Anchor Service CS3</Value>
+      <Value lang="uk_UA">Adobe Anchor Service CS3</Value>
+      <Value lang="vi_VN">Adobe Anchor Service CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

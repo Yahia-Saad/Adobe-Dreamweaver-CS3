@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>User alert</title>
+	<link href="[CSSRoot]/alert.css" rel="stylesheet" type="text/css" media="all" />
+	<!--[if IE]>
+		<link href="[CSSRoot]/alert_ie.css" rel="stylesheet" type="text/css" media="all" />
+	<![endif]-->
+
+	<script language="JavaScript" type="text/javascript">	
+		var _gPageLoadCalled = null;
+		var alertWidth = 400;
+		var alertHeight = 244;
+		var _gAlertFocusItem = null;
+		
+		function onPublisherRegistered()
+		{
+			onLoad();
+		}
+		
+		function onLoad()
+		{
+			if (window && 
+				window.external && 
+				window.external.UIShowWindow &&
+				!_gPageLoadCalled)
+			{
+				_gPageLoadCalled = true;
+				alertElement = document.getElementById("alert");
+				if (alertElement)
+				{
+					alertWidth = document.body.clientWidth;
+					alertHeight = document.body.clientHeight + document.body.offsetTop + 15;
+				}
+				if (alertWidth && alertHeight)
+				{
+					if (alertWidth > 0 && alertHeight > 0)
+					{
+						window.external.UIResizeWindow(alertWidth, alertHeight);
+						// TODO: Add hidden element after BUTTON3 and resize
+						// window preserving aspect ratio until hidden element top
+						// coordinate is contained within window.
+					}
+				}
+				window.external.UISetWindowTitle("[AlertWindowTitle]");
+				window.external.UIShowWindow(1);
+				
+				if (document.forms && document.forms[0] && document.forms[0][0])
+				{
+					document.forms[document.forms.length-1][document.forms[document.forms.length-1].length-1].focus();
+				}
+			}
+		}
+		
+		function onButtonBlur(ev)
+		{
+			_gAlertFocusItem = null;
+		}
+		
+		function onSubmit()
+		{
+			if (_gAlertFocusItem && _gAlertFocusItem.type == "button")
+				_gAlertFocusItem.onclick();	
+		}	
+		
+		function setFocus(inInput)
+		{
+			_gAlertFocusItem = inInput;
+			return true;
+		}			
+	</script>
+</head>
+
+<body onload="onLoad()">
+	<form id="alertContainerForm" method="post" action="" onsubmit="onSubmit(); return false;">
+		<div id="alert">
+			<h1>[AlertTitle]</h1>
+			<div id="alertBody">[AlertBody]</div>
+			<div id="alertButtons"><span>[AlertButtons]</span></div>
+		</div>	
+	</form>
+</body>
+</html>

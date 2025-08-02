@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="1.0.130.0" md5="010d0feb8c8a7f43a1589c11c768e133"><BuildInfo>
+    <Property name="Created">2007-03-07 19:52:32.467000</Property>
+    <Property name="TargetName">AdobeAssetServices3All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{8cec782a-3a7a-4f34-8452-78d05847efa2}</Property>
+    <Property name="ProductName">Adobe Asset Services CS3</Property>
+    <Property name="ProductVersion">3</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+    <Family>Creative Suites</Family>
+    <ProductName>Adobe Asset Services CS3</ProductName>
+  <ProductVersion>3</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">3</Value>
+      <Value lang="ar_AE">3</Value>
+      <Value lang="be_BY">3</Value>
+      <Value lang="bg_BG">3</Value>
+      <Value lang="ca_ES">3</Value>
+      <Value lang="zh_CN">3</Value>
+      <Value lang="zh_TW">3</Value>
+      <Value lang="hr_HR">3</Value>
+      <Value lang="cs_CZ">3</Value>
+      <Value lang="da_DK">3</Value>
+      <Value lang="nl_NL">3</Value>
+      <Value lang="en_XC">3</Value>
+      <Value lang="en_XM">3</Value>
+      <Value lang="en_GB">3</Value>
+      <Value lang="en_US">3</Value>
+      <Value lang="et_EE">3</Value>
+      <Value lang="fi_FI">3</Value>
+      <Value lang="fr_FR">3</Value>
+      <Value lang="fr_XM">3</Value>
+      <Value lang="de_DE">3</Value>
+      <Value lang="el_GR">3</Value>
+      <Value lang="he_IL">3</Value>
+      <Value lang="hu_HU">3</Value>
+      <Value lang="hi_IN">3</Value>
+      <Value lang="is_IS">3</Value>
+      <Value lang="it_IT">3</Value>
+      <Value lang="ja_JP">3</Value>
+      <Value lang="ko_KR">3</Value>
+      <Value lang="lv_LV">3</Value>
+      <Value lang="lt_LT">3</Value>
+      <Value lang="mk_MK">3</Value>
+      <Value lang="nn_NO">3</Value>
+      <Value lang="no_NO">3</Value>
+      <Value lang="nb_NO">3</Value>
+      <Value lang="pl_PL">3</Value>
+      <Value lang="pt_BR">3</Value>
+      <Value lang="ro_RO">3</Value>
+      <Value lang="ru_RU">3</Value>
+      <Value lang="sh_YU">3</Value>
+      <Value lang="sk_SK">3</Value>
+      <Value lang="sl_SI">3</Value>
+      <Value lang="es_QM">3</Value>
+      <Value lang="es_ES">3</Value>
+      <Value lang="sv_SE">3</Value>
+      <Value lang="th_TH">3</Value>
+      <Value lang="tr_TR">3</Value>
+      <Value lang="uk_UA">3</Value>
+      <Value lang="vi_VN">3</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Asset Services CS3</Value>
+      <Value lang="ar_AE">Adobe Asset Services CS3</Value>
+      <Value lang="be_BY">Adobe Asset Services CS3</Value>
+      <Value lang="bg_BG">Adobe Asset Services CS3</Value>
+      <Value lang="ca_ES">Adobe Asset Services CS3</Value>
+      <Value lang="zh_CN">Adobe Asset Services CS3</Value>
+      <Value lang="zh_TW">Adobe Asset Services CS3</Value>
+      <Value lang="hr_HR">Adobe Asset Services CS3</Value>
+      <Value lang="cs_CZ">Adobe Asset Services CS3</Value>
+      <Value lang="da_DK">Adobe Asset Services CS3</Value>
+      <Value lang="nl_NL">Adobe Asset Services CS3</Value>
+      <Value lang="en_XC">Adobe Asset Services CS3</Value>
+      <Value lang="en_XM">Adobe Asset Services CS3</Value>
+      <Value lang="en_GB">Adobe Asset Services CS3</Value>
+      <Value lang="en_US">Adobe Asset Services CS3</Value>
+      <Value lang="et_EE">Adobe Asset Services CS3</Value>
+      <Value lang="fi_FI">Adobe Asset Services CS3</Value>
+      <Value lang="fr_FR">Adobe Asset Services CS3</Value>
+      <Value lang="fr_XM">Adobe Asset Services CS3</Value>
+      <Value lang="de_DE">Adobe Asset Services CS3</Value>
+      <Value lang="el_GR">Adobe Asset Services CS3</Value>
+      <Value lang="he_IL">Adobe Asset Services CS3</Value>
+      <Value lang="hu_HU">Adobe Asset Services CS3</Value>
+      <Value lang="hi_IN">Adobe Asset Services CS3</Value>
+      <Value lang="is_IS">Adobe Asset Services CS3</Value>
+      <Value lang="it_IT">Adobe Asset Services CS3</Value>
+      <Value lang="ja_JP">Adobe Asset Services CS3</Value>
+      <Value lang="ko_KR">Adobe Asset Services CS3</Value>
+      <Value lang="lv_LV">Adobe Asset Services CS3</Value>
+      <Value lang="lt_LT">Adobe Asset Services CS3</Value>
+      <Value lang="mk_MK">Adobe Asset Services CS3</Value>
+      <Value lang="nn_NO">Adobe Asset Services CS3</Value>
+      <Value lang="no_NO">Adobe Asset Services CS3</Value>
+      <Value lang="nb_NO">Adobe Asset Services CS3</Value>
+      <Value lang="pl_PL">Adobe Asset Services CS3</Value>
+      <Value lang="pt_BR">Adobe Asset Services CS3</Value>
+      <Value lang="ro_RO">Adobe Asset Services CS3</Value>
+      <Value lang="ru_RU">Adobe Asset Services CS3</Value>
+      <Value lang="sh_YU">Adobe Asset Services CS3</Value>
+      <Value lang="sk_SK">Adobe Asset Services CS3</Value>
+      <Value lang="sl_SI">Adobe Asset Services CS3</Value>
+      <Value lang="es_QM">Adobe Asset Services CS3</Value>
+      <Value lang="es_ES">Adobe Asset Services CS3</Value>
+      <Value lang="sv_SE">Adobe Asset Services CS3</Value>
+      <Value lang="th_TH">Adobe Asset Services CS3</Value>
+      <Value lang="tr_TR">Adobe Asset Services CS3</Value>
+      <Value lang="uk_UA">Adobe Asset Services CS3</Value>
+      <Value lang="vi_VN">Adobe Asset Services CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

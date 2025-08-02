@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-02-19 21:36:08.272000</Property>
+    <Property name="TargetName">AdobeDefaultLanguageCS3All</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{0A880438-9557-49ED-8E86-BD7B24612713}</Property>
+    <Property name="ProductName">Adobe Default Language CS3</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]</Platform>
+  </InstallDir>
+  <Languages>
+    <Language>ar_AE</Language>
+    <Language>bg_BG</Language>
+    <Language>ca_ES</Language>
+    <Language>cs_CZ</Language>
+    <Language>da_DK</Language>
+    <Language>de_DE</Language>
+    <Language>el_GR</Language>
+    <Language>en_GB</Language>
+    <Language>en_US</Language>
+    <Language>es_ES</Language>
+    <Language>et_EE</Language>
+    <Language>fi_FI</Language>
+    <Language>fr_FR</Language>
+    <Language>he_IL</Language>
+    <Language>hr_HR</Language>
+    <Language>hu_HU</Language>
+    <Language>it_IT</Language>
+    <Language>ja_JP</Language>
+    <Language>ko_KR</Language>
+    <Language>lt_LT</Language>
+    <Language>lv_LV</Language>
+    <Language>nb_NO</Language>
+    <Language>nl_NL</Language>
+    <Language>pl_PL</Language>
+    <Language>pt_BR</Language>
+    <Language>ro_RO</Language>
+    <Language>ru_RU</Language>
+    <Language>sk_SK</Language>
+    <Language>sl_SI</Language>
+    <Language>sv_SE</Language>
+    <Language>tr_TR</Language>
+    <Language>uk_UA</Language>
+    <Language>zh_CN</Language>
+    <Language>zh_TW</Language>
+  </Languages>
+  <Satisfies>
+    <ProductInfo>
+		<Family>Core Tech</Family>
+		<ProductName>Adobe Default Language CS3</ProductName>
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{7F383A1B-2703-4409-BBA5-09AAD1D97CB6}</AdobeCode>
+    <AdobeCode>{748E3F37-E56B-4EAB-A60D-643B75B4408A}</AdobeCode>
+    <AdobeCode>{899DC39E-4A1F-4A2C-AC51-E99213D846D2}</AdobeCode>
+    <AdobeCode>{3FEB62E8-360D-4E26-B9A9-6984A17E7BD9}</AdobeCode>
+    <AdobeCode>{7F9E37F2-15C6-48EB-A3E7-E46BD3571F57}</AdobeCode>
+    <AdobeCode>{3E45F7B2-E1DF-4923-B404-3379C931E57F}</AdobeCode>
+    <AdobeCode>{A4CA0AB8-5A87-4D7E-AD8F-6B4A89D0899C}</AdobeCode>
+    <AdobeCode>{72096292-B65E-411B-9215-03429116103D}</AdobeCode>
+    <AdobeCode>{82405D5A-95EE-47B2-882F-2637BD5261E3}</AdobeCode>
+    <AdobeCode>{94E0F30F-E5BE-437B-BF4E-7E5A17D6AEF9}</AdobeCode>
+    <AdobeCode>{6149D235-9D0A-42E1-92F6-1DE1199891C4}</AdobeCode>
+    <AdobeCode>{7773E1C9-AEDB-4415-ACE3-5262ADC79F4A}</AdobeCode>
+    <AdobeCode>{4AF1E114-61C3-4D81-9B1C-64BA464DE545}</AdobeCode>
+    <AdobeCode>{E146C0F0-37FF-4B1D-8AAB-C3FECDF30D0D}</AdobeCode>
+    <AdobeCode>{52FF72F5-EEB2-4540-8293-C562FC1E5B28}</AdobeCode>
+    <AdobeCode>{5C9BCF08-7F32-4272-8703-393FC2197405}</AdobeCode>
+    <AdobeCode>{157BD568-F4D2-4717-BC8D-A108883550B9}</AdobeCode>
+    <AdobeCode>{C75EFB0A-DE78-4F3D-BFCE-4C4B01FF543E}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>1802</TotalSize>
+      <MaxPathComponent>/DefaultLanguage/AMT\AUMProduct.cer</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="ar_AE">Adobe Default Language CS3</Value>
+      <Value lang="bg_BG">Adobe Default Language CS3</Value>
+      <Value lang="ca_ES">Adobe Default Language CS3</Value>
+      <Value lang="cs_CZ">Adobe Default Language CS3</Value>
+      <Value lang="da_DK">Adobe Default Language CS3</Value>
+      <Value lang="de_DE">Adobe Default Language CS3</Value>
+      <Value lang="el_GR">Adobe Default Language CS3</Value>
+      <Value lang="en_GB">Adobe Default Language CS3</Value>
+      <Value lang="en_US">Adobe Default Language CS3</Value>
+      <Value lang="es_ES">Adobe Default Language CS3</Value>
+      <Value lang="et_EE">Adobe Default Language CS3</Value>
+      <Value lang="fi_FI">Adobe Default Language CS3</Value>
+      <Value lang="fr_FR">Adobe Default Language CS3</Value>
+      <Value lang="he_IL">Adobe Default Language CS3</Value>
+      <Value lang="hr_HR">Adobe Default Language CS3</Value>
+      <Value lang="hu_HU">Adobe Default Language CS3</Value>
+      <Value lang="it_IT">Adobe Default Language CS3</Value>
+      <Value lang="ja_JP">Adobe Default Language CS3</Value>
+      <Value lang="ko_KR">Adobe Default Language CS3</Value>
+      <Value lang="lt_LT">Adobe Default Language CS3</Value>
+      <Value lang="lv_LV">Adobe Default Language CS3</Value>
+      <Value lang="nb_NO">Adobe Default Language CS3</Value>
+      <Value lang="nl_NL">Adobe Default Language CS3</Value>
+      <Value lang="pl_PL">Adobe Default Language CS3</Value>
+      <Value lang="pt_BR">Adobe Default Language CS3</Value>
+      <Value lang="ro_RO">Adobe Default Language CS3</Value>
+      <Value lang="ru_RU">Adobe Default Language CS3</Value>
+      <Value lang="sk_SK">Adobe Default Language CS3</Value>
+      <Value lang="sl_SI">Adobe Default Language CS3</Value>
+      <Value lang="sv_SE">Adobe Default Language CS3</Value>
+      <Value lang="tr_TR">Adobe Default Language CS3</Value>
+      <Value lang="uk_UA">Adobe Default Language CS3</Value>
+      <Value lang="zh_CN">Adobe Default Language CS3</Value>
+      <Value lang="zh_TW">Adobe Default Language CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

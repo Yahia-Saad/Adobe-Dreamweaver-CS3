@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><Deployment>
+<Properties>
+   <Property name="installLanguage">en_US</Property>
+</Properties>
+
+<Payloads>
+   <!--Adobe Dreamweaver CS3-->
+   <Payload adobeCode="{00E5C764-9525-44C3-8404-712AD06AE12A}">
+      <Action>install</Action>
+   </Payload>
+</Payloads>
+</Deployment>

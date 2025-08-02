@@ -1,0 +1,103 @@
+/*<group=structural styles>*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Lucida Grande", "Lucida Sans", Tahoma, Helvetica, Arial, sans-serif;
+	background: #888b90;
+}
+
+/*</group>*/
+
+/*<group=content>*/
+
+div.content {
+
+	margin: 10px 10px 10px 150px;
+	width: 491px;
+	padding: 5px;
+	color: #252525;
+}
+
+div.content p {
+	font-size: 11px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+/*</group>*/
+
+
+/*<group=progress>*/
+
+.progress {
+	height: 84px;
+	width: 450px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	position: absolute;
+	top: 75px;
+	left: 170px;
+	border: 1px solid #aeafaf;
+	background: white;
+}
+
+div.content .progress p, div.content .progressLg p {
+	margin: 0 50px;
+	font-weight: bold;
+}
+
+#bootstrap.progress {
+	background: url(../img/progbox.png) no-repeat;
+	height: 84px;
+	width: 450px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+div.content #progressBar {
+	width: 350px;
+	background: url(../img/progbarRight.png) repeat-x right;
+	overflow: hidden;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+#progressBarLeft {
+	position: absolute;
+}
+
+#progressBarMid {
+	height: 6px;
+}
+
+/*</group>*/
+
+#alert {
+	margin: 0px;
+	top: 0px;
+	margin: 15px;
+	margin-bottom: 55px;
+	background: white;
+}
+
+#alert h1 {
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 14px;
+	margin-top: 0px;
+}	
+
+#alert p {
+	font-size: 11px;
+}
+
+#alertErrorText 
+{
+	font-family: "Courier New", "Courier", "Andale Mono", Monaco;
+}

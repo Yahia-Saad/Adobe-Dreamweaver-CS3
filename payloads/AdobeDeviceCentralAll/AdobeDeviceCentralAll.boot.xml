@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0" md5="03c05e700e2e9068d2ca8ab09741067e"><BuildInfo>
+    <Property name="Created">2007-03-15 10:23:25.693000</Property>
+    <Property name="TargetName">AdobeDeviceCentralAll</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{7B53463B-283F-44FF-94B2-CAB60DDE3159}</Property>
+    <Property name="ProductName">Adobe Device Central CS3</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+        <Family>MaD</Family>
+        <ProductName>Adobe Device Central CS3</ProductName>
+    <ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Device Central CS3</Value>
+      <Value lang="ar_AE">Adobe Device Central CS3</Value>
+      <Value lang="be_BY">Adobe Device Central CS3</Value>
+      <Value lang="bg_BG">Adobe Device Central CS3</Value>
+      <Value lang="ca_ES">Adobe Device Central CS3</Value>
+      <Value lang="zh_CN">Adobe Device Central CS3</Value>
+      <Value lang="zh_TW">Adobe Device Central CS3</Value>
+      <Value lang="hr_HR">Adobe Device Central CS3</Value>
+      <Value lang="cs_CZ">Adobe Device Central CS3</Value>
+      <Value lang="da_DK">Adobe Device Central CS3</Value>
+      <Value lang="nl_NL">Adobe Device Central CS3</Value>
+      <Value lang="en_XC">Adobe Device Central CS3</Value>
+      <Value lang="en_XM">Adobe Device Central CS3</Value>
+      <Value lang="en_GB">Adobe Device Central CS3</Value>
+      <Value lang="en_US">Adobe Device Central CS3</Value>
+      <Value lang="et_EE">Adobe Device Central CS3</Value>
+      <Value lang="fi_FI">Adobe Device Central CS3</Value>
+      <Value lang="fr_FR">Adobe Device Central CS3</Value>
+      <Value lang="fr_XM">Adobe Device Central CS3</Value>
+      <Value lang="de_DE">Adobe Device Central CS3</Value>
+      <Value lang="el_GR">Adobe Device Central CS3</Value>
+      <Value lang="he_IL">Adobe Device Central CS3</Value>
+      <Value lang="hu_HU">Adobe Device Central CS3</Value>
+      <Value lang="hi_IN">Adobe Device Central CS3</Value>
+      <Value lang="is_IS">Adobe Device Central CS3</Value>
+      <Value lang="it_IT">Adobe Device Central CS3</Value>
+      <Value lang="ja_JP">Adobe Device Central CS3</Value>
+      <Value lang="ko_KR">Adobe Device Central CS3</Value>
+      <Value lang="lv_LV">Adobe Device Central CS3</Value>
+      <Value lang="lt_LT">Adobe Device Central CS3</Value>
+      <Value lang="mk_MK">Adobe Device Central CS3</Value>
+      <Value lang="nn_NO">Adobe Device Central CS3</Value>
+      <Value lang="no_NO">Adobe Device Central CS3</Value>
+      <Value lang="nb_NO">Adobe Device Central CS3</Value>
+      <Value lang="pl_PL">Adobe Device Central CS3</Value>
+      <Value lang="pt_BR">Adobe Device Central CS3</Value>
+      <Value lang="ro_RO">Adobe Device Central CS3</Value>
+      <Value lang="ru_RU">Adobe Device Central CS3</Value>
+      <Value lang="sh_YU">Adobe Device Central CS3</Value>
+      <Value lang="sk_SK">Adobe Device Central CS3</Value>
+      <Value lang="sl_SI">Adobe Device Central CS3</Value>
+      <Value lang="es_QM">Adobe Device Central CS3</Value>
+      <Value lang="es_ES">Adobe Device Central CS3</Value>
+      <Value lang="sv_SE">Adobe Device Central CS3</Value>
+      <Value lang="th_TH">Adobe Device Central CS3</Value>
+      <Value lang="tr_TR">Adobe Device Central CS3</Value>
+      <Value lang="uk_UA">Adobe Device Central CS3</Value>
+      <Value lang="vi_VN">Adobe Device Central CS3</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0">
+  <BuildInfo>
+    <Property name="Created">2007-02-19 21:55:23.101000</Property>
+    <Property name="TargetName">AdobePDFL8All</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{BC4E20A8-BE55-4482-8A1B-606080887D46}</Property>
+    <Property name="ProductName">Adobe PDF Library Files</Property>
+    <Property name="ProductVersion">8.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[AdobeCommon]/PDFL/8.0</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>AdobePDFL</ProductName>
+	<ProductVersion>8.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{92B4CBEB-A542-4ADB-9603-B48A3C6F5B7C}</AdobeCode>
+    <AdobeCode>{5A0575FF-5FAE-4D85-AF66-6F7B6D144A16}</AdobeCode>
+    <AdobeCode>{C110C24C-D3F6-47DD-9249-0F77767F70A9}</AdobeCode>
+    <AdobeCode>{C0C0AA45-C2CB-41DD-85E2-C00379AC2929}</AdobeCode>
+    <AdobeCode>{F5AE1663-5454-4115-AECE-518D85969CA7}</AdobeCode>
+    <AdobeCode>{ED29F492-8A2B-4E4B-9F71-3D84C589E596}</AdobeCode>
+    <AdobeCode>{AB481281-C4F4-4CB3-A13F-61DE6A3898DE}</AdobeCode>
+    <AdobeCode>{B8E94229-F0CD-4287-AACC-3D9E3DE2E0FB}</AdobeCode>
+    <AdobeCode>{9AA1531B-3F95-4369-BD69-6A4291E0551E}</AdobeCode>
+    <AdobeCode>{C8C275E7-9CF4-4CCF-80F4-FC1BFD1A69ED}</AdobeCode>
+    <AdobeCode>{A7A6378D-3714-4E1A-AF8D-F1BD461D7187}</AdobeCode>
+    <AdobeCode>{208B4EF8-332D-4913-8749-40D069ECF204}</AdobeCode>
+    <AdobeCode>{F633A117-C221-4187-9190-D349427B5897}</AdobeCode>
+    <AdobeCode>{D513CF08-3633-44AB-BBA8-1B4C1D9FD6A9}</AdobeCode>
+    <AdobeCode>{CF97C367-368B-47F9-B0B0-16B87CE3B5F0}</AdobeCode>
+    <AdobeCode>{5D56B118-DFC6-4EAA-9D24-8C5A06656D6C}</AdobeCode>
+    <AdobeCode>{4B1367C9-285F-4833-B3FA-8FC3A85F7AEB}</AdobeCode>
+  </Upgrades>
+  <InstallDestinationMetadata><Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>60328206</TotalSize>
+      <MaxPathComponent>/PDFL/8.0/Fonts\AdobeMyungjoStd-Medium.otf</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses/>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">8.0</Value>
+      <Value lang="ar_AE">8.0</Value>
+      <Value lang="be_BY">8.0</Value>
+      <Value lang="bg_BG">8.0</Value>
+      <Value lang="ca_ES">8.0</Value>
+      <Value lang="zh_CN">8.0</Value>
+      <Value lang="zh_TW">8.0</Value>
+      <Value lang="hr_HR">8.0</Value>
+      <Value lang="cs_CZ">8.0</Value>
+      <Value lang="da_DK">8.0</Value>
+      <Value lang="nl_NL">8.0</Value>
+      <Value lang="en_XC">8.0</Value>
+      <Value lang="en_XM">8.0</Value>
+      <Value lang="en_GB">8.0</Value>
+      <Value lang="en_US">8.0</Value>
+      <Value lang="et_EE">8.0</Value>
+      <Value lang="fi_FI">8.0</Value>
+      <Value lang="fr_FR">8.0</Value>
+      <Value lang="fr_XM">8.0</Value>
+      <Value lang="de_DE">8.0</Value>
+      <Value lang="el_GR">8.0</Value>
+      <Value lang="he_IL">8.0</Value>
+      <Value lang="hu_HU">8.0</Value>
+      <Value lang="hi_IN">8.0</Value>
+      <Value lang="is_IS">8.0</Value>
+      <Value lang="it_IT">8.0</Value>
+      <Value lang="ja_JP">8.0</Value>
+      <Value lang="ko_KR">8.0</Value>
+      <Value lang="lv_LV">8.0</Value>
+      <Value lang="lt_LT">8.0</Value>
+      <Value lang="mk_MK">8.0</Value>
+      <Value lang="nn_NO">8.0</Value>
+      <Value lang="no_NO">8.0</Value>
+      <Value lang="nb_NO">8.0</Value>
+      <Value lang="pl_PL">8.0</Value>
+      <Value lang="pt_BR">8.0</Value>
+      <Value lang="ro_RO">8.0</Value>
+      <Value lang="ru_RU">8.0</Value>
+      <Value lang="sh_YU">8.0</Value>
+      <Value lang="sk_SK">8.0</Value>
+      <Value lang="sl_SI">8.0</Value>
+      <Value lang="es_QM">8.0</Value>
+      <Value lang="es_ES">8.0</Value>
+      <Value lang="sv_SE">8.0</Value>
+      <Value lang="th_TH">8.0</Value>
+      <Value lang="tr_TR">8.0</Value>
+      <Value lang="uk_UA">8.0</Value>
+      <Value lang="vi_VN">8.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe PDF Library Files</Value>
+      <Value lang="ar_AE">Adobe PDF Library Files</Value>
+      <Value lang="be_BY">Adobe PDF Library Files</Value>
+      <Value lang="bg_BG">Adobe PDF Library Files</Value>
+      <Value lang="ca_ES">Adobe PDF Library Files</Value>
+      <Value lang="zh_CN">Adobe PDF Library Files</Value>
+      <Value lang="zh_TW">Adobe PDF Library Files</Value>
+      <Value lang="hr_HR">Adobe PDF Library Files</Value>
+      <Value lang="cs_CZ">Adobe PDF Library Files</Value>
+      <Value lang="da_DK">Adobe PDF Library Files</Value>
+      <Value lang="nl_NL">Adobe PDF Library Files</Value>
+      <Value lang="en_XC">Adobe PDF Library Files</Value>
+      <Value lang="en_XM">Adobe PDF Library Files</Value>
+      <Value lang="en_GB">Adobe PDF Library Files</Value>
+      <Value lang="en_US">Adobe PDF Library Files</Value>
+      <Value lang="et_EE">Adobe PDF Library Files</Value>
+      <Value lang="fi_FI">Adobe PDF Library Files</Value>
+      <Value lang="fr_FR">Adobe PDF Library Files</Value>
+      <Value lang="fr_XM">Adobe PDF Library Files</Value>
+      <Value lang="de_DE">Adobe PDF Library Files</Value>
+      <Value lang="el_GR">Adobe PDF Library Files</Value>
+      <Value lang="he_IL">Adobe PDF Library Files</Value>
+      <Value lang="hu_HU">Adobe PDF Library Files</Value>
+      <Value lang="hi_IN">Adobe PDF Library Files</Value>
+      <Value lang="is_IS">Adobe PDF Library Files</Value>
+      <Value lang="it_IT">Adobe PDF Library Files</Value>
+      <Value lang="ja_JP">Adobe PDF Library Files</Value>
+      <Value lang="ko_KR">Adobe PDF Library Files</Value>
+      <Value lang="lv_LV">Adobe PDF Library Files</Value>
+      <Value lang="lt_LT">Adobe PDF Library Files</Value>
+      <Value lang="mk_MK">Adobe PDF Library Files</Value>
+      <Value lang="nn_NO">Adobe PDF Library Files</Value>
+      <Value lang="no_NO">Adobe PDF Library Files</Value>
+      <Value lang="nb_NO">Adobe PDF Library Files</Value>
+      <Value lang="pl_PL">Adobe PDF Library Files</Value>
+      <Value lang="pt_BR">Adobe PDF Library Files</Value>
+      <Value lang="ro_RO">Adobe PDF Library Files</Value>
+      <Value lang="ru_RU">Adobe PDF Library Files</Value>
+      <Value lang="sh_YU">Adobe PDF Library Files</Value>
+      <Value lang="sk_SK">Adobe PDF Library Files</Value>
+      <Value lang="sl_SI">Adobe PDF Library Files</Value>
+      <Value lang="es_QM">Adobe PDF Library Files</Value>
+      <Value lang="es_ES">Adobe PDF Library Files</Value>
+      <Value lang="sv_SE">Adobe PDF Library Files</Value>
+      <Value lang="th_TH">Adobe PDF Library Files</Value>
+      <Value lang="tr_TR">Adobe PDF Library Files</Value>
+      <Value lang="uk_UA">Adobe PDF Library Files</Value>
+      <Value lang="vi_VN">Adobe PDF Library Files</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

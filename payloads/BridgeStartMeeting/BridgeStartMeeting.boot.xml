@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="0.0.121.0" md5="13a8c22eab60d0bd9636681529eca2ca"><BuildInfo>
+    <Property name="Created">2007-03-07 11:41:50.937000</Property>
+    <Property name="TargetName">BridgeStartMeeting</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="AdobeCode">{C9BE6782-B94E-4EA6-9208-CF92811B28E7}</Property>
+    <Property name="ProductName">Adobe Bridge Start Meeting</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+		<Family>Bridge</Family>
+		<ProductName>Start Meeting</ProductName>
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Bridge Start Meeting</Value>
+      <Value lang="ar_AE">Adobe Bridge Start Meeting</Value>
+      <Value lang="be_BY">Adobe Bridge Start Meeting</Value>
+      <Value lang="bg_BG">Adobe Bridge Start Meeting</Value>
+      <Value lang="ca_ES">Adobe Bridge Start Meeting</Value>
+      <Value lang="zh_CN">Adobe Bridge Start Meeting</Value>
+      <Value lang="zh_TW">Adobe Bridge Start Meeting</Value>
+      <Value lang="hr_HR">Adobe Bridge Start Meeting</Value>
+      <Value lang="cs_CZ">Adobe Bridge Start Meeting</Value>
+      <Value lang="da_DK">Adobe Bridge Start Meeting</Value>
+      <Value lang="nl_NL">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_XC">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_XM">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_GB">Adobe Bridge Start Meeting</Value>
+      <Value lang="en_US">Adobe Bridge Start Meeting</Value>
+      <Value lang="et_EE">Adobe Bridge Start Meeting</Value>
+      <Value lang="fi_FI">Adobe Bridge Start Meeting</Value>
+      <Value lang="fr_FR">Adobe Bridge Start Meeting</Value>
+      <Value lang="fr_XM">Adobe Bridge Start Meeting</Value>
+      <Value lang="de_DE">Adobe Bridge Start Meeting</Value>
+      <Value lang="el_GR">Adobe Bridge Start Meeting</Value>
+      <Value lang="he_IL">Adobe Bridge Start Meeting</Value>
+      <Value lang="hu_HU">Adobe Bridge Start Meeting</Value>
+      <Value lang="hi_IN">Adobe Bridge Start Meeting</Value>
+      <Value lang="is_IS">Adobe Bridge Start Meeting</Value>
+      <Value lang="it_IT">Adobe Bridge Start Meeting</Value>
+      <Value lang="ja_JP">Adobe Bridge Start Meeting</Value>
+      <Value lang="ko_KR">Adobe Bridge Start Meeting</Value>
+      <Value lang="lv_LV">Adobe Bridge Start Meeting</Value>
+      <Value lang="lt_LT">Adobe Bridge Start Meeting</Value>
+      <Value lang="mk_MK">Adobe Bridge Start Meeting</Value>
+      <Value lang="nn_NO">Adobe Bridge Start Meeting</Value>
+      <Value lang="no_NO">Adobe Bridge Start Meeting</Value>
+      <Value lang="nb_NO">Adobe Bridge Start Meeting</Value>
+      <Value lang="pl_PL">Adobe Bridge Start Meeting</Value>
+      <Value lang="pt_BR">Adobe Bridge Start Meeting</Value>
+      <Value lang="ro_RO">Adobe Bridge Start Meeting</Value>
+      <Value lang="ru_RU">Adobe Bridge Start Meeting</Value>
+      <Value lang="sh_YU">Adobe Bridge Start Meeting</Value>
+      <Value lang="sk_SK">Adobe Bridge Start Meeting</Value>
+      <Value lang="sl_SI">Adobe Bridge Start Meeting</Value>
+      <Value lang="es_QM">Adobe Bridge Start Meeting</Value>
+      <Value lang="es_ES">Adobe Bridge Start Meeting</Value>
+      <Value lang="sv_SE">Adobe Bridge Start Meeting</Value>
+      <Value lang="th_TH">Adobe Bridge Start Meeting</Value>
+      <Value lang="tr_TR">Adobe Bridge Start Meeting</Value>
+      <Value lang="uk_UA">Adobe Bridge Start Meeting</Value>
+      <Value lang="vi_VN">Adobe Bridge Start Meeting</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

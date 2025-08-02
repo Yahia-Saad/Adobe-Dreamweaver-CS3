@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Adobe Installer</title>
+		<link href="media/css/styles.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="media/css/alert.css" rel="stylesheet" type="text/css" media="all" />
+		<script language="JavaScript" src="common/scripts/ContainerProxy.js" type="text/javascript"></script>
+		<script language="JavaScript" src="common/scripts/utils.js" type="text/javascript"></script>
+		<script language="JavaScript" src="common/scripts/localization.js" type="text/javascript"></script>
+		<script language="JavaScript" type="text/javascript">
+			/** Body ID of bootstrapper body test */
+			var _k_bootstrapperBodyID = "bootstrapperBody";
+			/** DIV ID of main page container into which all other pages are inserted */
+			var _k_mainPageContainerID = "bootstrap";
+			/** DIV ID of progress bar for resource loading */
+			var _k_progressBarID = 'progressBarMid';
+			/** Has the page load already been called? */
+			var _gPageLoadCalled = null;
+			
+			/*
+			Initial logic to handle the bootstrapping/localization/and progress indicator of bootstrap 
+			if we need to do so.
+			Workflow:
+				- On startup, initialize the session
+				- Does Ahmbed need to be bootstrapped?  
+					- If so, bootstrap it here and handle the progress
+					- If not, forward execution to the Ahmbed application that's resident on the machine
+			*/
+			
+			var container = null;
+			var localizationStub = null;
+			var _g_pollIntervalName = null;
+			var gWorkflowStarted = false;
+			var standardAlerts = null;
+
+			function onWizardLoad()
+			{
+				setTimeout(onWizardLoadReal, 1);
+			}
+
+			function onWizardLoadReal()
+			{
+				if (gWorkflowStarted)
+					return;
+				container = new ContainerProxy();
+				var retVal = null;
+				try
+				{
+					if (!_gPageLoadCalled && container.UIHosted())
+ 					{		
+						gWorkflowStarted = true;
+						// Test for credentials and only try to install
+						// if we're good
+						var bootstrapperBody = document.getElementById(_k_bootstrapperBodyID);
+		
+						// Get the loading page size and set the window size to that
+						var pageContainer = document.getElementById(_k_mainPageContainerID);
+						if (pageContainer)
+						{
+							var defaultProperties = container.GetDefaultProperties();
+							var platformName = defaultProperties["platform"];
+							var xmlPath = _concatPaths([container.GetResourcesPath(), 'main.xml'], platformName);		
+	
+							localizationStub = new Localization(container, xmlPath, defaultProperties, false);
+							container.localization = localizationStub;  // so WizardAlert can grab the localization object.
+							if (localizationStub)
+								localizationStub.LocalizeDOM(bootstrapperBody);
+
+							// Create the pool we can fish standard alerts from.
+							standardAlerts = new StandardAlert(container, localizationStub);
+	
+							container.UISetCloseBoxEnabled(0);
+	
+							// Test for user credentials
+							var userCredentials = container.GetUserInfo();
+							var isValid = (null != userCredentials);
+							if (userCredentials && userCredentials.hasCredentials)
+								isValid = (1 == userCredentials.hasCredentials) ? true : false;
+	
+							if (!isValid)
+							{
+								container.UIExitDialog(standardAlerts.InvalidUserCredentials());
+								return;
+							}
+	
+							// Test for single instance
+							if (container.IsSetupLocked() || 
+								container.IsBootstrapperLocked() || 
+								!container.AcquireBootstrapperLock())
+							{
+								container.UIExitDialog(standardAlerts.SetupAlreadyRunning());
+							}
+	
+							// If we're ok, then start up
+							if (isValid)
+							{	
+								if (localizationStub)
+									container.UISetWindowTitle(localizationStub.GetString("locProductNameInstall", "[productName] Installer: [pageTitle]", { pageTitle: localizationStub.GetString("locInitializing", "Loading") }));
+								
+								container.UIResizeWindow(pageContainer.clientWidth, pageContainer.clientHeight);
+								pageContainer.style.visibility = 'visible';
+								container.UIShowWindow(1);	
+		
+								// Startup
+								retVal = container.InstallBootstrapper("install");
+								if (null == retVal || retVal.success != 1)
+								{
+									container.UIExitDialog();
+								}		
+								_g_pollIntervalName = setInterval('pollBootstrapStatus()', 250);
+								
+							}
+						}
+						else
+						{
+							throw "malformed bootstrapper UI";
+						}
+
+						// Either way the page was loaded
+						_gPageLoadCalled = true;
+					}
+				}
+				catch (error)
+				{
+					alert("Exception: " + error);
+					container.UIExitDialog();
+				}
+			}
+			
+			// DARK entry point
+			function onPublisherRegistered()
+			{
+				onWizardLoad();
+			}			
+
+			function pollBootstrapStatus()
+			{
+				var iCurrentProgressObj = container.GetInstallStatus();
+				iCurrentProgress = iCurrentProgressObj.percentComplete;
+				var progressBarNode = document.getElementById(_k_progressBarID);
+				var progressBarStyle = progressBarNode.style;
+				if (iCurrentProgress)
+				{
+					if (iCurrentProgress != 0)
+					{
+						var newWidth =  iCurrentProgress.toString() + "%";
+						progressBarStyle.width = newWidth;
+						progressBarNode.alt = newWidth;
+					}
+
+					if (iCurrentProgressObj.isRunning &&
+						iCurrentProgressObj.isRunning != 1 &&
+						iCurrentProgress >= 100)
+					{	
+						container.UISetCloseBoxEnabled(1);
+						clearInterval(_g_pollIntervalName);
+						
+						container.LogError(iCurrentProgressObj);
+
+						var newWidth =  "100%"
+						progressBarStyle.width = newWidth;
+						progressBarNode.alt = newWidth;
+						// If there is an error we need to reformulate the bootstrapper object
+						// to display the error and then exit
+						if (iCurrentProgressObj.message &&
+							iCurrentProgressObj.message.code &&
+							(0!=iCurrentProgressObj.message.code))
+						{
+							container.LogError("Bootstrapper failed to install");
+							container.LogError(iCurrentProgressObj);
+							if (standardAlerts)
+							{
+								container.UIExitDialog(standardAlerts.BootstrapInstallFailure(iCurrentProgressObj.message.code, iCurrentProgressObj.message.args));
+							}
+						}
+						else
+						{
+							// We only want to auto exit if there wasn't an error, since otherwise
+							// we're going to force the user to dismiss the dialog
+							container.UIExitDialog();
+						}
+					}	
+				}					
+			}
+		</script>
+	</head>
+	<body onload="onWizardLoad()" id="bootstrapperBody">
+		<form id="bootstrapForm" method="post" action="" onsubmit="return false;">
+			<div id="content" class="content">
+			<div id="bootstrap" class="progress">
+				<p id="progressBar"><img id="progressBarLeft" src="media/img/progbarLeft_on.png" alt="" /><img id="progressBarMid" src="media/img/progbar_on.png" alt="0%" style="width: 0%" /></p>
+				<p id="main_pageSubTitle" locid="main_pageSubTitle">Initializing Adobe Setup...</p>
+			</div>
+			</div>
+		</form>
+	</body>
+</html>

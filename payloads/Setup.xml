@@ -1,0 +1,26 @@
+<Setup version="1.0.134.0">
+  <Driver folder="AdobeDreamweaver9en_US" />
+  <Media>
+    <Volume>
+      <Name>Adobe Dreamweaver CS3</Name>
+      <Payloads>
+        <Payload folder="AdobeDreamweaver9en_US">Adobe CS3</Payload>
+        <Payload folder="AdobeALMAnchorServiceAll">Adobe CS3</Payload>
+        <Payload folder="AdobeAssetServices3All">Adobe CS3</Payload>
+        <Payload folder="AdobeAUM5.1All">Adobe CS3</Payload>
+        <Payload folder="AdobeBridge2All">Adobe CS3</Payload>
+        <Payload folder="AdobeCameraRaw4.0All">Adobe CS3</Payload>
+        <Payload folder="AdobeCMapsAll">Adobe CS3</Payload>
+        <Payload folder="AdobeDeviceCentralAll">Adobe CS3</Payload>
+        <Payload folder="AdobeDefaultLanguageCS3All">Adobe CS3</Payload>
+        <Payload folder="AdobeExtendScriptToolKitAll">Adobe CS3</Payload>
+        <Payload folder="AdobeExtensionManager1.8All">Adobe CS3</Payload>
+        <Payload folder="AdobeHelpViewerAll">Adobe CS3</Payload>
+        <Payload folder="AdobePDFL8All">Adobe CS3</Payload>
+        <Payload folder="AdobeTypeSupportAll">Adobe CS3</Payload>
+        <Payload folder="AdobeVersionCueClient3All">Adobe CS3</Payload>
+        <Payload folder="BridgeStartMeeting">Adobe CS3</Payload>
+    </Payloads>
+    </Volume>
+  </Media>
+</Setup>
